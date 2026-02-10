@@ -1,0 +1,417 @@
+﻿KEY,en,notes,sp,fr,de,it,pt-br
+CURRENT_LANGUAGE_NAME,English,"put ""espanol"" in the spanish column, ""francois"" in the french one, etc. Limited text box space so abbreviate if necessary",Español,Français,Deutsch,Italiano,Português (Brasil)
+CURRENT_LANGUAGE_SHIPPABLE,yes,"put ""yes"" if the language is shippable and ""no"" if its not ready yet. this is not displayed, just used to determine if the language should show in the UI selector",yes,yes,yes,yes,yes
+,,,,,,,
+SONG_UNLOCK_CREDITS_1,"""Get in the Cage"" is now in the radio playlist!",,¡Se ha añadido «Get in the Cage» a la lista de la radio!,«&nbsp;L'entrée en cage&nbsp;» est dispo dans la liste de lecture radio&nbsp;!,„Get in the Cage“ kann jetzt im Radio laufen!,"""Get in the Cage"" è ora nella playlist della radio!","""Get in the Cage"" foi adicionada à lista de reprodução de rádio!"
+SONG_UNLOCK_CREDITS_2,"""Future Meets the Past"" is now in the radio playlist!",,¡Se ha añadido «Future Meets the Past» a la lista de la radio!,«&nbsp;Le futur face au passé&nbsp;» est dispo dans la liste de lecture radio&nbsp;!,„Future Meets the Past“ kann jetzt im Radio laufen!,"""Future Meets the Past"" è ora nella playlist della radio!","""Future Meets the Past"" foi adicionada à lista de reprodução de rádio!"
+,,,,,,,
+,,,,,,,
+CONTROL_BINDING_UNKNOWN,Unknown,,Desconocido,Inconnu,Unbekannt,Sconosciuto,Desconhecido
+CONTROL_BINDING_ANY,Any Button,,Cualquier botón,N'importe quelle touche,Beliebige Taste,Qualsiasi pulsante,Qualquer botão
+CONTROL_BINDING_LEFTCLICK,Left Click,,Clic izquierdo,Clic gauche,Linksklick,Clic sinistro,Botão esquerdo do mouse
+CONTROL_BINDING_RIGHTCLICK,Right Click,,Clic derecho,Clic droit,Rechtsklick,Clic destro,Botão direito do mouse
+CONTROL_BINDING_MIDDLECLICK,Middle Click,,Clic central,Clic molette,Mittlere Maustaste,Clic centrale,Botão do meio do mouse
+CONTROL_BINDING_MOUSE4,Mouse 4,,Ratón 4,Clic&nbsp;4,Maus 4,Mouse 4,Mouse 4
+CONTROL_BINDING_MOUSE5,Mouse 5,,Ratón 5,Clic&nbsp;5,Maus 5,Mouse 5,Mouse 5
+CONTROL_BINDING_MOUSEX,Mouse,,Ratón,Souris,Maus,Mouse,Mouse
+CONTROL_BINDING_MOUSEY,Mouse,,Ratón,Souris,Maus,Mouse,Mouse
+CONTROL_BINDING_MOUSEWHEELX,Mouse Wheel,,Rueda del ratón,Molette,Mausrad,Rotellina del mouse,Roda do mouse
+CONTROL_BINDING_MOUSEWHEELY,Mouse Wheel,,Rueda del ratón,Molette,Mausrad,Rotellina del mouse,Roda do mouse
+CONTROL_BINDING_NONE,,purposely empty,,,,,
+,,,,,,,
+ENEMY_FATWOMAN_DESC,"Melee attacker with Knockback.
+Reflects projectiles. Units that contact it get knocked back.
+Trample.",,"Atacante cuerpo a cuerpo con retroceso.
+Devuelve los proyectiles. Las unidades que entran en contacto retroceden.
+Pisotón.","Attaque au corps à corps avec Recul.
+Renvoie les projectiles. Les unités qui le touchent sont repoussées.
+Piétinement.","Nahkämpferin mit Rückstoß.
+Reflektiert Geschosse. Einheiten, die sie berühren, werden zurückgestoßen.
+Trampel.","Attaccante corpo a corpo con Contraccolpo.
+Riflette i proiettili. Le unità che la colpiscono vengono respinte indietro.
+Calpestamento.","Agressor corpo-a-corpo com empurrão
+Reflete projéteis. Unidades que atacam ou entram em contato são empurradas.
+Atropelamento."
+EABILITY_BIRTH_NAME,Birth,,Nacimiento,Naissance,Gebären,Nascita,Nascimento
+,,,,,,,
+SPECIAL_STRAY_BUNNY,Bunny,,Conejito,Lapin,Hase,Coniglietto,Coelho
+SPECIAL_STRAY_BEAVER,Beaver,,Castor,Castor,Biber,Castoro,Castor
+SPECIAL_STRAY_PIG,Pig,,Cerdo,Cochon,Schwein,Maiale,Porco
+SPECIAL_STRAY_DOG,Dog,,Perro,Chien,Hund,Cane,Cachorro
+SPECIAL_STRAY_SKUNK,Skunk,,Mofeta,Mouffette,Stinktier,Puzzola,Gambá
+SPECIAL_STRAY_PORCUPINE,Porcupine,,Puercoespín,Porc-épic,Stacheltier,Porcospino,Porco-Espinho
+SPECIAL_STRAY_ISAAC,Isaac,,Isaac,Isaac,Isaac,Isaac,Isaac
+SPECIAL_STRAY_EDMUND,Edmund,,Edmund,Edmund,Edmund,Edmund,Edmund
+SPECIAL_STRAY_TYLER,Tyler,,Tyler,Tyler,Tyler,Tyler,Tyler
+SPECIAL_STRAY_FIJIMERMAID,Fiji Mermaid,,Sirena de Fiyi,Sirène des Fidji,Fidschi-Meerjungfrau,Sirena delle Fiji,Sereia de Fiji
+SPECIAL_STRAY_JERSEYDEVIL,Jersey Devil,,Demonio de Jersey,Diable du Jersey,Jersey Devil,Diavolo del Jersey,Demônio de Jersey
+SPECIAL_STRAY_SONICHU,Sonichu,,Sonichu,Sonichu,Sonichu,Sonichu,Sonichu
+SPECIAL_STRAY_BIGFOOT,Bigfoot,,Bigfoot,Bigfoot,Bigfoot,Bigfoot,Pé-Grande
+SPECIAL_STRAY_NESSIE,Nessie,,Nessie,Nessie,Nessie,Nessie,Nessie
+SPECIAL_STRAY_GREY,Grey,,Grey,Gris,Grauer,Grigio,Cinza
+SPECIAL_STRAY_MOTHMAN,Mothman,,Mothman,Homme-papillon,Mothman,Uomo Falena,Homem-Mariposa
+SPECIAL_STRAY_SLENDERMAN,Slenderman,,Slenderman,Slenderman,Slenderman,Slenderman,Slenderman
+,,,,,,,
+PAUSE_MENU_HEADER,Paused,,Pausa,Pause,Pause,In pausa,Pausado
+PAUSE_MENU_BUTTON_RESUME,Resume,,Reanudar,Reprendre,Weiter,Riprendi,Continuar
+PAUSE_MENU_BUTTON_SETTINGS,Settings,,Ajustes,Réglages,Einstellungen,Impostazioni,Configurações
+PAUSE_MENU_BUTTON_QUITTOMENU,Save and Quit to Menu,,Guardar y salir al menú,Sauvegarder et retourner au menu,Speichern und zurück zum Menü,Salva ed esci al menu,Salvar e sair para o menu
+PAUSE_MENU_BUTTON_QUITTODESKTOP,Save and Quit to Desktop,,Guardar y salir al escritorio,Sauvegarder et quitter le jeu,Speichern und beenden,Salva ed esci al desktop,Salvar e sair para a área de trabalho
+PAUSE_MENU_BUTTON_ABANDONRUN,Abandon Adventure,,Abandonar aventura,Abandonner l'aventure,Abenteuer abbrechen,Abbandona avventura,Abandonar aventura
+PAUSE_MENU_BUTTON_ABANDONFIGHT,Concede Fight,,Rendirse,Déclarer forfait,Kampf aufgeben,Rinuncia al combattimento,Desistir da luta
+PAUSE_MENU_BUTTON_SKIPTUTORIAL,Skip Tutorial,,Omitir tutorial,Passer le didacticiel,Tutorial überspringen,Salta il tutorial,Pular tutorial
+PAUSE_MENU_BUTTON_BACK,Back,,Atrás,Retour,Zurück,Indietro,Voltar
+PAUSE_MENU_BUTTON_GAMESETTINGS,Game Settings,,Ajustes de juego,Réglages du jeu,Gameplay,Impostazioni di gioco,Jogabilidade
+PAUSE_MENU_BUTTON_VIDEOSETTINGS,Video Settings,,Ajustes de vídeo,Réglages vidéo,Video,Impostazioni video,Vídeo
+PAUSE_MENU_BUTTON_AUDIOSETTINGS,Audio Settings,,Ajustes de sonido,Réglages audio,Audio,Impostazioni audio,Áudio
+PAUSE_MENU_BUTTON_CONTROLS,Controls,,Controles,Commandes,Steuerung,Controlli,Controles
+SETTINGS_MENU_HEADER,Settings,,Ajustes,Réglages,Einstellungen,Impostazioni,Configurações
+SETTINGS_GAME_HEADER,Game Settings,,Ajustes de juego,Réglages du jeu,Gameplay,Impostazioni di gioco,Jogabilidade
+SETTINGS_LANGUAGE_LABEL,Language,,Idioma,Langue,Sprache,Lingua,Idioma
+SETTINGS_HUMPING_LABEL,Humping Animations,,Animaciones de ñiqui ñiqui,Animations de coït,Paarungsanimation,Animazioni di accoppiamento,Animações impróprias
+SETTINGS_HUMPING_OPT_NORMAL,Normal,,Normales,Normales,Normal,Normali,Normal
+SETTINGS_HUMPING_OPT_SAFE,Safe,,Caja fuerte,Tout public,Kinderfreundlich,Sicure,Seguro
+SETTINGS_HUMPING_OPT_RANDOM,Random,,Al azar,Aléatoires,Zufall,Casuali,Aleatório
+SETTINGS_AUTOSELECT_LABEL,Autoselect Basic Actions,,Autoseleccionar acciones básicas,Autosélection des actions de base,Grundaktionen automatisch auswählen,Selezione automatica azioni di base,Selecionar ações básicas automaticamente
+SETTINGS_DOUBLECLICK_LABEL,Targeting Empty Tiles Requires Double Click,,Es necesario hacer doble clic para marcar casillas vacías,Double-clic pour cibler une case vide,Anvisieren leerer Felder erfordert Doppelklick,Per selezionare caselle vuote è necessario un doppio clic,Mirar em espaços vazios requer clique duplo
+SETTINGS_DOUBLECLICK_LABEL_GAMEPAD,Targeting Empty Tiles Requires Double Press,,Es necesario presionar dos veces para marcar casillas vacías,Double appui pour cibler une case vide,Anvisieren leerer Felder erfordert doppelten Tastendruck,Per selezionare caselle vuote è necessario una doppia pressione,Mirar em espaços vazios requer pressionar duas vezes
+SETTINGS_MAXSTATUSES_LABEL,Max Statuses Shown Before Collapse,,Se muestran los estados al máximo antes de derrumbarse,Statuts max. affichés avant réduction,Max. Anzahl Statuseffekte vor Verkleinerung,Numero massimo di stati visualizzati prima della chiusura,Mostrar atributos máximos antes de colapsar
+SETTINGS_MAXSTATUSES_OPT_0,Hover Only,,Solo pasar el ratón,Survol uniquement,Nur bei Hover,Solo al passaggio del cursore,Apenas passar
+SETTINGS_COLLAPSEELITEBUFFS_LABEL,Collapse Multiple Elite Buffs,,Ventajas de derrumbe de varias unidades de élite,Réduire les bonus d'élite des boss,Mehrere Elitestärkungen zusammenfassen,Chiudi bonus élite multipli,Colapsar múltiplos reforços de elite
+SETTINGS_COMBATSPEED_LABEL,Combat Speed,,Velocidad de combate,Vitesse de combat,Kampfgeschwindigkeit,Velocità di combattimento,Velocidade do combate
+SETTINGS_TOOLTIPSIZE_LABEL,Tooltip Size,,Tamaño de información,Taille des infobulles,Größe von Tooltipps,Dimensione suggerimenti,Tamanho das dicas
+SETTINGS_STATUSBARSIZE_LABEL,Status Bar Size,,Tamaño de barra de estado,Taille de la barre de statut,Größe der Statusleiste,Dimensione barra di stato,Tamanho da barra de estado
+SETTINGS_SAVEFILEBACKUP_LABEL,Save File Backup Period,,Intervalo de guardado de archivos,Fréquence des sauvegardes auto.,Backupfrequenz von Speicherständen,Frequenza backup dei salvataggi,Frequência de backup de salvamentos
+SETTINGS_SAVEFILEBACKUP_OPT_15,15 min,,15 min,15&nbsp;min,15 Min.,15 min,15 min
+SETTINGS_SAVEFILEBACKUP_OPT_30,30 min,,30 min,30&nbsp;min,30 Min.,30 min,30 min
+SETTINGS_SAVEFILEBACKUP_OPT_60,1 hr,,1 h,1&nbsp;h,1 Std.,1 ora,1 h
+SETTINGS_SAVEFILEBACKUP_OPT_120,2 hr,,2 h,2&nbsp;h,2 Std.,2 ore,2 h
+SETTINGS_SAVEFILEBACKUP_OPT_0,Never,,Nunca,Jamais,Nie,Mai,Nunca
+SETTINGS_VIDEO_HEADER,Video Settings,,Ajustes de vídeo,Réglages vidéo,Video,Impostazioni video,Vídeo
+SETTINGS_FULLSCREEN_LABEL,Fullscreen,,Pantalla completa,Plein écran,Vollbild,Schermo intero,Tela cheia
+SETTINGS_ANTIALIAS_LABEL,Antialias (MSAA),,Antialiasing (MSAA),Anticrénelage (MSAA),Antialiasing (MSAA),Antialias (MSAA),Antialiasing (MSAA)
+SETTINGS_ANTIALIAS_OPT_0,Off,,No,Désactivé,Aus,Disattivato,Não
+SETTINGS_VSYNC_LABEL,VSync,,Sinc. vertical,Synchronisation verticale,VSync,V-Sync,VSync
+SETTINGS_RENDERSCALE_LABEL,Render Scale,,Escala de renderizado,Échelle de rendu,Render-Skalierung,Scala di rendering,Escala de renderização
+SETTINGS_VIGNETTE_LABEL,Vignette Flicker,,Parpadeo de viñeta,Effet de vignette clignotant,Vignette-Flimmern,Sfarfallio della vignettatura,Tremor de vinheta
+SETTINGS_VIGNETTE_OPT_NORMAL,Normal,,Normales,Normal,Normal,Normale,Normal
+SETTINGS_VIGNETTE_OPT_LOW,Low,,Bajo,Faible,Niedrig,Basso,Baixo
+SETTINGS_VIGNETTE_OPT_NONE,None,,Nada,Aucun,Aus,Nessuno,Nenhum
+SETTINGS_NOISEGRAIN_LABEL,Noise & Grain,,Ruido y granulado,Effets de bruit et de grain,Rauschen & Körnung,Rumore e grana,Interferência e granulação
+SETTINGS_NOISEGRAIN_OPT_NORMAL,Normal,,Normales,Normal,Normal,Normale,Normal
+SETTINGS_NOISEGRAIN_OPT_MEDIUM,No Hair,,Sin pelo,Pas de cheveux,Keine Haare,Niente peli,Sem pelos
+SETTINGS_NOISEGRAIN_OPT_LOW,No Dust,,Sin polvo,Pas de poussière,Keine Staubkörner,Niente polvere,Sem poeira
+SETTINGS_NOISEGRAIN_OPT_NONE,None,,Nada,Aucun,Aus,Nessuno,Nenhum
+SETTINGS_CURSORMODE_LABEL,Cursor Mode,,Modo de cursor,Mode curseur,Mauszeigermodus,Modalità cursore,Modo de cursor
+SETTINGS_CURSORMODE_OPT_INGAME,In Game,,Juego,En jeu,Spiel,Di gioco,Jogo
+SETTINGS_CURSORMODE_OPT_DEVICE,Device,,Dispositivo,Appareil,Gerät,Del dispositivo,Dispositivo
+SETTINGS_AUDIO_HEADER,Audio Settings,,Ajustes de sonido,Réglages audio,Audio,Impostazioni audio,Áudio
+SETTINGS_MASTERVOLUME,Master Volume,,Volumen principal,Volume principal,Gesamtlautstärke,Volume principale,Volume principal
+SETTINGS_MUSICVOLUME,Music Volume,,Volumen de música,Volume de la musique,Musik,Volume musica,Volume da música
+SETTINGS_SFXVOLUME,SFX Volume,,Volumen de efectos,Volume des effets sonores,Soundeffekte,Volume effetti sonori,Volume de efeitos
+SETTINGS_MEOWVOLUME,Meow Volume,,Volumen de maullidos,Volume des miaulements,Miauen,Volume miagolii,Volume de miados
+SETTINGS_HOUSEMEOWVOLUME,Meow Volume (House),,Volumen de maullidos (casa),Volume des miaulements (maison),Miauen (im Haus),Volume miagolii (in casa),Volume de miados (casa)
+SETTINGS_KEYCONTROLS_HEADER,Keyboard Controls,,Controles de teclado,Commandes au clavier,Tastatur,Controlli tastiera,Teclado
+SETTINGS_PADCONTROLS_HEADER,Gamepad Controls,,Controles de mando,Commandes à la manette,Gamepad,Controlli gamepad,Controle
+SETTINGS_CONTROLS_GENERAL_COLUMNHEADER,General,,General,En général,Allgemein,Generale,Geral
+SETTINGS_CONTROLS_HOTKEYS_COLUMNHEADER,Combat Hotkeys,,Atajos de combate,En combat,Kampf,Tasti di scelta rapida combattimento,Teclas rápidas de combate
+SETTINGS_CONTROLS_ACTIONS_COLUMNHEADER,Actions,,Acciones,Actions,Aktionen,Azioni,Ações
+SETTINGS_CONTROLS_RESET,Reset Defaults,,Restaurar por defecto,Par défaut,Zurücksetzen,Ripristina predefiniti,Restaurar padrões
+SETTINGS_CONTROLBINDING_SELECT,Select,,Seleccionar,Sélectionner,Auswählen,Seleziona,Selecionar
+SETTINGS_CONTROLBINDING_EXAMINE,Examine,,Examinar,Examiner,Untersuchen,Esamina,Examinar
+SETTINGS_CONTROLBINDING_TACTIVALVIEW,Tactical View,,Vista táctica,Vue tactique,Taktische Ansicht,Visuale tattica,Visão tática
+SETTINGS_CONTROLBINDING_CANCEL,Cancel,,Cancelar,Annuler,Abbrechen,Annulla,Cancelar
+SETTINGS_CONTROLBINDING_PAUSE,Pause,,Pausa,Mettre en pause,Pause,Pausa,Pausar
+SETTINGS_CONTROLBINDING_ZOOMIN,Zoom In,,Acercar,Zoomer,Hereinzoomen,Zoom avanti,Aproximar
+SETTINGS_CONTROLBINDING_ZOOMOUT,Zoom Out,,Alejar,Dézoomer,Herauszoomen,Zoom indietro,Afastar
+SETTINGS_CONTROLBINDING_FLIPFURNITURE,Flip Furniture,,Girar menaje,Tourner les meubles,Möbel spiegeln,Capovolgi mobili,Virar móveis
+SETTINGS_CONTROLBINDING_SKIPCUTSCENE,Skip Cutscene,,Omitir cinemática,Passer la cinématique,Zwischensequenz überspringen,Salta filmati,Pular cena
+SETTINGS_CONTROLBINDING_HOTKEYMOVE,Move,,Movimiento,Se déplacer,Bewegen,Sposta,Mover
+SETTINGS_CONTROLBINDING_HOTKEYWEAPON,Weapon,,Arma,Armes,Waffe,Arma,Arma
+SETTINGS_CONTROLBINDING_HOTKEYTRINKET,Trinket,,Baratija,Babioles,Zubehör,Ciondolo,Acessório
+SETTINGS_CONTROLBINDING_HOTKEYBASICATTACK,Basic Attack,,Ataque básico,Attaque de base,Grundangriff,Attacco base,Ataque básico
+SETTINGS_CONTROLBINDING_HOTKEYSPELL1,Spell 1,,Hechizo 1,Sort&nbsp;1,Zauber 1,Incantesimo 1,Encantamento 1
+SETTINGS_CONTROLBINDING_HOTKEYSPELL2,Spell 2,,Hechizo 2,Sort&nbsp;2,Zauber 2,Incantesimo 2,Encantamento 2
+SETTINGS_CONTROLBINDING_HOTKEYSPELL3,Spell 3,,Hechizo 3,Sort&nbsp;3,Zauber 3,Incantesimo 3,Encantamento 3
+SETTINGS_CONTROLBINDING_HOTKEYSPELL4,Spell 4,,Hechizo 4,Sort&nbsp;4,Zauber 4,Incantesimo 4,Encantamento 4
+SETTINGS_CONTROLBINDING_HOTKEYSPELL5,Spell 5,,Hechizo 5,Sort&nbsp;5,Zauber 5,Incantesimo 5,Encantamento 5
+SETTINGS_CONTROLBINDING_HOTKEYENDTURN,End Turn,,Terminar turno,Fin du tour,Zug beenden,Fine del turno,Finalizar turno
+SETTINGS_CONTROLBINDING_CURSOR,Cursor,,Cursor,Curseur,Mauszeiger,Cursore,Cursor
+SETTINGS_CONTROLBINDING_NAVLEFT,Nav Left,,Mover izq.,Nav. à gauche,Nach links,Naviga a sinistra,Nav. esq
+SETTINGS_CONTROLBINDING_NAVRIGHT,Nav Right,,Mover dch.,Nav. à droite,Nach rechts,Naviga a destra,Nav. dir
+SETTINGS_CONTROLBINDING_NAVUP,Nav Up,,Mover arriba,Nav en haut,Nach oben,Naviga su,Nav. cima
+SETTINGS_CONTROLBINDING_NAVDOWN,Nav Down,,Mover abajo,Nav. en bas,Nach unten,Naviga giù,Nav. baixo
+SETTINGS_CONTROLBINDING_NAVFORWARD,Nav Forward,,Adelante,Nav. en avant,Nach vorn,Naviga in avanti,Nav. frente
+SETTINGS_CONTROLBINDING_NAVBACKWARD,Nav Backward,,Atrás,Nav. en arrière,Zurück,Naviga indietro,Nav. trás
+SETTINGS_CONTROLBINDING_INVENTORY,Inventory,,Inventario,Inventaire,Inventar,Inventario,Inventário
+SETTINGS_CONTROLBINDING_PIPE,Pipe Shortcut,,Atajo de tubería,Raccourci tuyau,Kürzel: Rohr,Scorciatoia tubo,Atalho de cano
+SETTINGS_CONTROLBINDING_BOX,Box Shortcut,,Atajo de caja,Raccourci boîte,Kürzel: Box,Scorciatoia scatola,Atalho de caixa
+SETTINGS_CONTROLBINDING_CAMERA,Camera,,Cámara,Caméra,Kamera,Telecamera,Câmera
+,,,,,,,
+MAIN_MENU_PLAY,Play,,Jugar,Jouer,Spielen,Gioca,Jogar
+MAIN_MENU_SETTINGS,Settings,,Ajustes,Réglages,Einstellungen,Impostazioni,Configurações
+MAIN_MENU_QUIT,Quit,,Salir,Quitter,Beenden,Esci,Sair
+MAIN_MENU_CREDITS,Credits,,Créditos,Générique,Mitarbeitende,Riconoscimenti,Créditos
+MAIN_MENU_COMMUNITY_DISCORD,Community Discord,,Discord de la comunidad,Communauté Discord,Community Discord,Discord della community,Discord
+MAIN_MENU_MEOW,Meow,,Maullido,Miauler,Miau,Miao,Miau
+MAIN_MENU_DELETEFILE,Terminate,,Borrar,Exterminer,Terminieren,Termina,Apagar
+MAIN_MENU_DELETECONFIRMATION,"Are you sure you want to erase
+save file {savefilenumber}?",,¿Seguro que quieres borrar el archivo de guardado {savefilenumber}?,Supprimer la sauvegarde {savefilenumber}&nbsp;?,Speicherstand&nbsp;{savefilenumber} wirklich löschen?,"Vuoi davvero cancellare
+il file di salvataggio {savefilenumber}?","Tem certeza de que deseja
+apagar o arquivo {savefilenumber}?"
+SAVE_FILE_COMPLETION_PERCENT,{percent}% Complete,,{percent} % completado,Progression&nbsp;: {percent}&nbsp;%,{percent}&nbsp;% Fortschritt,Completamento: {percent}%,{percent}% concluído
+,,,,,,,
+POPUP_TRY_ABANDON_RUN,"Are you sure you want to abandon this adventure? You will lose the cats, items, food, money, and furniture you found.",,"¿Seguro que quieres abandonar esta aventura? Perderás los gatos, los objetos, la comida, el dinero y el menaje que hayas encontrado.","Voulez-vous vraiment abandonner cette aventure&nbsp;? Vous perdrez vos chats, objets, nourriture, argent, meubles.","Willst du dein Abenteuer wirklich abbrechen? Du verlierst sämtliche Katzen, Gegenstände, Futter, Geld und Möbel, die du gefunden hast.","Vuoi davvero abbandonare quest'avventura? Perderai i gatti, gli oggetti, il cibo, i soldi e i mobili che hai trovato.","Tem certeza de que deseja abandonar esta aventura? Você perderá gatos, itens, comida, dinheiro e móveis que encontrou."
+POPUP_TRY_ABANDON_HOUSEBOSS,Are you sure you want to concede this fight? You will lose the cats participating in the fight.,,¿Seguro que quieres rendirte? Perderás los gatos que participen en la pelea.,Voulez-vous vraiment déclarer forfait&nbsp;? Vous perdrez les chats participant au combat.,"Willst du den Kampf wirklich aufgeben? Du verlierst sämtliche Katzen, die an dem Kampf teilgenommen haben.",Vuoi davvero rinunciare a questo combattimento? Perderai i gatti che partecipano al combattimento.,Tem certeza de que deseja desistir desta luta? Você perderá os gatos que estão lutando.
+POPUP_TRY_SKIP_TUTORIAL,Are you sure you want to skip the tutorial?,,¿Seguro que quieres saltarte el tutorial?,Voulez-vous vraiment passer le didacticiel&nbsp;?,Willst du das Tutorial wirklich überspringen?,Vuoi davvero saltare il tutorial?,Tem certeza de que deseja pular o tutorial?
+POPUP_TRY_SAVESCUM_BATTLE,Are you sure you want to quit mid-fight? You will have to redo the fight,,¿Seguro que quieres abandonar a mitad del combate? Tendrás que empezarlo desde el principio.,Voulez-vous vraiment quitter en plein combat&nbsp;? Vous devrez rejouer le combat depuis le début,Willst du wirklich mitten im Kampf aufhören? Der Kampf beginnt beim nächsten Mal von vorn,Vuoi davvero abbandonare il combattimento a metà? Dovrai ripetere il combattimento,Tem certeza de que deseja sair no meio da luta? Você precisará refazê-la.
+POPUP_TRY_SAVESCUM_HOUSEBOSS,Are you sure you want to quit mid-fight? You will have to redo the fight,,¿Seguro que quieres abandonar a mitad del combate? Tendrás que empezarlo desde el principio.,Voulez-vous vraiment quitter en plein combat&nbsp;? Vous devrez rejouer le combat depuis le début,Willst du wirklich mitten im Kampf aufhören? Der Kampf beginnt beim nächsten Mal von vorn,Vuoi davvero abbandonare il combattimento a metà? Dovrai ripetere il combattimento,Tem certeza de que deseja sair no meio da luta? Você precisará refazê-la.
+POPUP_TRY_SAVESCUM_EVENT,Are you sure you want to quit mid-event? You will have to redo the event,,¿Seguro que quieres abandonar a mitad del evento? Tendrás que empezarlo desde el principio.,Voulez-vous vraiment quitter au milieu d'un événement&nbsp;? Vous devrez rejouer l'événement depuis le début,Willst du wirklich mitten im Ereignis aufhören? Das Ereignis beginnt beim nächsten Mal von vorn,Vuoi davvero abbandonare l'evento a metà? Dovrai ripetere l'evento,Tem certeza de que deseja sair no meio do evento? Você precisará refazê-lo.
+POPUP_TRY_SAVESCUM_WARNING_1,", and Steven will give you a warning when you return.","these get stapled on after the ""are you sure you want to quit mid fight string""",¡Y Steven te mostrará una advertencia cuando vuelvas!,", et Steven vous donnera un avertissement à votre retour."," und Steven wird böse sein, wenn du zurückkehrst.", e Steven ti infliggerà un'ammonizione al tuo ritorno., e Steven vai chamar sua atenção quando você voltar.
+POPUP_TRY_SAVESCUM_WARNING_2,", and Steven will give you a [c:red]punishment[/c] when you return.",,¡Y Steven te [c:red]castigará[/c] cuando vuelvas!,", et Steven vous [c:red]punira[/c] à votre retour."," und Steven wird dich [c:red]bestrafen[/c], wenn du zurückkehrst.", e Steven ti infliggerà una [c:red]punizione[/c] al tuo ritorno., e Steven vai te dar uma [c:red]punição[/c] quando você voltar.
+POPUP_TRY_SAVESCUM_COUNT,(You have save scummed 1 time already on this adventure),,(Ya has hecho trampas 1 vez en esta aventura).,(Vous avez déjà bidouillé votre sauvegarde 1&nbsp;fois durant cette aventure.),(Du hast während dieses Abenteuers bereits einmal betrogen),(Hai già effettuato salvataggi a ripetizione una volta in quest'avventura),(Você já recarregou 1 vez nesta aventura)
+POPUP_TRY_SAVESCUM_COUNT_PLURAL,(You have save scummed {count} times already on this adventure),,(Ya has hecho trampas {count} veces en esta aventura).,(Vous avez déjà bidouillé votre sauvegarde {count} fois durant cette aventure.),(Du hast während dieses Abenteuers bereits {count}-mal betrogen),(Hai già effettuato salvataggi a ripetizione {count} volte in quest'avventura),(Você já recarregou {count} vezes nesta aventura)
+,,,,,,,
+ABILITY_EXPLOSIVESHOT_NAME,Explosive Shot,,Tiro explosivo,Tir explosif,Explosivschuss,Colpo Esplosivo,Disparo Explosivo
+ABILITY_EXPLOSIVESHOT_DESC,Lob a puke projectile that does splash damage to neighboring units.,,Lanza un proyectil de vómito que inflige daño por metralla a las unidades cercanas.,Lance un projectile de vomi qui inflige des dégâts de zone aux unités adjacentes.,"Ein Kotzgeschoss, das Hindernisse ignoriert und bei benachbarten Einheiten Flächenschaden verursacht.",Spari un proiettile di vomito che infligge danno ad area alle unità vicine.,Lance um projétil de vômito em arco que causa dano em área em unidades vizinhas.
+EABILITY_DOUBLEHIT_NAME,Double Hit,,Doble golpe,Coup double,Doppelschlag,Colpo Doppio,Golpe Duplo
+EABILITY_DOUBLEHIT_DESC,A melee attack that hits twice.,,Un ataque cuerpo a cuerpo que golpea 2 veces.,Une attaque au corps à corps qui touche deux fois.,"Ein Nahkampfangriff, der zweimal trifft.",Un attacco corpo a corpo che colpisce due volte.,Um ataque corpo-a-corpo que golpeia duas vezes.
+EABILITY_FLESHLAD_UPPERCUT_NAME,Uppercut,,Gancho,Uppercut,Kinnhaken,Montante,Upper
+EABILITY_FLESHLAD_UPPERCUT_DESC,"Punch a unit, knocking it back 3 tiles and inflicting Bruise.
+[s:.7](Castable once per turn.)[/s]",,"Le da un puñetazo a una unidad que la hace retroceder 3 casillas y le inflige moratón.
+[s:.7](Se puede lanzar una vez por turno).[/s]","Un coup de poing qui repousse une unité de 3&nbsp;cases et lui inflige Contusion.
+ [s:.7](Une fois par tour.)[/s]","Schlag eine Einheit, stoße sie 3&nbsp;Felder zurück und verursache Beulen bei ihr.
+[s:.7](Einmal pro Zug verwendbar.)[/s]","Colpisci un'unità, respingendola indietro di 3 caselle e infliggendole Livido.
+[s:.7](Lanciabile una volta per turno.)[/s]","Soque uma unidade, empurrando-a 3 espaços para trás e aplicando contusão.
+[s:.7](Um lançamento por turno.)[/s]"
+FAMILIAR_PHANTOMMASK_DESC,Invulnerable. Attack it to knock it foward in a straight line. It deals 5 damage to units it hits.,same as OBJECT_PETROCK_DESC but with the Invulnerable mention added to the beginning,Invulnerable. Se desplaza hacia delante en línea recta cuando la atacan. Inflige 5 de daño a las unidades que golpea.,Invulnérable. L'attaquer le projette en ligne droite. Inflige 5&nbsp;dégâts aux unités qu'il touche.,"Unverwundbar. Greif ihn an, um ihn in einer geraden Linie nach vorn zu schleudern. Verursacht 5&nbsp;Schaden bei Einheiten, die er trifft.",Invulnerabile. Attaccala per proiettarla in avanti in linea retta. Infligge 5 di danno alle unità che colpisce.,Invulnerável. Ataque-a para empurrá-la para frente em linha reta. Causa 5 de dano nas unidades que forem acertadas.
+FAMILIAR_FLY_STEEL_DESC,Invulnerable.,,Invulnerable.,Invulnérable.,Unverwundbar.,Invulnerabile.,Invulnerabilidade.
+FAMILIAR_FLESHLAD_DESC,"Gains an extra attack per turn each time it takes damage.
+Gains Speed at the end of its turn.",same as ENEMY_FLESHLAD_DESC but without the first sentence about how it attacks,"Obtiene un ataque extra por turno cada vez que sufre daño.
+Obtiene velocidad al final del turno.","Gagne une attaque supplémentaire par tour chaque fois qu'il subit des dégâts.
+Gagne en vitesse à la fin de son tour.","Erhält jedes Mal, wenn er Schaden erleidet, einen zusätzlichen Angriff pro Zug.
+Erhält am Ende seines Zuges Geschwindigkeit.","Ottiene un attacco aggiuntivo per turno ogni volta che subisce danno.
+Ottiene Velocità alla fine del suo turno.","Obtém um ataque adicional por turno a cada vez que sofre dano.
+Obtém velocidade no final de seu turno."
+,,,,,,,
+ITEM_THEBLACKBOX_NAME,the box,,la caja,La boîte,die box,la scatola,a caixa
+ITEM_THEBLACKBOX_DESC,Use: Find and equip a random item into one of your empty item slots.,,Uso: Encuentra y equipa un objeto al azar en uno de los espacios de objeto vacíos.,Utilisation&nbsp;: trouvez et équipez un objet aléatoire dans l'un de vos emplacements d'objet vides.,Benutzen: Finde einen zufälligen Gegenstand und rüste ihn aus.,Uso: Trova ed equipaggia un oggetto casuale in uno dei tuoi slot oggetto vuoti.,Uso: encontre e equipe um item aleatório em de seus espaços vazios de itens.
+,,,,,,,
+ITEM_UNSTABLEDNA_NAME,Unstable DNA,,ADN inestable,ADN instable,Instabile DNA,DNA Instabile,DNA Instável
+ITEM_UNSTABLEDNA_DESC,"Use: Gain 6 random stat ups and 3 random stat downs, then gain 3 Mutations at the end of combat.",,"Uso: Obtiene 6 aumentos de atributo al azar y 3 reducciones de atributo al azar. Luego, obtiene 3 mutaciones al final del combate.","Utilisation&nbsp;: vous obtenez 6&nbsp;hausses de stats aléatoires et 3&nbsp;baisses de stats aléatoires, puis 3&nbsp;mutations à la fin du combat.",Benutzen: Erhalte am Ende des Kampfes 6&nbsp;Boni und 3&nbsp;Malusse auf zufällige Attribute. Erhalte anschließend 3&nbsp;Mutationen.,"Uso: Ottieni 6 potenziamenti casuali alle statistiche e 3 riduzioni casuali alle statistiche, poi ottieni 3 Mutazioni alla fine del combattimento.","Uso: obtenha 6 atributos aleatórios aumentados e 3 atributos aleatórios diminuídos, e então obtenha 3 mutações no final do combate."
+ITEM_REDPILL_NAME,Red Pill,,Pastilla roja,Pilule rouge,Rote Pille,Pillola Rossa,Pílula Vermelha
+ITEM_REDPILL_DESC,"Use: 50% chance to get Chungus (+4 [img:con]), otherwise take 8 damage.",see DISORDER_CHUNGUS_NAME,"Uso: 50 % de probabilidad de sufrir chungus (+4 [img:con]); si no, sufre 8 de daño.","Utilisation&nbsp;: 50&nbsp;% de chances d'obtenir le trouble Énorme ([img:con] +4). Dans le cas contraire, vous subissez 8 dégâts.","Benutzen: 50%ige Wahrscheinlichkeit, Fettmops (+4&nbsp;[img:con]) zu erhalten. Erleide sonst 8&nbsp;Schaden.","Uso: 50% di probabilità di ottenere Tracagnotto (+4 [img:con]), altrimenti subisci 8 di danno.","Uso: 50% de chance de obter enormidade (+4 de [img:con]), ou então sofra 8 de dano."
+DISORDER_CHUNGUS_NAME,Chungus,slang for something big and/or fat,Chungus,Énorme,Fettmops,Tracagnotto,Enormidade
+DISORDER_CHUNGUS_DESC,,purposely empty,,,,,
+,,,,,,,
+QEVENT_MEATALTAR_REW2B,"{Catname} lies sacrificed on top of the altar. The altar is pleased. 
+
+The remaining cats feel strengthened, and one of them begrudgingly pulls on {catname}'s corpse, salvaging it for useful parts.
+","(just the same text as the other one minus the ""its pleased but not satisfied"" for after the altar's main desire has been completed)","El cuerpo sacrificado de {Catname} yace sobre el altar, que está conforme.
+
+Los otros gatos se sienten fortalecidos. A regañadientes, uno de ellos coge el cadáver de {catname} en busca de algo que pueda aprovecharse.
+","{Catname} s'est fait sacrifier sur l'autel. Celui-ci est satisfait.
+ 
+Les chats restants se sentent plus forts, et l'un d'eux, à contrecœur, dépiaute le cadavre pour en tirer des pièces utiles.","{Catname} liegt als Opfer auf dem Altar. Der Altar ist besänftigt.
+
+Die verbleibenden Katzen fühlen sich stärker. Eine von ihnen durchsucht zögerlich die Leiche von {catname} und nimmt alles Nützliche mit.
+","{Catname} giace in cima all'altare dopo il sacrificio. L'altare è compiaciuto.
+
+I gatti rimasti si sentono rinvigoriti, e uno di loro tira via il cadavere di {catname} a malincuore, recuperando le parti ancora utili.","{Catname} jaz sobre o altar após seu sacrifício. O altar foi agraciado.
+
+Os gatos restantes se sentem fortalecidos, e um deles relutantemente puxa o corpo de {catname}, recuperando-o para salvar suas partes úteis."
+QEVENT_MEATALTAR_REW2B_M,,,,,,,
+QEVENT_MEATALTAR_REW2B_F,,,,,,,
+QEVENT_MEATALTAR_REW2B_N,,,,,,,
+QEVENT_MEATALTAR_REW3B,"{Catname} lies sacrificed on top of the altar. The altar is pleased.
+
+The remaining cats feel great though!
+","(just the same text as the other one minus the ""its pleased but not satisfied"" for after the altar's main desire has been completed)","El cuerpo sacrificado de {Catname} yace sobre el altar, que está conforme
+
+Eso sí, ¡los otros gatos se sienten genial!
+","{Catname} s'est fait sacrifier sur l'autel. Celui-ci est satisfait.
+ 
+À part ça, les autres chats pètent le feu&nbsp;!","{Catname} liegt als Opfer auf dem Altar. Der Altar ist besänftigt.
+
+Die verbleibenden Katzen fühlen sich großartig!
+","{Catname} giace in cima all'altare dopo il sacrificio. L'altare è compiaciuto.
+
+Gli altri gatti però si sentono alla grande!","{Catname} jaz sobre o altar após seu sacrifício. O altar foi agraciado.
+
+Os gatos restantes estão se sentindo ótimos!"
+QEVENT_MEATALTAR_REW3B_M,,,,,,,
+QEVENT_MEATALTAR_REW3B_F,,,,,,,
+QEVENT_MEATALTAR_REW3B_N,,,,,,,
+,,,,,,,
+CUTSCENE_OBELISK1_CORE_POPUP,"One obelisk is raised, but the one on the moon remains buried.",,"Se eleva un obelisco, pero el que está en la luna permanece enterrado.","Un obélisque est érigé, mais celui sur la lune reste enterré.","Ein Obelisk wurde errichtet, doch sein Gegenstück auf dem Mond bleibt vergraben.","Un obelisco si innalza, ma quello sulla luna rimane sepolto.","Um obelisco é erguido, mas o da Lua permanece enterrado."
+CUTSCENE_OBELISK1_MOON_POPUP,"One obelisk is raised, but the one in the core remains buried.",,"Se eleva un obelisco, pero el que está en el núcleo permanece enterrado.","Un obélisque est érigé, mais celui dans le noyau reste enterré.","Ein Obelisk wurde errichtet, doch sein Gegenstück im Kern bleibt vergraben.","Un obelisco si innalza, ma quello nel nucleo rimane sepolto.","Um obelisco é erguido, mas o do Núcleo permanece enterrado."
+CUTSCENE_OBELISK2_POPUP,"Both obelisks have connected, but still await activation.",,"Ambos obeliscos se han conectado, pero aún hay que activarlos.","Les deux obélisques sont connectés, mais attendent encore d'être activés.",Die Obelisken wurden verbunden. Sie warten auf ihre Aktivierung.,"Entrambi gli obelischi sono collegati, ma attendono ancora di essere attivati.","Os obeliscos estão conectados, porém ainda aguardam sua ativação."
+,,,,,,,
+NPCOFFICE_NAME_BEANIES,Dr. Beanies's Lab,,Laboratorio del Dr. Beanies,Labo du Dr Beanies,Dr. Beanies Labor,Laboratorio del Dottor Beanies,Laboratório do Dr. Beanies
+NPCOFFICE_NAME_BUTCH,Butch's Hideout,,Guarida de Butch,Planque de Butch,Unterschlupf von Butch,Nascondiglio di Butch,Esconderijo de Butch
+NPCOFFICE_NAME_TINK,Tink's Trailer,,Tráiler de Tink,Caravane de Tink,Tinks Wohnwagen,Roulotte di Tink,Trailer de Tink
+NPCOFFICE_NAME_FRANK,Frank's Sewer,,Alcantarilla de Frank,Égouts de Frank,Franks Kanalisation,Fogna di Frank,Esgoto de Frank
+NPCOFFICE_NAME_JACK,Jack's Shack,,Cabaña de Jack,Taudis de Jack,Jacks Hütte,Baracca di Jack,Cabana de Jack
+NPCOFFICE_NAME_TRACY,P Mart,,MercaMascota,Patoune Market,P-Markt,P Mart,P Mart
+NPCOFFICE_NAME_ORGANGRINDER,{organname}'s Box,,Caja de {organname},Boîte de {organname},Box von {organname},Scatola di {organname},Caixa de {organname}
+NPCOFFICE_NAME_STEVEN,The Box,,La Caja,La Boîte,Die Box,La Scatola,A Caixa
+,,,,,,,
+NPCMAP_NAME_HOME,Home,,Casa,Maison,Haus,Casa,Casa
+NPCMAP_NAME_TRASH,Trash,,Basura,Poubelle,Müll,Spazzatura,Lixo
+NPC_NAME_BEANIES,Dr. Beanies,,Dr. Beanies,Dr Beanies,Dr. Beanies,Dr. Beanies,Dr. Beanies
+NPC_NAME_BUTCH,Butch,,Butch,Butch,Butch,Butch,Butch
+NPC_NAME_TINK,Tink,,Tink,Tink,Tink,Tink,Tink
+NPC_NAME_FRANK,Frank,,Frank,Franck,Frank,Frank,Frank
+NPC_NAME_JACK,Baby Jack,,Bebé Jack,Bébé Jack,Baby Jack,Baby Jack,Bebê Jack
+NPC_NAME_TRACY,Tracy,,Tracy,Tracy,Tracy,Tracy,Tracy
+NPC_NAME_ORGANGRINDER,{organname},,{organname},{organname},{organname},{organname},{organname}
+NPC_NAME_STEVEN,Steven,,Steven,Steven,Steven,Steven,Steven
+,,,,,,,
+NPC_MORETIPS_BUTTON,Another Tip!,,¡Otro consejo!,Une autre astuce&nbsp;!,Noch ein Tipp!,Un altro consiglio!,Outra dica!
+,,,,,,,
+KEYWORD_TRAMPLE_NAME,Trample,,Pisotón,Piétinement,Trampel,Calpestamento,Atropelamento
+KEYWORD_TRAMPLE_DESC_STACKLESS,"You can move through other units, damaging and displacing them.",,Se puede mover sobre otras unidades; les inflige daño y las desplaza.,"Vous pouvez traverser les autres unités, en leur infligeant des dégâts et en les repoussant.",Du kannst dich durch andere Einheiten bewegen. Dabei stößt du sie zur Seite und fügst ihnen Schaden zu.,"Puoi muoverti attraverso le altre unità, infliggendo danno e spostandole.","Você pode se mover através de unidades, deslocando-as e causando dano."
+,,,,,,,
+COMBAT_POPUP_QUESTFAILED,Quest Failed!,,¡Fracaso en la misión!,Échec de la quête&nbsp;!,Quest fehlgeschlagen!,Missione fallita!,A missão falhou!
+,,,,,,,
+CREDITS_THANKSFORPLAYING,"thanks for playing
+MEWGENICS!","(in the credits roll: ed's handwriting font uses smallcaps for lowercase, so all-lowercase lines are correct)","¡Gracias por jugar a
+MEWGENICS!","Merci d'avoir joué à
+MEWGENICS&nbsp;!","vielen dank, dass du 
+MEWGENICS
+gespielt hast!","Grazie per aver giocato a
+MEWGENICS!","obrigado por jogar
+MEWGENICS!"
+CREDITS_AGAMEBY,a game by,the credits roll is a big animation with a lot of separate text boxes in it. boxes with only names are not included in this sheet,Un juego de,Un jeu de,ein spiel von,un gioco di,um jogo por
+CREDITS_EDLINE,art + design,,Arte y diseño,Art et conception,kunst + design,grafica + design,arte + design
+CREDITS_TYLERLINE,programming + design,,Programación y diseño,Programmation et conception,programmierung + design,programmazione + design,programação + design
+CREDITS_RIDCULONLINE,"Featuring Music by...
+RIDICULON!",,"¡Con música de
+RIDICULON!","Avec la musique de...
+RIDICULON&nbsp;!","Mit Musik von&nbsp;…
+RIDICULON!","Con musiche di...
+RIDICULON!","Apresentando a música de...
+RIDICULON!"
+CREDITS_JOEYLINE,Sound Effects by,,Efectos de sonido de,Effets sonores,Soundeffekte von,Effetti sonori di,Efeitos sonoros por
+CREDITS_EDITING,Editing by,,Edición de,Édition,Editing von,Editing di,Edição por
+CREDITS_AND,and,,y,et,und,e,e
+CREDITS_ANIMATIONLINEA,animation by,,Animación de,Animation,animationen von,animazioni di,animação por
+CREDITS_ANIMATIONLINEB,additional animation by,,Animación adicional de,Animation supplémentaire,weitere animationen von,animazioni aggiuntive di,animação adicional por
+CREDITS_ADDITIONALANIMATIONS,Kaylan Peattie and Tina Tomar,"(this is here because theres an ""and"" in the middle of the line)",Kaylan Peattie y Tina Tomar,Kaylan Peattie et Tina Tomar,Kaylan Peattie und Tina Tomar,Kaylan Peattie e Tina Tomar,Kaylan Peattie e Tina Tomar
+CREDITS_ARTA,art by,,Arte de,Art,kunst von,grafica di,arte por
+CREDITS_ARTB,additional art by,,Arte adicional de,Art supplémentaire,weitere kunst von,grafica aggiuntiva di,arte adicional por
+CREDITS_PROGRAMMINGB,additional programming by,,Programación adicional de,Programmation supplémentaire,weitere programmierung von,programmazione aggiuntiva di,programação adicional por
+CREDITS_CHARACTERSHEADER,Also Featuring...,,Y con...,Mais aussi...,Featuring&nbsp;…,Con la partecipazione di...,Com a participação de...
+CREDITS_CHARACTER_BEANIES,Dr. Thomas A. Beanies,,Dr. Thomas A. Beanies,Dr Thomas A. Beanies,Dr. Thomas A. Beanies,Dottor Thomas A. Beanies,Dr. Thomas A. Beanies
+CREDITS_CHARACTER_STACY,Stacy #{stacy_number},,Stacy {stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number}
+CREDITS_CHARACTER_BUTCH,Butch,,Butch,Butch,Butch,Butch,Butch
+CREDITS_CHARACTER_TINK,Ferguson Rodney Tinkles,,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles
+CREDITS_CHARACTER_FRANK,Frank,,Frank,Franck,Frank,Frank,Frank
+CREDITS_CHARACTER_BABYJACK,Jackie Dustin Nickel,,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel
+CREDITS_CHARACTER_TRACY,Tracy Newkirk,,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk
+CREDITS_CHARACTER_ORGANGRINDER,{organname},,{organname},{organname},{organname},{organname},{organname}
+CREDITS_CHARACTER_STEVEN,Steven,,Steven,Steven,Steven,Steven,Steven
+CREDITS_CHARACTER_HEADERB,And Featuring...,,Y con...,Ainsi que...,Und&nbsp;…,E con...,E também...
+CREDITS_CHARACTER_PLAYERCHARACTER,"You as
+Magdalene O. Moriah",,"Tú, como
+Magdalene O. Moriah","Vous-même, dans le rôle de
+Magdalene O. Moriah","Du als
+Magdalene O. Moriah","Te, nel ruolo di
+Magdalene O. Moriah","Você, como
+Magdalene O. Moriah"
+CREDITS_MEOWS,featuring meows from,,Con maullidos de,Miaulements de,mit katzenstimmen von,con miagolii di,com miados de
+CREDITS_TESTERS,testers,,Testers,Testeurs,tester,tester,testes
+CREDITS_MUSICGUESTS,special musical guests,,Invitados musicales especiales,Invités musicaux,special guests (musik),ospiti musicali speciali,convidados musicais especiais
+CREDITS_LOCALIZATION,Localization by Warlocs,,Localización de Warlocs,Localisation par Warlocs,Lokalisierung von den Warlocs,Localizzazione a cura di Warlocs,Localização por Warlocs
+CREDITS_LOCALIZATION_GERMAN,"Deutsch:
+Simon Dehne",doing loc credits like this cause this is the easiest way to get special characters into the credits roll. dont add extra lines without telling us so we can resize the text boxes in the credits roll art,"Deutsch:
+Simon Dehne","Allemand&nbsp;:
+Simon Dehne","Deutsch:
+Simon Dehne","Deutsch:
+Simon Dehne","Alemão:
+Simon Dehne"
+CREDITS_LOCALIZATION_FRENCH,"Français:
+Kevin Malchere
+Alexis Barroso
+Cecile Gindrat
+Elina Macon",,"Français:
+Kevin Malchere
+Alexis Barroso
+Cecile Gindrat
+Elina Macon","Français&nbsp;:
+Kévin Malchère
+Alexis Barroso
+Cécile Gindrat
+Elina Mâcon","Français:
+Kevin Malchere
+Alexis Barroso
+Cecile Gindrat
+Elina Macon","Français:
+Kevin Malchere
+Alexis Barroso
+Cecile Gindrat
+Elina Macon","Francês:
+Kevin Malchere
+Alexis Barroso
+Cecile Gindrat
+Elina Macon"
+CREDITS_LOCALIZATION_ITALIAN,"Italiano:
+Carlo De Rensis
+Juny Gentile",,"Italiano:
+Carlo De Rensis
+Juny Gentile","Italien&nbsp;:
+Carlo De Rensis
+Juny Gentile
+Stefano Rossitto
+Cristiano Caliendo","Italiano:
+Carlo De Rensis
+Juny Gentile","Italiano:
+Carlo De Rensis
+Juny Gentile
+Stefano Rossitto
+Cristiano Caliendo","Italiano:
+Carlo De Rensis
+Juny Gentile"
+CREDITS_LOCALIZATION_SPANISH,"Español:
+Xavi Vernet Diaz
+Sebastian Sorroche Jurado 
+Ana Avalos Reyes",,"Español:
+Xavi Vernet Díaz
+Sebastián Sorroche Jurado
+Ana Ávalos Reyes","Espagnol&nbsp;:
+Xavier Vernet Díaz
+Sebastián Sorroche Jurado
+Ana Ávalos Reyes","Español:
+Xavi Vernet Diaz
+Sebastian Sorroche Jurado 
+Ana Avalos Reyes","Español:
+Xavi Vernet Diaz
+Sebastian Sorroche Jurado
+Ana Avalos Reyes","Espanhol:
+Xavi Vernet Diaz
+Sebastian Sorroche Jurado 
+Ana Avalos Reyes"
+CREDITS_LOCALIZATION_BRPORTUGESE,"Português (Brasil):
+Romulo Wehling",,"Português (Brasil):
+Romulo Wehling","Portugais du Brésil&nbsp;:
+Romulo Wehling","Português (Brasil):
+Romulo Wehling","Português (Brasil):
+Romulo Wehling","Português (Brasil):
+Rômulo Wehling"
+CREDITS_LOCALIZATION_MARKETING,Marketing Support by Guillotine,,Ayuda de marketing de Guillotine,Support commercial par Guillotine,Marketing Support von Guillotine,Supporto marketing di Guillotine,Suporte de marketing por Guillotine
+CREDITS_TOOLSA,level editor made by - joshua robertson,,Editor de niveles de joshua robertson,Éditeur de niveaux créé par Joshua Robertson,level editor programmiert von – joshua robertson,editor dei livelli realizzato da - joshua robertson,editor de níveis criado por - joshua robertson
+CREDITS_TOOLSB,additional tools made by,,Herramientas adicionales de,Outils supplémentaires,zusätzliche tools von,strumenti aggiuntivi realizzati da,ferramentas adicionais criadas por
+CREDITS_TECH,Open Source Code Used,,Con código abierto,Code libre utilisé,Verwendung von Open Source Code,codice open source utilizzato,Códigos open source utilizados
+CREDITS_THANKS,special thanks,,Agradecimientos especiales,Remerciements,special thanks,ringraziamenti speciali,agradecimentos especiais
+CREDITS_END,"THANKS
+FOR PLAYING!",,"¡GRACIAS
+POR JUGAR!","MERCI
+D'AVOIR JOUÉ&nbsp;!","DANKE
+FÜRS SPIELEN!","GRAZIE
+PER AVER GIOCATO!","OBRIGADO
+POR JOGAR!"
+,,,,,,,
+SEASON_NAME_SPRING,Spring,,Muelle,Printemps,Frühling,Primavera,Primavera
+SEASON_NAME_SUMMER,Summer,,Verano,Été,Sommer,Estate,Verão
+SEASON_NAME_FALL,Fall,,Otoño,Automne,Herbst,Autunno,Outono
+SEASON_NAME_WINTER,Winter,,Invierno,Hiver,Winter,Inverno,Inverno
