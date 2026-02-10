@@ -1,0 +1,868 @@
+﻿KEY,en,notes,sp,fr,de,it,pt-br
+//misc,,,,,,,
+AREA_NAME_TUTORIAL,Путь,,El camino,La Route,Der Trampelpfad,Il Sentiero,O Caminho
+AREA_NAME_HOUSE,Главная,,Casa,La Maison,Dein Haus,Casa,Casa
+AREA_NAME_ALLEY,Аллея,,El callejón,La Ruelle,Die Gasse,Il Vicolo,O Beco
+AREA_NAME_SEWERS,Канализация,,Las alcantarillas,Les Égouts,Die Kanalisation,Le Fogne,O Esgoto
+AREA_NAME_JUNKYARD,Свалка,,El desguace,La Décharge,Der Schrottplatz,La Discarica,O Ferro-Velho
+AREA_NAME_CAVES,Пещеры,,Las cuevas,Les Grottes,Die Höhlen,Le Caverne,As Cavernas
+AREA_NAME_BONEYARD,Кладбище,,El cementerio,Le Cimetière,Der Friedhof,Il Cimitero,O Cemitério
+AREA_NAME_MEATWORLD,Пульсирующий домен,,El Dominio Palpitante,Le Domaine lancinant,Das Pulsierende Reich,Il Regno Pulsante,O Domínio Pulsante
+AREA_NAME_DESERT,Пустыня,,El desierto,Le Désert,Die Wüste,Il Deserto,O Deserto
+AREA_NAME_CRATER,Кратер,,El cráter,Le Cratère,Der Krater,Il Cratere,A Cratera
+AREA_NAME_BUNKER,Бункер,,El búnker,Le Bunker,Der Bunker,Il Bunker,O Bunker
+AREA_NAME_MOON,Луна,,La luna,La Lune,Der Mond,La Luna,A Lua
+AREA_NAME_CORE,Ядро,,El núcleo,Le Noyau,Der Kern,Il Nucleo,O Núcleo
+AREA_NAME_DIMENSIONX,Рифт,,La Grieta,La Faille,Der Riss,La Fenditura,A Fissura
+AREA_NAME_LAB,Лаборатория,,El laboratorio,Le Labo,Das Labor,Il Laboratorio,O Laboratório
+AREA_NAME_ICEAGE,Ледниковый период,,La Edad de Hielo,L'Âge de glace,Die Eiszeit,L'Era Glaciale,A Era do Gelo
+AREA_NAME_JURASSIC,Юрский период,,El Jurásico,Le Jurassique,Der Jura,Il Giurassico,O Jurássico
+AREA_NAME_FUTURE,Будущее,,Das Füture,Das Füture,Die Zukunft,Das Füture,Das Füture
+AREA_NAME_THEEND,Конец,,El fin,La Fin,Das Ende,La Fine,O Fim
+AREA_NAME_ENDOFTIME,Бесконечный,,El infinito,L'Infini,Die Unendlichkeit,L'Infinito,O Infinito
+AREA_NAME_UNKNOWN,Где-то,,Algún lugar,L'Ailleurs,Irgendwo,Da Qualche Parte,Algum Lugar
+SAVE_FILE_NO_DATA,Нет данных,,Sin datos,Aucune donnée,Keine Daten,Nessun dato,Sem Dados
+,,,,,,,
+SAVE_FILE_FIGHT_HOUSEBOSS_GUILLOTINA_1,Боевая гильотина,,Luchando contra Guillotina,Affrontement&nbsp;: Guillotina,Kampf mit Guillotina,Combattimento contro Guillotina,Enfrentando Guilhotina
+SAVE_FILE_FIGHT_HOUSEBOSS_GUILLOTINA_2,Боевая гильотина,,Luchando contra Guillotina,Affrontement&nbsp;: Guillotina,Kampf mit Guillotina,Combattimento contro Guillotina,Enfrentando Guilhotina
+SAVE_FILE_FIGHT_HOUSEBOSS_GUILLOTINA_3,Боевая гильотина,,Luchando contra Guillotina,Affrontement&nbsp;: Guillotina,Kampf mit Guillotina,Combattimento contro Guillotina,Enfrentando Guilhotina
+SAVE_FILE_FIGHT_HOUSEBOSS_PYROPHINA,Борьба с Пирофиной,,Luchando contra Pyrophina,Affrontement&nbsp;: Pyrophina,Kampf mit Pyrophina,Combattimento contro Pyrophina,Enfrentando Pyrophina
+SAVE_FILE_FIGHT_HOUSEBOSS_ZARATANA,Борьба с Заратаной,,Luchando contra Zaratana,Affrontement&nbsp;: Zaratana,Kampf mit Zaratana,Combattimento contro Zaratana,Enfrentando Zaratana
+SAVE_FILE_FIGHT_HOUSEBOSS_KAIJUFIGHT,"Наблюдаю за тем, как кайдзю сражаются",,Viendo cómo unos kaijus se lían a tortas,Regarde des kaijus se castagner,Kampf zwei riesiger Kaijus,Mentre guardi dei kaiju che se le danno di santa ragione,Vendo alguns kaijus acertarem as contas
+SAVE_FILE_FIGHT_HOUSEBOSS_TERMINATOR_1,Борьба с С-800,,Luchando contra el C-800,Affrontement&nbsp;: C-800,Kampf mit dem C-800,Combattimento contro il C-800,Enfrentando G-800
+SAVE_FILE_FIGHT_HOUSEBOSS_TERMINATOR_2,Борьба с С-1000,,Luchando contra el C-1000,Affrontement&nbsp;: C-1000,Kampf mit dem C-1000,Combattimento contro il C-100,Enfrentando G-1000
+SAVE_FILE_FIGHT_HOUSEBOSS_TERMINATOR_3,Борьба с армией роботов Гитлера,,Luchando contra el ejército de robots de Hitler,Affrontement&nbsp;: armée de robots hitlériens,Kampf mit Hitlers Roboterarmee,Combattimento contro l'esercito di robot di Hitler,Enfrentando o exército robótico de Hitler
+,,,,,,,
+AREA_NAME_ALLEY_BANNER,АЛЛЕЯ,,EL CALLEJÓN,RUELLE,DIE GASSE,IL VICOLO,O BECO
+AREA_NAME_SEWERS_BANNER,КАНАЛИЗАЦИЯ,,ALCANTARILLAS,ÉGOUTS,KANALISATION,FOGNE,ESGOTO
+AREA_NAME_JUNKYARD_BANNER,СБОРКА,,DESGUACE,DÉCHARGE,SCHROTTPLATZ,DISCARICA,FERRO-VELHO
+AREA_NAME_CAVES_BANNER,ПЕЩЕРЫ,,CUEVAS,GROTTES,HÖHLEN,CAVERNE,CAVERNAS
+AREA_NAME_BONEYARD_BANNER,МОГИЛЬНИК,,CEMENTERIO,CIMETIÈRE,FRIEDHOF,CIMITERO,CEMITÉRIO
+AREA_NAME_MEATWORLD_BANNER,ПУЛЬСИРУЮЩАЯ ОБЛАСТЬ,,DOMINIO PALPITANTE,DOMAINE LANCINANT,PULSIERENDES REICH,REGNO PULSANTE,DOMÍNIO PULSANTE
+AREA_NAME_DESERT_BANNER,ПУСТЫНЯ,,DESIERTO,DÉSERT,WÜSTE,DESERTO,DESERTO
+AREA_NAME_CRATER_BANNER,КРАТЕР,,EL CRÁTER,CRATÈRE,DER KRATER,IL CRATERE,A CRATERA
+AREA_NAME_BUNKER_BANNER,БУНКЕР,,BÚNKER,BUNKER,BUNKER,BUNKER,BUNKER
+AREA_NAME_MOON_BANNER,ЛУНА,,LA LUNA,LUNE,DER MOND,LA LUNA,A LUA
+AREA_NAME_CORE_BANNER,Ядро,,EL NÚCLEO,NOYAU,DER KERN,IL NUCLEO,O NÚCLEO
+AREA_NAME_DIMENSIONX_BANNER,РИФТ,,LA GRIETA,FAILLE,DER RISS,LA FENDITURA,A FISSURA
+AREA_NAME_LAB_BANNER,ЛАБОРАТОРИЯ,,EL LABORATORIO,LABO,DAS LABOR,IL LABORATORIO,O LABORATÓRIO
+AREA_NAME_ICEAGE_BANNER,ЛЕДНИКОВЫЙ ПЕРИОД,,EDAD DE HIELO,ÂGE DE GLACE,EISZEIT,L'ERA GLACIALE,ERA DO GELO
+AREA_NAME_JURASSIC_BANNER,ЮРСКИЙ,,JURÁSICO,JURASSIQUE,JURA,GIURASSICO,JURÁSSICO
+AREA_NAME_FUTURE_BANNER,БУДУЩЕЕ,,EL FUTURO,FUTUR,DIE ZUKUNFT,IL FUTURO,O FUTURO
+AREA_NAME_THEEND_BANNER,КОНЕЦ,,EL FIN,FIN,DAS ENDE,IL FINE,O FIM
+AREA_NAME_ENDOFTIME_BANNER,∞,,∞,∞,∞,∞,∞
+,,,,,,,
+//dynamic strings,,,,,,,
+WORLDEVENT_ENDBUTTON_MISC,Что-то еще?,,¿Algo más?,Autre chose&nbsp;?,Was jetzt?,Qualcos'altro?,Mais alguma coisa?
+WORLDEVENT_ENDBUTTON_REPLACEABILITY,Выберите возможность замены,,Selecciona una habilidad para remplazarla.,Remplacer une compétence,Wähle eine Fähigkeit zum Ersetzen,Seleziona un'abilità da sostituire,Selecione uma habilidade para substituir
+WORLDEVENT_ENDBUTTON_REPLACEPASSIVE,Выберите пассив для замены,,Selecciona una habilidad pasiva para remplazarla.,Remplacer une compétence passive,Wähle einen Passiveffekt zum Ersetzen,Seleziona un'abilità passiva da sostituire,Selecione uma habilidade passiva para substituir
+WORLDEVENT_ENDBUTTON_TRYAGAIN,Попробуйте еще раз,,Reintentar,Réessayer,Noch einmal versuchen,Riprova,Tentar novamente
+WORLDEVENT_ENDBUTTON_LEVELUP,Уровень выше!,,Subir de nivel,Gain de niveau&nbsp;!,Level Up!,Livello superato!,Novo nível!
+WORLDEVENT_ENDBUTTON_LEVELUP_CAT,Повышайте уровень {Catname}!,,Subir de nivel a {Catname},{Catname} gagne un niveau&nbsp;!,{Catname} bekommt ein Level Up!,{Catname} ha superato il livello!,{CatName} subiu de nível!
+WORLDEVENT_ENDBUTTON_LEVELUP_CAT_M,,,,,,,
+WORLDEVENT_ENDBUTTON_LEVELUP_CAT_F,,,,,,,
+WORLDEVENT_ENDBUTTON_LEVELUP_CAT_N,,,,,,,
+WORLDEVENT_ENDBUTTON_FIGHT,Драться!,,Luchar,Combat&nbsp;!,Kämpfen!,Combatti!,Luta!
+WORLDEVENT_ENDBUTTON_AMBUSHED,Засада!,,¡Ataque por sorpresa!,Embuscade&nbsp;!,Ein Hinterhalt!,Imboscata!,Emboscada!
+,,,,,,,
+WORLDEVENT_GET_ITEM_FAIL,"{Catname} пытался получить {itemname}, но ему это не удалось.",,{Catname} no ha podido conseguir esto: {itemname}.,"{Catname} a essayé d'obtenir {itemname}, mais a échoué.","{Catname} hat versucht, {itemname} zu bekommen. Es hat nicht geklappt.","{Catname} ha provato a prendere l'oggetto {itemname}, ma ha fallito.","{Catname} tentou obter {itemname}, mas não conseguiu."
+WORLDEVENT_GET_ITEM_FAIL_M,,,,,,,
+WORLDEVENT_GET_ITEM_FAIL_F,,,,,,,
+WORLDEVENT_GET_ITEM_FAIL_N,,,,,,,
+WORLDEVENT_GET_ITEM_SUCCESS,{Catname} получил {itemname}!,,{Catname} ha conseguido esto: ¡{itemname}!,{Catname} a obtenu {itemname}&nbsp;!,{Catname} erhält {itemname}!,{Catname} ha preso l'oggetto '{itemname}'!,{Catname} obteve {itemname}!
+WORLDEVENT_GET_ITEM_SUCCESS_M,,,,,,,
+WORLDEVENT_GET_ITEM_SUCCESS_F,,,,,,,
+WORLDEVENT_GET_ITEM_SUCCESS_N,,,,,,,
+WORLDEVENT_LOSE_ITEM,{Catname} потерял {itemname}!,,{Catname} ha perdido esto: ¡{itemname}!,{Catname} a perdu {itemname}&nbsp;!,{Catname} hat {itemname} verloren!,{Catname} ha perso l'oggetto '{itemname}'!,{Catname} perdeu {itemname}!
+WORLDEVENT_LOSE_ITEM_M,,,,,,,
+WORLDEVENT_LOSE_ITEM_F,,,,,,,
+WORLDEVENT_LOSE_ITEM_N,,,,,,,
+WORLDEVENT_LOSE_NOTHING,{Catname} терять нечего.,,{Catname} no tiene nada que perder.,{Catname} n'a rien à perdre.,{Catname} hat nichts zu verlieren.,{Catname} non ha nulla da perdere.,{Catname} não tem nada a perder.
+WORLDEVENT_LOSE_NOTHING_M,,,,,,,
+WORLDEVENT_LOSE_NOTHING_F,,,,,,,
+WORLDEVENT_LOSE_NOTHING_N,,,,,,,
+WORLDEVENT_TAKE_DAMAGE,{Catname} получил {amount} урона!,,¡{Catname} ha sufrido {amount} de daño!,{Catname} a subi {amount} dégâts&nbsp;!,{Catname} hat {amount}&nbsp;Schaden erlitten!,{Catname} ha subito {amount} di danno!,{Catname} sofreu {amount} de dano!
+WORLDEVENT_TAKE_DAMAGE_M,,,,,,,
+WORLDEVENT_TAKE_DAMAGE_F,,,,,,,
+WORLDEVENT_TAKE_DAMAGE_N,,,,,,,
+WORLDEVENT_PARTY_TAKE_DAMAGE,Вся группа получила {amount} урона!,,¡Todo el grupo ha sufrido {amount} de daño!,L'équipe entière a subi {amount} dégâts&nbsp;!,Die gesamte Gruppe hat {amount}&nbsp;Schaden erlitten!,L'intero gruppo ha subito {amount} di danno!,Todo o grupo sofreu {amount} de dano!
+WORLDEVENT_PARTY_TAKE_VARYING_DAMAGE,Вся группа получила урон.,,Todo el grupo ha sufrido daño.,L'équipe entière a subi des dégâts&nbsp;!,Die gesamte Gruppe hat Schaden erlitten.,L'intero gruppo ha subito del danno.,Todo o grupo sofreu dano!
+WORLDEVENT_PARTY_TAKE_PERCENT_DAMAGE,Вся группа получила {amount}% урона!,,¡Todo el grupo ha sufrido un {amount} % de daño!,L'équipe entière a subi {amount}&nbsp;% de dégâts&nbsp;!,Die gesamte Gruppe hat {amount}&nbsp;% Schaden erlitten!,L'intero gruppo ha subito un {amount}% di danno!,Todo o grupo sofreu {amount}% de dano!
+WORLDEVENT_LEARN_ACTIVE_ABILITY,{Catname} узнал {ability}!,,¡{Catname} ha aprendido {ability}!,{Catname} a appris {ability}&nbsp;!,{Catname} hat {ability} gelernt!,{Catname} ha imparato l'abilità attiva '{ability}'!,{Catname} aprendeu {ability}!
+WORLDEVENT_LEARN_ACTIVE_ABILITY_M,,,,,,,
+WORLDEVENT_LEARN_ACTIVE_ABILITY_F,,,,,,,
+WORLDEVENT_LEARN_ACTIVE_ABILITY_N,,,,,,,
+WORLDEVENT_LEARN_PASSIVE_ABILITY,{Catname} узнал {passive}!,,¡{Catname} ha aprendido {passive}!,{Catname} a appris {passive}&nbsp;!,{Catname} hat {passive} gelernt!,{Catname} ha imparato l'abilità passiva '{passive}'!,{Catname} aprendeu {passive}!
+WORLDEVENT_LEARN_PASSIVE_ABILITY_M,,,,,,,
+WORLDEVENT_LEARN_PASSIVE_ABILITY_F,,,,,,,
+WORLDEVENT_LEARN_PASSIVE_ABILITY_N,,,,,,,
+WORLDEVENT_FAIL_LEARN_ACTIVE_ABILITY,"{Catname} не смог выучить новый актив, потому что {he} нечего было изучать.",,{Catname} no ha podido aprender una habilidad activa nueva porque ya no tiene nada que aprender.,{Catname} n'a pas pu apprendre de nouvelle compétence active car {he} n'avait rien de nouveau à apprendre.,"{Catname} konnte keine neue Aktivfähigkeit lernen, weil {he} nichts Neues zu lernen hat.",{Catname} non ha potuto imparare una nuova abilità attiva perché non aveva nulla di nuovo da imparare.,{Catname} não conseguiu aprender uma nova habilidade ativa porque não tinha nada de novo para aprender.
+WORLDEVENT_FAIL_LEARN_ACTIVE_ABILITY_M,,,,,,,
+WORLDEVENT_FAIL_LEARN_ACTIVE_ABILITY_F,,,,,,,
+WORLDEVENT_FAIL_LEARN_ACTIVE_ABILITY_N,,,,,,,
+WORLDEVENT_FAIL_LEARN_PASSIVE_ABILITY,"{Catname} не смог выучить новый пассивный пассив, потому что {he} нечего было изучать.",,{Catname} no ha podido aprender una habilidad pasiva nueva porque ya no tiene nada que aprender.,{Catname} n'a pas pu apprendre de nouvelle compétence passive car {he} n'avait rien de nouveau à apprendre.,"{Catname} konnte keinen neuen Passiveffekt lernen, weil {he} nichts Neues zu lernen hat.",{Catname} non ha potuto imparare una nuova abilità passiva perché non aveva nulla di nuovo da imparare.,{Catname} não conseguiu aprender uma nova habilidade passiva porque não tinha nada de novo para aprender.
+WORLDEVENT_FAIL_LEARN_PASSIVE_ABILITY_M,,,,,,,
+WORLDEVENT_FAIL_LEARN_PASSIVE_ABILITY_F,,,,,,,
+WORLDEVENT_FAIL_LEARN_PASSIVE_ABILITY_N,,,,,,,
+WORLDEVENT_SWAP_BASIC_ATTACK,Базовая атака {Catname} была заменена на {ability}!,,¡El ataque básico de {Catname} se ha remplazado por {ability}!,{Catname} voit son attaque de base être remplacée par {ability}&nbsp;!,Der Grundangriff von {Catname} wurde durch {ability} ersetzt!,L'attacco base di {Catname} è stato sostituito con l'abilità {ability}!,O ataque básico de {Catname} foi substituído por {ability}!
+WORLDEVENT_SWAP_BASIC_ATTACK_M,,,,,,,
+WORLDEVENT_SWAP_BASIC_ATTACK_F,,,,,,,
+WORLDEVENT_SWAP_BASIC_ATTACK_N,,,,,,,
+WORLDEVENT_SKIP_NEXT_FIGHT,{Catname} пропустит следующий бой.,,{Catname} se saltará el próximo combate.,{Catname} sautera le prochain combat.,{Catname} wird nicht am nächsten Kampf teilnehmen.,{Catname} salterà il prossimo combattimento.,{Catname} vai pular a próxima luta.
+WORLDEVENT_SKIP_NEXT_FIGHT_M,,,,,,,
+WORLDEVENT_SKIP_NEXT_FIGHT_F,,,,,,,
+WORLDEVENT_SKIP_NEXT_FIGHT_N,,,,,,,
+WORLDEVENT_NEW_PARTY_MEMBER,{Catname} присоединился к вашей группе!,,¡{Catname} se ha unido a tu grupo!,{Catname} a rejoint votre équipe&nbsp;!,{Catname} ist deiner Gruppe beigetreten!,Ora {Catname} fa parte del tuo gruppo!,{Catname} se juntou ao seu grupo!
+WORLDEVENT_NEW_PARTY_MEMBER_M,,,,,,,
+WORLDEVENT_NEW_PARTY_MEMBER_F,,,,,,,
+WORLDEVENT_NEW_PARTY_MEMBER_N,,,,,,,
+WORLDEVENT_NEW_FOLLOWER,{Catname} начал подписываться на вашу группу.,,{Catname} ha empezado a seguir al grupo.,{Catname} se met à suivre votre équipe.,{Catname} folgt deiner Gruppe jetzt.,{Catname} ha iniziato a seguire il tuo gruppo.,{Catname} começou a seguir seu grupo!
+WORLDEVENT_NEW_FOLLOWER_M,,,,,,,
+WORLDEVENT_NEW_FOLLOWER_F,,,,,,,
+WORLDEVENT_NEW_FOLLOWER_N,,,,,,,
+WORLDEVENT_GAIN_DISORDER,{Catname} получил {disorder}!,,{Catname} ha desarrollado esto: ¡{disorder}!,{Catname} a subi {disorder}&nbsp;!,{Catname} hat {disorder} erlitten!,{Catname} ha contratto il disturbo '{disorder}'!,{Catname} está sofrendo {disorder}!
+WORLDEVENT_GAIN_DISORDER_M,,,,,,,
+WORLDEVENT_GAIN_DISORDER_F,,,,,,,
+WORLDEVENT_GAIN_DISORDER_N,,,,,,,
+WORLDEVENT_CAT_CANT_LEVEL_UP,...{Catname} не может повысить уровень...,,{Catname} no puede subir de nivel...,... {Catname} ne peut pas monter de niveau...,…&nbsp;{Catname} kann kein Level aufsteigen&nbsp;…,...{Catname} non può salire di livello...,...{Catname} não pode subir de nível...
+WORLDEVENT_CAT_CANT_LEVEL_UP_M,,,,,,,
+WORLDEVENT_CAT_CANT_LEVEL_UP_F,,,,,,,
+WORLDEVENT_CAT_CANT_LEVEL_UP_N,,,,,,,
+WORLDEVENT_GAIN_COINS,{Catname} получил {amount} монет!,,¡{Catname} ha conseguido {amount} monedas!,{Catname} a obtenu {amount} pièces&nbsp;!,{Catname} hat {amount}&nbsp;Münzen erhalten!,{Catname} ha ottenuto {amount} monete!,{Catname} obteve {amount} moedas!
+WORLDEVENT_GAIN_COINS_M,,,,,,,
+WORLDEVENT_GAIN_COINS_F,,,,,,,
+WORLDEVENT_GAIN_COINS_N,,,,,,,
+WORLDEVENT_GAIN_1_COIN,{Catname} получил 1 монету!,,¡{Catname} ha conseguido 1 moneda!,{Catname} a obtenu 1&nbsp;pièce&nbsp;!,{Catname} hat 1&nbsp;Münze erhalten!,{Catname} ha ottenuto 1 moneta!,{Catname} obteve 1 moeda!
+WORLDEVENT_GAIN_1_COIN_M,,,,,,,
+WORLDEVENT_GAIN_1_COIN_F,,,,,,,
+WORLDEVENT_GAIN_1_COIN_N,,,,,,,
+WORLDEVENT_LOSE_COINS,{Catname} потерял {amount} монет!,,¡{Catname} ha perdido {amount} monedas!,{Catname} perd {amount} pièces&nbsp;!,{Catname} hat {amount}&nbsp;Münzen verloren!,{Catname} ha perso {amount} monete!,{Catname} perdeu {amount} moedas!
+WORLDEVENT_LOSE_COINS_M,,,,,,,
+WORLDEVENT_LOSE_COINS_F,,,,,,,
+WORLDEVENT_LOSE_COINS_N,,,,,,,
+WORLDEVENT_LOSE_1_COIN,{Catname} потерял 1 монету!,,¡{Catname} ha perdido 1 moneda!,{Catname} a perdu 1&nbsp;pièce&nbsp;!,{Catname} hat 1&nbsp;Münze verloren!,{Catname} ha perso 1 moneta!,{Catname} perdeu 1 moeda!
+WORLDEVENT_LOSE_1_COIN_M,,,,,,,
+WORLDEVENT_LOSE_1_COIN_F,,,,,,,
+WORLDEVENT_LOSE_1_COIN_N,,,,,,,
+WORLDEVENT_SPEND_COINS,{Catname} передает {amount} монет.,,{Catname} entrega {amount} monedas.,{Catname} donne {amount} pièces.,{Catname} bezahlt {amount}&nbsp;Münzen.,{Catname} consegna {amount} monete.,{Catname} entrega {amount} moedas!
+WORLDEVENT_SPEND_COINS_M,,,,,,,
+WORLDEVENT_SPEND_COINS_F,,,,,,,
+WORLDEVENT_SPEND_COINS_N,,,,,,,
+WORLDEVENT_SPEND_1_COIN,{Catname} передает 1 монету.,,{Catname} entrega 1 moneda.,{Catname} donne 1&nbsp;pièce.,{Catname} bezahlt 1&nbsp;Münze.,{Catname} consegna 1 moneta.,{Catname} entrega 1 moeda!
+WORLDEVENT_SPEND_1_COIN_M,,,,,,,
+WORLDEVENT_SPEND_1_COIN_F,,,,,,,
+WORLDEVENT_SPEND_1_COIN_N,,,,,,,
+WORLDEVENT_GAIN_FOOD,{Catname} сохранил {amount} еды!,,¡{Catname} ha almacenado {amount} de comida!,{Catname} obtient {amount} nourritures&nbsp;!,{Catname} hat {amount}&nbsp;Futter bekommen!,{Catname} ha accumulato {amount} unità di cibo!,{Catname} guardou {amount} alimentos!
+WORLDEVENT_GAIN_FOOD_M,,,,,,,
+WORLDEVENT_GAIN_FOOD_F,,,,,,,
+WORLDEVENT_GAIN_FOOD_N,,,,,,,
+WORLDEVENT_GAIN_1_FOOD,{Catname} сохранил 1 еду!,,¡{Catname} ha almacenado 1 de comida!,{Catname} obtient 1&nbsp;nourriture&nbsp;!,{Catname} hat 1&nbsp;Futter bekommen!,{Catname} ha conservato 1 unità di cibo!,{Catname} guardou 1 alimento!
+WORLDEVENT_GAIN_1_FOOD_M,,,,,,,
+WORLDEVENT_GAIN_1_FOOD_F,,,,,,,
+WORLDEVENT_GAIN_1_FOOD_N,,,,,,,
+WORLDEVENT_LOSE_FOOD,{Catname} сохранил 1 еду!,,¡{Catname} ha almacenado 1 de comida!,{Catname} obtient 1&nbsp;nourriture&nbsp;!,{Catname} hat 1&nbsp;Futter bekommen!,{Catname} ha conservato 1 unità di cibo!,{Catname} guardou 1 alimento!
+WORLDEVENT_LOSE_FOOD_M,,,,,,,
+WORLDEVENT_LOSE_FOOD_F,,,,,,,
+WORLDEVENT_LOSE_FOOD_N,,,,,,,
+WORLDEVENT_LOSE_1_FOOD,{Catname} сохранил 1 еду!,,¡{Catname} ha almacenado 1 de comida!,{Catname} obtient 1&nbsp;nourriture&nbsp;!,{Catname} hat 1&nbsp;Futter bekommen!,{Catname} ha conservato 1 unità di cibo!,{Catname} guardou 1 alimento!
+WORLDEVENT_LOSE_1_FOOD_M,,,,,,,
+WORLDEVENT_LOSE_1_FOOD_F,,,,,,,
+WORLDEVENT_LOSE_1_FOOD_N,,,,,,,
+WORLDEVENT_INJURY_PREVENTED,"{Catname} должен был получить травму, но у него был иммунитет!",,"{Catname} debería haber sufrido una lesión, pero ¡es inmune!",{Catname} a évité une blessure grâce à son immunité&nbsp;!,"{Catname} wäre eigentlich verletzt worden, ist aber immun!","{Catname} avrebbe dovuto subire una ferita, ma era immune!","{Catname} deveria ter sofrido um ferimento, mas estava imune!"
+WORLDEVENT_INJURY_PREVENTED_M,,,,,,,
+WORLDEVENT_INJURY_PREVENTED_F,,,,,,,
+WORLDEVENT_INJURY_PREVENTED_N,,,,,,,
+WORLDEVENT_SUFFER_INJURY,{Catname} пострадал {injury}!,,{Catname} se ha lesionado: ¡{injury}!,{Catname} a subi {injury}&nbsp;!,{Catname} erleidet: {injury}!,{Catname} ha subito la ferita '{injury}'!,{Catname} sofreu {injury}!
+WORLDEVENT_SUFFER_INJURY_M,,,,,,,
+WORLDEVENT_SUFFER_INJURY_F,,,,,,,
+WORLDEVENT_SUFFER_INJURY_N,,,,,,,
+WORLDEVENT_CURE_INJURY,{Catname's} {injury} вылечен!,,{Catname} se ha recuperado de esto: ¡{injury}!,{Catname} a perdu {injury}&nbsp;!,{injury} von {Catname} wurde geheilt!,La ferita '{injury}' di {Catname} è stata curata!,O ferimento {injury} de {Catname's} foi curado!
+WORLDEVENT_CURE_INJURY_M,,,,,,,
+WORLDEVENT_CURE_INJURY_F,,,,,,,
+WORLDEVENT_CURE_INJURY_N,,,,,,,
+WORLDEVENT_CURE_DISORDER,{Catname} потерял {disorder}!,,{Catname} ya no tiene esto: ¡{disorder}!,{Catname} ne subit plus {disorder}&nbsp;!,{Catname} leidet nicht mehr unter {disorder}!,{Catname} ha perso il disturbo '{disorder}'!,{Catname} não está mais sofrendo {disorder}!
+WORLDEVENT_CURE_DISORDER_M,,,,,,,
+WORLDEVENT_CURE_DISORDER_F,,,,,,,
+WORLDEVENT_CURE_DISORDER_N,,,,,,,
+WORLDEVENT_FULL_HEAL,{Catname} полностью зажил.,,{Catname} se ha curado por completo.,{Catname} a récupéré tous ses PV&nbsp;!,{Catname} wurde vollständig geheilt.,,{Catname} se curou totalmente.
+WORLDEVENT_FULL_HEAL_M,,,,,,{Catname} è guarito completamente.,
+WORLDEVENT_FULL_HEAL_F,,,,,,{Catname} è guarita completamente.,
+WORLDEVENT_FULL_HEAL_N,,,,,,{Catname} è ora completamente in salute.,
+WORLDEVENT_HEAL,{Catname} исцелил {amount} от здоровья.,,{Catname} ha recuperado {amount} PS.,{Catname} a récupéré {amount} PV.,{Catname} wurde um {amount}&nbsp;LP geheilt.,{Catname} ha recuperato {amount} di salute.,{Catname} curou {amount} de saúde.
+WORLDEVENT_HEAL_M,,,,,,,
+WORLDEVENT_HEAL_F,,,,,,,
+WORLDEVENT_HEAL_N,,,,,,,
+WORLDEVENT_PARTY_HEAL,Вся группа вылечила {amount} здоровья.,,Todo el grupo ha recuperado {amount} PS.,L'équipe entière a récupéré {amount} PV.,Die gesamte Gruppe wurde um {amount}&nbsp;LP geheilt.,L'intero gruppo ha recuperato {amount} di salute.,Todo o grupo curou {amount} de saúde.
+WORLDEVENT_PARTY_HEAL_PERCENT,Вся группа восстановила {amount}% здоровья.,,Todo el grupo ha recuperado un {amount} % de salud.,L'équipe entière a récupéré {amount}&nbsp;% de PV.,Die gesamte Gruppe wurde um {amount}&nbsp;% geheilt.,L'intero gruppo ha recuperato un {amount}% di salute.,Todo o grupo curou {amount}% de saúde.
+WORLDEVENT_CHANGE_STATS,{Catname} получил {statchanges},"{statchanges} is icons and no actual text. Will look like ""Fluffy got +1[img:str], -1[img:con]"" in context
+",{Catname} ha recibido {statchanges}.,{Catname} a obtenu {statchanges},{Catname} erhält {statchanges},{Catname} ha ottenuto {statchanges},{Catname} obteve {statchanges}
+WORLDEVENT_CHANGE_STATS_M,,,,,,,
+WORLDEVENT_CHANGE_STATS_F,,,,,,,
+WORLDEVENT_CHANGE_STATS_N,,,,,,,
+WORLDEVENT_GREW_OLD,{Catname} постарел и устал!,,¡{Catname} se ha hecho mayor y ya no tiene fuerzas!,{Catname} est devenu vieux et épuisé&nbsp;!,{Catname} ist alt und gebrechlich geworden!,,{Catname} envelheceu!
+WORLDEVENT_GREW_OLD_M,,,,,,{Catname} è diventato vecchio e stanco!,
+WORLDEVENT_GREW_OLD_F,,,,,,{Catname} è diventata vecchia e stanca!,
+WORLDEVENT_GREW_OLD_N,,,,,,{Catname} soffre di vecchiaia e stanchezza!,
+WORLDEVENT_PARTY_GREW_OLD,Вся компания состарилась и устала!,,¡Todo el grupo se ha hecho mayor y ya no tiene fuerzas!,L'équipe entière est devenue vieille et épuisée&nbsp;!,Die gesamte Gruppe ist alt und gebrechlich geworden!,L'intero gruppo è diventato vecchio e stanco!,Todo o grupo envelheceu!
+,,,,,,,
+HOUSE_INTERSTITIAL_STARVED,{Catname} умер от голода!,,¡{Catname} se ha muerto de hambre!,{Catname} est mort de faim&nbsp;!,{Catname} ist verhungert!,,{Catname} morreu de fome!
+HOUSE_INTERSTITIAL_STARVED_M,,,,,,{Catname} è morto di fame!,
+HOUSE_INTERSTITIAL_STARVED_F,,,,,,{Catname} è morta di fame!,
+HOUSE_INTERSTITIAL_STARVED_N,,,,,,{Catname} ha cessato di vivere a causa della fame!,
+HOUSE_INTERSTITIAL_STARVING,"Еды не хватает, некоторые кошки голодают.",,No hay comida suficiente; algunos gatos se están muriendo de hambre.,Nourriture insuffisante. Certains chats meurent de faim.,Du hast nicht genug Futter. Deine Katzen haben Hunger.,"Non c'è abbastanza cibo, alcuni gatti stanno morendo di fame.",Não há comida suficiente. Alguns gatos estão passando fome.
+HOUSE_INTERSTITIAL_CANNIBALISM,"Ваши кошки голодают и вынуждены есть мертвых кошек, чтобы выжить!",,Tus gatos se están muriendo de hambre ¡y han tenido que comer gatos muertos para sobrevivir!,"Affamés, vos chats ont eu recours au cannibalisme pour rester en vie&nbsp;!","Deine Katzen haben Hunger und fressen tote Katzen, um zu überleben!",I tuoi gatti stanno morendo di fame e sono costretti a mangiare gatti morti per sopravvivere!,Seus gatos estão passando fome e começaram a comer gatos mortos para sobreviver!
+HOUSE_INTERSTITIAL_EATPOOP,"Ваши кошки голодают и вынуждены есть какашки, чтобы выжить!",,Tus gatos se están muriendo de hambre ¡y han tenido que comer caca para sobrevivir!,"Affamés, vos chats ont dû se résoudre à manger des excréments pour survivre&nbsp;!","Deine Katzen haben Hunger und fressen ihre Häufchen, um zu überleben!",I tuoi gatti stanno morendo di fame e sono costretti a mangiare cacca per sopravvivere!,Seus gatos estão passando fome e começaram a comer cocô para sobreviver!
+HOUSE_INTERSTITIAL_BREED,{Catname1} {gendericon1} справился с {Catname2} {gendericon2}...,,{Catname1} {gendericon1} se lo ha montado con {Catname2} {gendericon2}...,{Catname1} {gendericon1} a conclu avec {Catname2} {gendericon2}...,{Catname1}&nbsp;{gendericon1} treibt es mit {Catname2}&nbsp;{gendericon2}&nbsp;…,{Catname1} {gendericon1} ha iniziato a darsi da fare con {Catname2} {gendericon2}...,{Catname1} {gendericon1} mandou ver com {Catname2} {gendericon2}...
+HOUSE_INTERSTITIAL_BREED_PG,{Catname1} {gendericon1} собрался вместе с {Catname2} {gendericon2}...,,{Catname1} {gendericon1} se ha juntado con {Catname2} {gendericon2}...,{Catname1} {gendericon1} est passé à l'acte avec {Catname2} {gendericon2}...,{Catname1}&nbsp;{gendericon1} hat {Catname2}&nbsp;{gendericon2} ganz doll lieb&nbsp;…,{Catname1} {gendericon1} si sta divertendo con {Catname2} {gendericon2}...,{Catname1} {gendericon1} dormiu com {Catname2} {gendericon2}...
+HOUSE_INTERSTITIAL_BREED_RESULT_KITTEN,и сделал котенка!,"these show up on a newline after the ""catname got it on with..."" string after a delay",¡y han tenido un gatito!,et ils ont eu un chaton&nbsp;!,und sie bekommen ein Kätzchen!,e ha generato un gattino!,e fez um filhote!
+HOUSE_INTERSTITIAL_BREED_RESULT_TWINS,и родила двух котят!,,¡y han tenido dos gatitos!,et ils ont eu deux chatons&nbsp;!,und sie bekommen zwei Kätzchen!,e ha generato due gattini!,e fez dois filhotes!
+HOUSE_INTERSTITIAL_BREED_RESULT_NONE,но котенка не получилось.,,sin tener ningún gatito.,mais aucun chaton n'a été conçu.,aber sie bekommen kein Kätzchen.,ma non è nato nessun gattino.,mas nenhum filhote foi feito.
+HOUSE_INTERSTITIAL_REJECTED,{Catname1} {gendericon1} хотел продолжить работу с {Catname2} {gendericon2}...,,"{Catname1} {gendericon1} quería montárselo con {Catname2} {gendericon2}...,",{Catname1} {gendericon1} avait envie de conclure avec {Catname2} {gendericon2}...,{Catname1}&nbsp;{gendericon1} will es mit {Catname2}&nbsp;{gendericon2} treiben&nbsp;…,{Catname1} {gendericon1} voleva darsi da fare con {Catname2} {gendericon2}...,{Catname1} {gendericon1} queria mandar ver com {Catname2} {gendericon2}...
+HOUSE_INTERSTITIAL_REJECTED_PG,{Catname1} {gendericon1} хотел встретиться с {Catname2} {gendericon2}...,,"{Catname1} {gendericon1} quería juntarse con {Catname2} {gendericon2}...,",{Catname1} {gendericon1} avait envie de passer à l'acte avec {Catname2} {gendericon2}...,{Catname1}&nbsp;{gendericon1} hat {Catname2}&nbsp;{gendericon2} ganz doll lieb&nbsp;…,{Catname1} {gendericon1} voleva accoppiarsi con {Catname2} {gendericon2}...,{Catname1} {gendericon1} queria dormir com {Catname2} {gendericon2}...
+HOUSE_INTERSTITIAL_REJECTED2,но {Catname2} {gendericon2} этим не интересовался.,,pero a {Catname2} {gendericon2} no le apetecía.,mais {Catname2} {gendericon2} n'était pas d'humeur.,aber {Catname2} {gendericon2} hat kein Interesse.,ma {Catname2} {gendericon2} non era dello stesso avviso.,mas {Catname2} {gendericon2} não estava com vontade.
+HOUSE_INTERSTITIAL_FIGHT,{Catname1} начал драку с {Catname2}!,,¡{Catname1} se ha peleado con {Catname2}!,{Catname1} s'est battu avec {Catname2}&nbsp;!,{Catname1} kämpft mit {Catname2}!,{Catname1} ha iniziato a combattere con {Catname2}!,{Catname1} começou uma briga com {Catname2}!
+HOUSE_INTERSTITIAL_FIGHT_RESULT_WIN,{Catname} выиграл бой и был награжден {statchanges}!,,{Catname} ha ganado la pelea ¡y ha obtenido {statchanges}!,{Catname} a remporté le combat et a gagné {statchanges}&nbsp;!,{Catname} hat gewonnen und erhält {statchanges}!,{Catname} ha vinto il combattimento e ha ottenuto {statchanges} come ricompensa!,{Catname} ganhou a briga e obteve {statchanges}!
+HOUSE_INTERSTITIAL_FIGHT_RESULT_WIN_M,,,,,,,
+HOUSE_INTERSTITIAL_FIGHT_RESULT_WIN_F,,,,,,,
+HOUSE_INTERSTITIAL_FIGHT_RESULT_WIN_N,,,,,,,
+HOUSE_INTERSTITIAL_FIGHT_RESULT_TIE,Победителей не было.,,No ha ganado nadie.,Aucun des deux n'en est sorti vainqueur.,Es gab keinen Gewinner.,Non ha vinto nessuno.,Ninguém venceu.
+HOUSE_INTERSTITIAL_FIGHT_RESULT_INJURY,{Catname} пострадал {injury}.,,{Catname} se ha lesionado: {injury}.,{Catname} a subi {injury}.,{Catname} erleidet: {injury}.,{Catname} ha subito la ferita '{injury}'.,{Catname} sofreu {injury}.
+HOUSE_INTERSTITIAL_FIGHT_RESULT_INJURY_M,,,,,,,
+HOUSE_INTERSTITIAL_FIGHT_RESULT_INJURY_F,,,,,,,
+HOUSE_INTERSTITIAL_FIGHT_RESULT_INJURY_N,,,,,,,
+HOUSE_INTERSTITIAL_FIGHT_RESULT_LOSE,"{Catname} был избит, но не получил необратимой травмы.",,"{Catname} se ha llevado una buena paliza, pero no ha sufrido ninguna lesión permanente.","{Catname} s'est fait passer à tabac, mais sans séquelles permanentes.","{Catname} hat verloren, wurde aber nicht weiter verletzt.","{Catname} le ha prese di brutto, ma non ha riportato ferite permanenti.","{Catname} levou uma surra, mas não sofreu ferimentos permanentes."
+HOUSE_INTERSTITIAL_FIGHT_RESULT_LOSE_M,,,,,,,
+HOUSE_INTERSTITIAL_FIGHT_RESULT_LOSE_F,,,,,,,
+HOUSE_INTERSTITIAL_FIGHT_RESULT_LOSE_N,,,,,,,
+HOUSE_INTERSTITIAL_FIGHT_RESULT_DIE,{Catname} умер!,,¡{Catname} ha muerto!,{Catname} est mort&nbsp;!,{Catname} ist gestorben!,,{Catname} morreu!
+HOUSE_INTERSTITIAL_FIGHT_RESULT_DIE_M,,,,,,{Catname} è morto!,
+HOUSE_INTERSTITIAL_FIGHT_RESULT_DIE_F,,,,,,{Catname} è morta!,
+HOUSE_INTERSTITIAL_FIGHT_RESULT_DIE_N,,,,,,{Catname} ha perso la vita!,
+HOUSE_INTERSTITIAL_MUTATION,{Catname} эволюционировал!,,¡{Catname} ha evolucionado!,{Catname} a évolué&nbsp;!,{Catname} hat sich entwickelt!,,{Catname} evoluiu!
+HOUSE_INTERSTITIAL_MUTATION_M,,,,,,{Catname} si è evoluto!,
+HOUSE_INTERSTITIAL_MUTATION_F,,,,,,{Catname} si è evoluta!,
+HOUSE_INTERSTITIAL_MUTATION_N,,,,,,{Catname} ha subito un'evoluzione!,
+HOUSE_INTERSTITIAL_CURE_DISORDER,{Catname} потерял {disorder}!,,{Catname} ya no tiene esto: ¡{disorder}!,{Catname} ne subit plus {disorder}&nbsp;!,{Catname} leidet nicht mehr unter {disorder}!,{Catname} ha perso il disturbo '{disorder}'!,{Catname} não está mais sofrendo {disorder}!
+HOUSE_INTERSTITIAL_CURE_DISORDER_M,,,,,,,
+HOUSE_INTERSTITIAL_CURE_DISORDER_F,,,,,,,
+HOUSE_INTERSTITIAL_CURE_DISORDER_N,,,,,,,
+HOUSE_INTERSTITIAL_CURE_INJURY,{Catname's} {injury} чудесным образом исцелился!,,{Catname} se ha recuperado milagrosamente de esto: ¡{injury}!,{Catname} a perdu {injury}&nbsp;!,{injury} von {Catname} wurde wie durch ein Wunder geheilt!,La ferita '{injury}' di {Catname} è miracolosamente guarita!,O ferimento {injury} de {Catname's} foi curado milagrosamente!
+HOUSE_INTERSTITIAL_CURE_INJURY_M,,,,,,,
+HOUSE_INTERSTITIAL_CURE_INJURY_F,,,,,,,
+HOUSE_INTERSTITIAL_CURE_INJURY_N,,,,,,,
+HOUSE_INTERSTITIAL_GAIN_DISORDER,{Catname} получил {disorder}!,,{Catname} ha desarrollado esto: ¡{disorder}!,{Catname} a subi {disorder}&nbsp;!,{Catname} hat {disorder} erlitten!,{Catname} ha contratto il disturbo '{disorder}'!,{Catname} está sofrendo {disorder}!
+HOUSE_INTERSTITIAL_GAIN_DISORDER_M,,,,,,,
+HOUSE_INTERSTITIAL_GAIN_DISORDER_F,,,,,,,
+HOUSE_INTERSTITIAL_GAIN_DISORDER_N,,,,,,,
+HOUSE_INTERSTITIAL_BECOME_OLD,{Catname} постарел и устал.,,{Catname} se ha hecho mayor y ya no tiene fuerzas.,{Catname} est devenu vieux et épuisé.,{Catname} ist alt und gebrechlich geworden.,,{Catname} envelheceu.
+HOUSE_INTERSTITIAL_BECOME_OLD_M,,,,,,{Catname} è invecchiato e stanco.,
+HOUSE_INTERSTITIAL_BECOME_OLD_F,,,,,,{Catname} è invecchiata e stanca.,
+HOUSE_INTERSTITIAL_BECOME_OLD_N,,,,,,{Catname} soffre a causa di vecchiaia e stanchezza.,
+HOUSE_INTERSTITIAL_DIE_OLD_AGE,{Catname} умер от старости.,,{Catname} era muy mayor y ha muerto.,{Catname} est mort de vieillesse.,{Catname} ist an Altersschwäche gestorben.,,{Catname} morreu de velhice.
+HOUSE_INTERSTITIAL_DIE_OLD_AGE_M,,,,,,{Catname} è morto di vecchiaia.,
+HOUSE_INTERSTITIAL_DIE_OLD_AGE_F,,,,,,{Catname} è morta di vecchiaia.,
+HOUSE_INTERSTITIAL_DIE_OLD_AGE_N,,,,,,La vecchiaia ha avuto la meglio su {Catname}.,
+HOUSE_INTERSTITIAL_CALM,Ночь была спокойна. Ничего существенного не произошло.,,La noche ha sido tranquila. No ha ocurrido nada destacable.,"La nuit se déroula paisiblement, sans que rien de notable ne se produise.",Die Nacht war ruhig. Es ist nichts Besonderes passiert.,La notte è stata tranquilla. Non è successo nulla di significativo.,A noite foi calma. Nada digno de nota ocorreu.
+HOUSE_INTERSTITIAL_BUTTON_OK,ок,,Vale,OK,Ok,Ok,Ok
+HOUSE_INTERSTITIAL_BUTTON_CONTINUE,>>>,,>>>,>>>,>>>,>>>,>>>
+HOUSEBOSS_COUNTDOWN,{amount} дней,,{amount} días,{amount} jours,{amount}&nbsp;Tage,{amount} giorni,{amount} dias
+HOUSEBOSS_COUNTDOWN_TOMORROW,Завтра!,,¡Mañana!,Demain&nbsp;!,Morgen!,Domani!,Amanhã!
+HOUSEBOSS_COUNTDOWN_TODAY,!!!,,¡!,!!!,!!!,!!!,!!!
+HOUSE_BUTTON_ENDDAY,Конец дня,,Terminar día,Fin de journée,Tag beenden,Fine giornata,Finalizar Dia
+HOUSE_BUTTON_DEPART,Уходи!,,Partir,À l'aventure&nbsp;!,Aufbrechen!,Partenza!,Partir!
+HOUSE_DATE_FORMAT,{weekday} {month} {day},"ex ""Fr Jan 19"", text box to display this is small",{weekday} {day} {month},{weekday} {day} {month},"{weekday}, {day}. {month}",{weekday} {day} {month},"{weekday}, {day} de {month}"
+HOUSE_DATE_FORMAT_WITHYEAR,"{weekday} {month} {day}, год {year}","year shows as Year 0, Year 1, Year 2, etc. year since game began, not calendar year","{weekday} {day} {month}, año {year}","{weekday} {day} {month}, an {year}","{weekday}, {day}. {month}, Jahr {year}","{weekday} {day} {month}, Anno {year}","{weekday}, {day} de {month}, ano {year}"
+HOUSE_DATE_MONDAY,Мо,,Lu,Lu,Mo,Lu,Seg
+HOUSE_DATE_TUESDAY,Вт,,Ma,Ma,Di,Ma,Ter
+HOUSE_DATE_WEDNESDAY,Мы,,Mi,Me,Mi,Me,Qua
+HOUSE_DATE_THURSDAY,че,,Ju,Je,Do,Gi,Qui
+HOUSE_DATE_FRIDAY,Пт,,Vi,Ve,Fr,Ve,Sex
+HOUSE_DATE_SATURDAY,суббота,,Sa,Sa,Sa,Sa,Sáb
+HOUSE_DATE_SUNDAY,вс,,Do,Di,So,Do,Dom
+HOUSE_DATE_JAN,Ян,,Ene,Jan,Jan,Gen,Jan
+HOUSE_DATE_FEB,февраль,,Feb,Fév,Feb,Feb,Fev
+HOUSE_DATE_MAR,Мар,,Mar,Mar,Mär,Mar,Mar
+HOUSE_DATE_APR,апрель,,Abr,Avr,Apr,Apr,Abr
+HOUSE_DATE_MAY,май,,May,Mai,Mai,Mag,Mai
+HOUSE_DATE_JUN,июнь,,Jun,Jun,Jun,Giu,Jun
+HOUSE_DATE_JUL,июль,,Jul,Jul,Jul,Lug,Jul
+HOUSE_DATE_AUG,август,,Ago,Aoû,Aug,Ago,Ago
+HOUSE_DATE_SEP,Сентябрь,,Sep,Sep,Sep,Set,Set
+HOUSE_DATE_OCT,октябрь,,Oct,Oct,Okt,Ott,Out
+HOUSE_DATE_NOV,ноябрь,,Nov,Nov,Nov,Nov,Nov
+HOUSE_DATE_DEC,декабрь,,Dic,Déc,Dez,Dic,Dez
+HOUSE_FURNITURE_STAT_COMFORT,{amount} [img:comfort] Комфорт,,{amount} [img:comfort] Comodidad,[img:comfort] Bien-être&nbsp;: {amount},{amount} [img:comfort] Komfort,{amount} [img:comfort] Comfort,{amount} de [img:comfort] conforto
+HOUSE_FURNITURE_STAT_STIMULATION,{amount} [img:stimulation] Стимуляция,,{amount} [img:stimulation] Estimulación,[img:stimulation] Stimulation&nbsp;: {amount},{amount} [img:stimulation] Stimulation,{amount} [img:stimulation] Stimolazione,{amount} de [img:stimulation] estimulação
+HOUSE_FURNITURE_STAT_APPEAL,{amount} [img:appeal] Апелляция,,{amount} [img:appeal] Atractivo,[img:appeal] Attractivité&nbsp;: {amount},{amount} [img:appeal] Reiz,{amount} [img:appeal] Attrattiva,{amount} de [img:appeal] apelo
+HOUSE_FURNITURE_STAT_HEALTH,{amount} [img:health] Здоровье,,{amount} [img:health] Salud,[img:health] Santé&nbsp;: {amount},{amount} [img:health] Gesundheit,{amount} [img:health] Salute,{amount} de [img:health] saúde
+HOUSE_FURNITURE_STAT_MUTATION,{amount} [img:evolution] Мутация,,{amount} [img:evolution] Mutación,[img:evolution] Mutation&nbsp;: {amount},{amount} [img:evolution] Mutation,{amount} [img:evolution] Mutazione,{amount} de [img:evolution] mutação
+HOUSE_STORAGE_NAME,Хранение,,Almacén,Rangement,Lager,Deposito,Armazenamento
+HOUSE_QUEST_STORAGE_NAME,Квестовые предметы,,Objetos de misión,Objets de quête,Questgegenstände,Oggetti missione,Itens de Missões
+HOUSE_TRASH_NAME,мусор,,Basura,Poubelle,Müll,Cestino,Lixeira
+HOUSE_TRASH_SUBTITLE,"(будет опорожнено в 
+конец дня)",,"(se vaciará
+al final del día)","(elle sera vidée
+en fin de journée)","(wird am Ende des
+Tages geleert)","(sarà svuotato alla 
+fine della giornata)",(é esvaziada no fim do dia)
+HOUSE_CAT_INFO_LOWAGGRO,Низкая агрессия,,Agresividad baja,Agressivité basse,Niedrige Aggressivität,Bassa aggressività,Agressão baixa
+HOUSE_CAT_INFO_MIDAGGRO,Средняя агрессия,,Agresividad media,Agressivité modérée,Mittlere Aggressivität,Media aggressività,Agressão média
+HOUSE_CAT_INFO_HIGHAGGRO,Высокая агрессия,,Agresividad alta,Agressivité élevée,Hohe Aggressivität,Alta aggressività,Agressão alta
+HOUSE_CAT_INFO_LOWLIBIDO,Низкое либидо,,Libido baja,Libido basse,Niedrige Libido,Bassa libido,Libido baixa
+HOUSE_CAT_INFO_MIDLIBIDO,Среднее либидо,,Libido media,Libido modérée,Mittlere Libido,Media libido,Libido média
+HOUSE_CAT_INFO_HIGHLIBIDO,Высокое либидо,,Libido alta,Libido élevée,Hohe Libido,Alta libido,Libido alta
+HOUSE_CAT_INFO_INBRED0,Не инбредный,,Endogamia nula,Non consanguin,Keine Inzucht,Consanguineità assente,Sem consanguinidade
+HOUSE_CAT_INFO_INBRED1,Слегка инбредный,,Endogamia ligera,Légèrement consanguin,Niedrige Inzucht,Consanguineità leggera,Consanguinidade baixa
+HOUSE_CAT_INFO_INBRED2,Умеренно инбредный,,Endogamia moderada,Modérément consanguin,Mittlere Inzucht,Consanguineità moderata,Consanguinidade moderada
+HOUSE_CAT_INFO_INBRED3,Высоко инбредный,,Endogamia elevada,Fortement consanguin,Hohe Inzucht,Consanguineità alta,Consanguinidade alta
+HOUSE_CAT_INFO_INBRED4,Чрезвычайно инбредный,,Endogamia extrema,Extrêmement consanguin,Extreme Inzucht,Consanguineità estrema,Consanguinidade extrema
+HOUSE_CAT_INFO_LOVER,Любит {Catname},,Quiere a {Catname},Aime {Catname},Liebt {Catname},Ama {Catname},Ama {Catname}
+HOUSE_CAT_INFO_LOVER_M,,,,,,,
+HOUSE_CAT_INFO_LOVER_F,,,,,,,
+HOUSE_CAT_INFO_LOVER_N,,,,,,,
+HOUSE_CAT_INFO_RIVAL,Ненавидит {Catname},,Odia a {Catname},Déteste {Catname},Hasst {Catname},Odia {Catname},Odeia {Catname}
+HOUSE_CAT_INFO_RIVAL_M,,,,,,,
+HOUSE_CAT_INFO_RIVAL_F,,,,,,,
+HOUSE_CAT_INFO_RIVAL_N,,,,,,,
+HOUSE_CAT_INFO_AGE,Возраст {age},,Edad: {age},{age},Alter {age},Età: {age},Idade: {age}
+HOUSE_CAT_INFO_HP,ХП:,,PS:,PV&nbsp;:,LP:,PS:,PV:
+HOUSE_CAT_INFO_LEVEL,Лев.,,Nv.,Niv.,Lv.,Liv:,Nv.
+HOUSE_CAT_INFO_OLD,старый,,viejo,ans,alt,vecchio,
+HOUSE_CAT_INFO_STR_NAME,[img:str]Сила,,[img:str]Fuerza,[img:str]Force,[img:str]Stärke,[img:str]Forza,[img:str]Força
+HOUSE_CAT_INFO_STR_DESC,Сила влияет на атаку в ближнем бою и урон от способностей ближнего боя.,,La fuerza afecta al daño de los ataques y las habilidades cuerpo a cuerpo.,La force affecte les dégâts des attaques et compétences au corps à corps.,Stärke wirkt sich auf den Schaden von Nahkampfangriffen und -fähigkeiten aus.,La forza influenza l'attacco corpo a corpo e il danno delle abilità corpo a corpo.,A força afeta o dano de ataques e habilidades corpo-a-corpo.
+HOUSE_CAT_INFO_DEX_NAME,[img:dex]Ловкость,,[img:dex]Destreza,[img:dex]Dextérité,[img:dex]Geschicklichkeit,[img:dex]Destrezza,[img:dex]Destreza
+HOUSE_CAT_INFO_DEX_DESC,Ловкость влияет на дальнюю атаку и урон от дальних способностей.,,La destreza afecta al daño de los ataques y las habilidades a distancia.,La dextérité affecte les dégâts des attaques et compétences à distance.,Geschicklichkeit wirkt sich auf den Schaden von Fernkampfangriffen und -fähigkeiten aus.,La destrezza influenza il danno da attacco a distanza e il danno da abilità a distanza.,A destreza afeta o dano de ataques e habilidades à distância.
+HOUSE_CAT_INFO_CON_NAME,[img:con]Конституция,,[img:con]Constitución,[img:con]Constitution,[img:con]Konstitution,[img:con]Costituzione,[img:con]Constituição
+HOUSE_CAT_INFO_CON_DESC,Телосложение влияет на максимальное здоровье и восстановление после боя.,,La constitución afecta al máximo de salud y a la regeneración tras el combate.,La constitution affecte les PV max. et la régénération de PV après les combats.,Konstitution wirkt sich auf max. Gesundheit und Lebensregeneration nach dem Kampf aus.,La costituzione influenza la salute massima e la rigenerazione della salute dopo le battaglie.,A constituição afeta a saúde máxima e a regeneração após o combate.
+HOUSE_CAT_INFO_INT_NAME,[img:int]Интеллект,,[img:int]Inteligencia,[img:int]Intelligence,[img:int]Intelligenz,[img:int]Intelligenza,[img:int]Inteligência
+HOUSE_CAT_INFO_INT_DESC,Интеллект влияет на регенерацию маны.,,La inteligencia afecta a la regeneración de maná.,L'intelligence affecte la régénération de mana.,Intelligenz wirkt sich auf Manaregeneration aus.,L'intelligenza influenza la rigenerazione del mana.,A inteligência afeta a regeneração de mana.
+HOUSE_CAT_INFO_CHA_NAME,[img:cha]Харизма,,[img:cha]Carisma,[img:cha]Charisma,[img:cha]Charisma,[img:cha]Carisma,[img:cha]Carisma
+HOUSE_CAT_INFO_CHA_DESC,Харизма влияет на максимальную ману и начальную ману.,,El carisma afecta al maná inicial y al máximo de maná.,Le charisme affecte le mana max. et le mana de départ.,Charisma wirkt sich auf max. Mana und Mana zu Kampfbeginn aus.,Il carisma influenza il mana massimo e il mana iniziale.,O carisma afeta a mana máxima e a mana inicial.
+HOUSE_CAT_INFO_SPD_NAME,[img:spd]Скорость,,[img:spd]Velocidad,[img:spd]Vitesse,[img:spd]Geschwindigkeit,[img:spd]Velocità,[img:spd]Velocidade
+HOUSE_CAT_INFO_SPD_DESC,Скорость влияет на порядок поворота и дальность движения.,,La velocidad afecta al orden de los turnos y al alcance del movimiento.,La vitesse affecte l'ordre du tour et la portée des déplacements.,Geschwindigkeit wirkt sich auf die Zugreihenfolge und Bewegungsreichweite aus.,La velocità influenza il raggio di movimento e l'ordine dei turni.,A velocidade afeta a ordem dos turnos e o alcance de movimento.
+HOUSE_CAT_INFO_LCK_NAME,[img:lck]Удача,,[img:lck]Suerte,[img:lck]Chance,[img:lck]Glück,[img:lck]Fortuna,[img:lck]Sorte
+HOUSE_CAT_INFO_LCK_DESC,Удача влияет на базовый шанс критического удара и на всю случайность.,,La suerte afecta a la probabilidad de crítico base y a todo lo que depende del azar.,La chance affecte les chances de coup critique de base ainsi que toute forme d'aléatoire.,Glück wirkt sich auf die kritische Trefferchance und alle zufälligen Ereignisse aus.,La fortuna influenza la probabilità di colpo critico base e tutte le casualità.,A sorte afeta a chance de crítico base e tudo que é aleatório.
+,,,,,,,
+MUTATION_BODY_NAME,Мутация тела,,Mutación de cuerpo,Mutation du corps,Mutation (Körper),Mutazione del corpo,Mutação de corpo
+MUTATION_HEAD_NAME,Головная мутация,,Mutación de cabeza,Mutation de la tête,Mutation (Kopf),Mutazione della testa,Mutação de cabeça
+MUTATION_TAIL_NAME,Мутация хвоста,,Mutación de cola,Mutation de la queue,Mutation (Schwanz),Mutazione della coda,Mutação de cauda
+MUTATION_LEG_NAME,Мутация ноги,,Mutación de pierna trasera,Mutation des jambes,Mutation (Beine),Mutazione delle zampe posteriori,Mutação de perna
+MUTATION_ARM_NAME,Мутация руки,,Mutación de pierna delantera,Mutation des bras,Mutation (Arme),Mutazione delle zampe anteriori,Mutação de braço
+MUTATION_EYE_NAME,Мутация глаза,,Mutación de ojo,Mutation des yeux,Mutation (Augen),Mutazione degli occhi,Mutação de olho
+MUTATION_EYEBROW_NAME,Мутация бровей,,Mutación de ceja,Mutation des sourcils,Mutation (Augenbrauen),Mutazione delle sopracciglia,Mutação de sobrancelha
+MUTATION_EAR_NAME,Мутация уха,,Mutación de oreja,Mutation des oreilles,Mutation (Ohren),Mutazione delle orecchie,Mutação de orelha
+MUTATION_MOUTH_NAME,Мутация рта,,Mutación de boca,Mutation de la bouche,Mutation (Mund),Mutazione della bocca,Mutação de boca
+MUTATION_FUR_NAME,Мутация меха,,Mutación de pelo,Mutation de la fourrure,Mutation (Fell),Mutazione del pelo,Mutação de pelagem
+MUTATION_BODY_NAME_BAD,Врожденный дефект тела,,Malformación congénita de cuerpo,Malformation du corps,Geburtsfehler (Körper),Difetto congenito del corpo,Doença congênita de corpo
+MUTATION_HEAD_NAME_BAD,Врожденный дефект головы,,Malformación congénita de cabeza,Malformation de la tête,Geburtsfehler (Kopf),Difetto congenito della testa,Doença congênita de cabeça
+MUTATION_TAIL_NAME_BAD,Врожденный дефект хвоста,,Malformación congénita de cola,Malformation de la queue,Geburtsfehler (Schwanz),Difetto congenito della coda,Doença congênita de cauda
+MUTATION_LEG_NAME_BAD,Врожденный дефект ноги,,Malformación congénita de pata trasera,Malformation des jambes,Geburtsfehler (Beine),Difetto congenito delle zampe posteriori,Doença congênita de perna
+MUTATION_ARM_NAME_BAD,Врожденный дефект руки,,Malformación congénita de pata delantera,Malformation des bras,Geburtsfehler (Arme),Difetto congenito del zampe anteriori,Doença congênita de braço
+MUTATION_EYE_NAME_BAD,Врожденный дефект глаза,,Malformación congénita de ojo,Malformation des yeux,Geburtsfehler (Augen),Difetto congenito dell'occhio,Doença congênita de olho
+MUTATION_EYEBROW_NAME_BAD,Врожденный дефект бровей,,Malformación congénita de ceja,Malformation des sourcils,Geburtsfehler (Augenbrauen),Difetto congenito delle sopracciglia,Doença congênita de sobrancelha
+MUTATION_EAR_NAME_BAD,Врожденный дефект уха,,Malformación congénita de oreja,Malformation des oreilles,Geburtsfehler (Ohren),Difetto congenito delle orecchie,Doença congênita de orelha
+MUTATION_MOUTH_NAME_BAD,Врожденный дефект рта,,Malformación congénita de boca,Malformation de la bouche,Geburtsfehler (Mund),Difetto congenito della bocca,Doença congênita de boca
+MUTATION_FUR_NAME_BAD,Врожденный дефект меха,,Malformación congénita de pelo,Malformation de la fourrure,Geburtsfehler (Fell),Difetto congenito del pelo,Doença congênita de pelagem
+HOUSE_CAT_INFO_HAS_MUTATIONS,У этого кота есть мутации!,,¡Este gato tiene mutaciones!,Ce chat a des mutations&nbsp;!,Diese Katze hat Mutationen!,Questo gatto ha delle mutazioni!,Este gato possui mutações!
+,,,,,,,
+LEVELUP_REROLL_BUTTON,Варианты переброса,,Cambio al azar,Tirage d'options,Auswahl neu generieren,Opzioni di rilancio,Rolar opções novamente
+LEVELUP_TITLE,{Catname} Повышен уровень!,,¡{Catname} ha subido de nivel!,{Catname} gagne un niveau&nbsp;!,{Catname} ist aufgelevelt!,,{Catname} subiu de nível!
+LEVELUP_TITLE_M,,,,,,{Catname} è salito di livello!,
+LEVELUP_TITLE_F,,,,,,{Catname} è salita di livello!,
+LEVELUP_TITLE_N,,,,,,{Catname} ha raggiunto il livello successivo!,
+LEVELUP_SUBTITLE_NOSTATS,{Catname} теперь имеет уровень {level}!,,Ha alcanzado el nivel {level}.,{Catname} est désormais niveau {level}&nbsp;!,{Catname} ist jetzt Level {level}!,{Catname} è ora di livello {level}!,{Catname} atingiu o nível {level}!
+LEVELUP_SUBTITLE_NOSTATS_M,,,,,,,
+LEVELUP_SUBTITLE_NOSTATS_F,,,,,,,
+LEVELUP_SUBTITLE_NOSTATS_N,,,,,,,
+LEVELUP_SUBTITLE,{Catname} теперь имеет уровень {level}! {Catname} получил {statchanges}!,,Ha alcanzado el nivel {level} y ha recibido {statchanges}.,{Catname} est désormais niveau {level}&nbsp;! {Catname} obtient {statchanges}&nbsp;!,{Catname} ist jetzt Level {level}! {Catname} erhält {statchanges}!,{Catname} è ora di livello {level}! {Catname} ha ottenuto {statchanges}!,{Catname} atingiu o nível {level}! {Catname} obteve {statchanges}!
+LEVELUP_SUBTITLE_M,,,,,,,
+LEVELUP_SUBTITLE_F,,,,,,,
+LEVELUP_SUBTITLE_N,,,,,,,
+LEVELUP_BONUS_PASSIVE,{Catname} также выучил {passive}!,,¡También ha aprendido {passive}!,{Catname} apprend également {passive}&nbsp;!,{Catname} hat außerdem {passive} gelernt!,{Catname} ha anche imparato l'abilità passiva {passive}!,{Catname} também aprendeu {passive}!
+LEVELUP_BONUS_PASSIVE_M,,,,,,,
+LEVELUP_BONUS_PASSIVE_F,,,,,,,
+LEVELUP_BONUS_PASSIVE_N,,,,,,,
+LEVELUP_CHOICE_ERROR_NAME,Ничего,,Nada,Rien,Nichts,Nulla,Nada
+LEVELUP_CHOICE_ERROR_DESC,не нажимайте на это. его не должно существовать.,,No pulses esto; no debería existir.,Ne cliquez pas sur ce truc. Il n'a pas lieu d'exister.,nicht anklicken. dies sollte nicht existieren.,non cliccare. non dovrebbe esistere.,isto é um erro não deveria existir. não clique aqui.
+LEVELUP_CHOICE_ABILITY,Изучите способности!,,Aprender habilidad,Nouvelle compétence&nbsp;!,Fähigkeit lernen!,Impara Abilità Attiva!,Aprender habilidade!
+LEVELUP_CHOICE_PASSIVE,Изучите пассив!,,Aprender habilidad pasiva,Nouvelle compétence passive&nbsp;!,Passiveffekt lernen!,Impara Abilità Passiva!,Aprender habilidade passiva!
+LEVELUP_CHOICE_UPGRADE_ABILITY,Возможность обновления!,,Mejorar habilidad,Amélioration de compétence&nbsp;!,Fähigkeit verbessern!,Potenzia Abilità Attiva!,Aprimorar habilidade!
+LEVELUP_CHOICE_UPGRADE_PASSIVE,Обновите пассив!,,Mejorar habilidad pasiva,Amélioration de compétence passive&nbsp;!,Passiveffekt verbessern!,Potenzia Abilità Passiva!,Aprimorar habilidade passiva!
+LEVELUP_CHOICE_DISORDER,Усиление беспорядка,,Desarrollar trastorno,Un trouble&nbsp;!,Störung erhalten,Ottieni Disturbo,Obter transtorno
+LEVELUP_CHOICE_ITEM,Элемент!,,Objeto,Un objet&nbsp;!,Gegenstand!,Oggetto!,Item!
+LEVELUP_CHOICE_STATS,Бонусная статистика!,,Bonificación de atributos,Un bonus de stats&nbsp;!,Bonusattribute!,Statistiche Bonus!,Bônus de atributos!
+LEVELUP_CHOICE_EXTRAFULLHEAL,и полное исцеление,,y curación total,& PV complets,& vollständige Heilung,& Guarigione Completa,& cura completa
+LEVELUP_CHOICE_STATS_STR,"[img:str]Сила[img:str]
+влияет на атаку в ближнем бою и урон от способностей ближнего боя",,"[img:str]Fuerza[img:str]
+Afecta al daño de los ataques y las habilidades cuerpo a cuerpo.","La [img:str]force[img:str]
+affecte les dégâts des attaques et compétences au corps à corps.","[img:str]Stärke[img:str]
+wirkt sich auf den Schaden von Nahkampfangriffen und -fähigkeiten aus","La [img:str]Forza[img:str]
+influenza l'attacco corpo a corpo e il danno delle abilità corpo a corpo","A [img:str]força[img:str]
+afeta o dano de ataques e habilidades corpo-a-corpo"
+LEVELUP_CHOICE_STATS_DEX,"[img:dex]Ловкость[img:dex]
+влияет на дальнюю атаку и урон от дальних способностей",,"[img:dex]Destreza[img:dex]
+Afecta al daño de los ataques y las habilidades a distancia.","La [img:dex]dextérité[img:dex]
+affecte les dégâts des attaques et compétences à distance.","[img:dex]Geschicklichkeit[img:dex]
+wirkt sich auf den Schaden von Fernkampfangriffen und -fähigkeiten aus","La [img:dex]Destrezza[img:dex]
+influenza il danno da attacco a distanza e il danno da abilità a distanza","A [img:dex]destreza[img:dex]
+afeta o dano de ataques e habilidades à distância"
+LEVELUP_CHOICE_STATS_CON,"[img:con]Конституция[img:con]
+влияет на максимальное здоровье и регенерацию после боя",,"[img:con]Constitución[img:con]
+Afecta al máximo de salud y a la regeneración tras el combate.","La [img:con]constitution[img:con]
+affecte les PV max. et la régénération de PV après les combats.","[img:con]Konstitution[img:con]
+wirkt sich auf max. Gesundheit und Lebensregeneration nach dem Kampf aus","La [img:con]Costituzione[img:con]
+influenza la salute massima e la rigenerazione della salute dopo le battaglie","A [img:con]constituição[img:con]
+afeta a saúde máxima e a regeneração após o combate"
+LEVELUP_CHOICE_STATS_INT,"[img:int]Интеллект[img:int]
+влияет на регенерацию маны",,"[img:int]Inteligencia[img:int]
+Afecta a la regeneración de maná.","L'[img:int]intelligence[img:int]
+affecte la régénération de mana.","[img:int]Intelligenz[img:int]
+wirkt sich auf Manaregeneration aus","L'[img:int]Intelligenza[img:int]
+influenza la rigenerazione del mana","A [img:int]inteligência[img:int]
+afeta a regeneração de mana"
+LEVELUP_CHOICE_STATS_CHA,"[img:cha]Харизма[img:cha]
+влияет на максимальную и стартовую ману",,"[img:cha]Carisma[img:cha]
+Afecta al maná inicial y al máximo de maná.","Le [img:cha]charisme[img:cha]
+affecte le mana max. et le mana de départ.","[img:cha]Charisma[img:cha]
+wirkt sich auf max. Mana und Mana zu Kampfbeginn aus","Il [img:cha]Carisma[img:cha]
+influenza il mana massimo e il mana iniziale","O [img:cha]carisma[img:cha]
+afeta a mana máxima e a mana inicial"
+LEVELUP_CHOICE_STATS_SPD,"[img:spd]Скорость[img:spd]
+влияет на порядок поворота и дальность движения",,"[img:spd]Velocidad[img:spd]
+Afecta al orden de los turnos y al alcance del movimiento.","La [img:spd]vitesse[img:spd]
+affecte l'ordre du tour et la portée des déplacements.","[img:spd]Geschwindigkeit[img:spd]
+wirkt sich auf die Zugreihenfolge und Bewegungsreichweite aus","La [img:spd]Velocità [img:spd]
+influenza il raggio di movimento e l'ordine dei turni","A [img:spd]velocidade[img:spd]
+afeta a ordem dos turnos e o alcance de movimento"
+LEVELUP_CHOICE_STATS_LCK,"[img:lck]Удача[img:lck]
+влияет на базовый шанс критического удара и всю случайность",,"[img:lck]Suerte[img:lck]
+Afecta a la probabilidad de crítico base y a todo lo que depende del azar.","La [img:lck]chance[img:lck]
+affecte les chances de coup critique de base ainsi que toute forme d'aléatoire.","[img:lck]Glück[img:lck]
+wirkt sich auf die kritische Trefferchance und alle zufälligen Ereignisse aus","La [img:lck]Fortuna[img:lck]
+influenza la probabilità di colpo critico base e tutte le casualità","A [img:lck]sorte[img:lck]
+afeta a chance de crítico base e tudo que é aleatório"
+LEVELUP_REPLACE_ABILITY,Выберите возможность замены,,Selecciona una habilidad para remplazarla.,Remplacer une compétence,Wähle eine Fähigkeit zum Ersetzen,Seleziona un'abilità attiva da sostituire,Selecione uma habilidade para substituir
+LEVELUP_REPLACE_PASSIVE,Выберите пассив для замены,,Selecciona una habilidad pasiva para remplazarla.,Remplacer une compétence passive,Wähle einen Passiveffekt zum Ersetzen,Seleziona un'abilità passiva da sostituire,Selecione uma habilidade passiva para substituir
+LEVELUP_REPLACE_DISORDER,Выберите расстройство для замены,,Selecciona un trastorno para remplazarlo.,Remplacer un trouble,Wähle eine Störung zum Ersetzen,Seleziona un disturbo da sostituire,Selecione um transtorno para substituir
+LEVELUP_PROMPT_ACTIVE,Выберите активную способность к обучению:,,Elige una habilidad activa para aprenderla:,Compétence active à apprendre&nbsp;:,Wähle eine Aktivfähigkeit:,Scegli un'abilità attiva da apprendere:,Escolha uma habilidade ativa para aprender:
+LEVELUP_PROMPT_PASSIVE,Выберите пассивную способность учиться:,,Elige una habilidad pasiva para aprenderla:,Compétence passive à apprendre&nbsp;:,Wähle einen Passiveffekt:,Scegli un'abilità passiva da apprendere:,Escolha uma habilidade passiva para aprender:
+LEVELUP_PROMPT_STAT,Выберите бонус к характеристикам:,,Elige una bonificación de atributos:,Bonus de stats à obtenir&nbsp;:,Wähle ein Attribut:,Scegli un bonus alle statistiche:,Escolha um bônus de atributo:
+LEVELUP_PROMPT_UPGRADE_ACTIVE,Выберите способность для улучшения:,,Elige una habilidad para mejorarla:,Compétence active à améliorer&nbsp;:,Wähle eine Fähigkeit zum Verbessern:,Scegli un'abilità attiva da potenziare:,Escolha uma habilidade para aprimorar:
+LEVELUP_PROMPT_UPGRADE_PASSIVE,Выберите пассивку для улучшения:,,Elige una habilidad pasiva para mejorarla:,Compétence passive à améliorer&nbsp;:,Wähle einen Passiveffekt zum Verbessern:,Scegli un'abilità passiva da potenziare:,Escolha uma habilidade passiva para aprimorar:
+LEVELUP_PROMPT_DISORDER,"Выберите расстройство, чтобы получить:",,Elige un trastorno para desarrollarlo:,Trouble à obtenir&nbsp;:,Wähle eine Störung:,Scegli un disturbo da ottenere:,Escolha um transtorno para obter:
+LEVELUP_PROMPT_ITEM,"Выберите предмет, чтобы получить:",,Elige un objeto para obtenerlo:,Objet à obtenir&nbsp;:,Wähle einen Gegenstand:,Scegli un oggetto da ottenere:,Escolha um item para obter:
+LEVELUP_PROMPT_CHAOS,Выберите что-нибудь:,,Elige algo:,Faites votre choix&nbsp;:,Wähle etwas:,Scegli qualcosa:,Escolha algo:
+LEVELUP_PROMPT_ERROR,этого не должно случиться,,Esto no debería ocurrir.,ceci ne devrait pas arriver,dies sollte nicht passieren,questo non dovrebbe accadere,isto não deveria acontecer
+LEVELUP_UI_UPGRADE,Обновление!,,¡Mejora!,Amélioration&nbsp;!,Verbessern!,Potenziamento!,Aprimorar!
+LEVELUP_UI_ACTIVES,Активы,,Activas,Compétences actives,Aktivfähigkeiten,Abilità Attive,Ativas
+LEVELUP_UI_PASSIVES,Пассивные умения,,Pasivas,Compétences passives,Passiveffekte,Abilità Passive,Passivas
+LEVELUP_UI_BASICATTACK,Атака,,Ataque,Attaque,Angriff,Attacco,Ataque
+,,,,,,,
+POPUP_MODAL_OK,ок,,Vale,OK,Ok,Ok,Ok
+POPUP_MODAL_CANCEL,Отмена,,Cancelar,Annuler,Abbrechen,Annulla,Cancelar
+POPUP_MODAL_SKIP,Пропустить,,Omitir,Passer,Überspringen,Salta,Pular
+POPUP_MODAL_YES,Да,,Sí,Oui,Ja,Sì,Sim
+POPUP_MODAL_NO,Нет,,No,No,Nein,No,Não
+,,,,,,,
+COMBAT_POPUP_MISS,Мисс,"combat popups appear above a cat for a very short time before dissapearing, they cant be too long",Fallo,Raté&nbsp;!,Verfehlt,Mancato,Erro
+COMBAT_POPUP_BLOCKED,Заблокировано,,Bloqueo,Paré&nbsp;!,Blockiert,Bloccato,Bloqueio
+COMBAT_POPUP_FIRE,ОГОНЬ!!!,,¡FUEGO!,FEU&nbsp;!!!,FEUER!!!,FUOCO!!!,FOGO!!!
+COMBAT_POPUP_LAVA,ЛАВА!!!,,¡LAVA!,LAVE&nbsp;!!!,LAVA!!!,LAVA!!!,LAVA!!!
+COMBAT_POPUP_RUN,Бегать!,,¡Huye!,Fuite&nbsp;!,Flucht!,Fuga!,Corra!
+COMBAT_POPUP_ITEMBROKE,{item} Сломан!,,Se ha roto: ¡{item}!,Brisé&nbsp;: {item}&nbsp;!,{item} ist kaputt!,{item} è rotto!,{item} quebrou!
+COMBAT_POPUP_CAUGHT_DISEASE,Пойман {disorder},,Desarrollado: ¡{disorder}!,Attrapé&nbsp;: {disorder},{disorder} erlitten,{disorder} contratto!,Pegou {disorder}
+COMBAT_POPUP_GOT_DISORDER,Получил {disorder},,Recibido: ¡{disorder}!,Obtenu&nbsp;: {disorder},{disorder} erhalten,{disorder} ottenuto,Está sofrendo {disorder}
+COMBAT_POPUP_CURED_DISEASE,{disorder} Вылечено!,,Se ha curado: ¡{disorder}!,Soigné&nbsp;: {disorder}&nbsp;!,{disorder} geheilt!,{disorder} curato!,Curou-se de {disorder}
+COMBAT_POPUP_CURED_INJURY,{injury} Вылечено!,,Se ha curado: ¡{injury}!,Soigné&nbsp;: {injury}&nbsp;!,{injury} geheilt!,{injury} curato!,Curou-se de {injury}!
+COMBAT_POPUP_ITEM_STOLEN,{item} Украдено!,,Objeto robado: ¡{item}!,Volé&nbsp;: {item}&nbsp;!,{item} gestohlen!,{item} rubato!,{item} roubado(a)!
+COMBAT_POPUP_STR_UP,Увеличение силы,,Fuerza aumentada,Force (+),Stärke hoch,Forza +,Força aumentada
+COMBAT_POPUP_DEX_UP,Повышение ловкости,,Destreza aumentada,Dextérité (+),Geschicklichkeit hoch,Destrezza +,Destreza aumentada
+COMBAT_POPUP_CON_UP,Конституция,,Constitución aumentada,Constitution (+),Konstitution hoch,Costituzione +,Constituição aumentada
+COMBAT_POPUP_INT_UP,Повышение интеллекта,,Inteligencia aumentada,Intelligence (+),Intelligenz hoch,Intelligenza +,Inteligência aumentada
+COMBAT_POPUP_SPD_UP,Ускорение,,Velocidad aumentada,Vitesse (+),Geschwindigkeit hoch,Velocità +,Velocidade aumentada
+COMBAT_POPUP_CHA_UP,Харизма вверх,,Carisma aumentado,Charisme (+),Charisma hoch,Carisma +,Carisma aumentado
+COMBAT_POPUP_LCK_UP,Удачи,,Suerte aumentada,Chance (+),Glück hoch,Fortuna +,Sorte aumentada
+COMBAT_POPUP_STR_DOWN,Сила вниз,,Fuerza reducida,Force (-),Stärke runter,Forza -,Força diminuída
+COMBAT_POPUP_DEX_DOWN,Ловкость снижается,,Destreza reducida,Dextérité (-),Geschicklichkeit runter,Destrezza -,Destreza diminuída
+COMBAT_POPUP_CON_DOWN,Конституция вниз,,Constitución reducida,Constitution (-),Konstitution runter,Costituzione -,Constituição diminuída
+COMBAT_POPUP_INT_DOWN,Интеллект вниз,,Inteligencia reducida,Intelligence (-),Intelligenz runter,Intelligenza -,Inteligência diminuída
+COMBAT_POPUP_SPD_DOWN,Снижение скорости,,Velocidad reducida,Vitesse (-),Geschwindigkeit runter,Velocità -,Velocidade diminuída
+COMBAT_POPUP_CHA_DOWN,Харизма вниз,,Carisma reducido,Charisme (-),Charisma runter,Carisma -,Carisma diminuído
+COMBAT_POPUP_LCK_DOWN,Удача вниз,,Suerte reducida,Chance (-),Glück runter,Fortuna -,Sorte diminuída
+COMBAT_POPUP_STUNNED,Ошеломленный,,Aturdimiento,Étourdissement,Betäubt,Stordimento,Atordoamento
+COMBAT_POPUP_IMMOBILE,Неподвижный,,Inmovilización,Immobilisation,Unbeweglich,Immobilizzazione,Imobilização
+COMBAT_POPUP_FROZEN,Замороженный,,Congelación,Gel,Eingefroren,Congelamento,Congelamento
+COMBAT_POPUP_MAD,Безумный,,Locura,Folie,Wahnsinnig,Rabbia,Insanidade
+COMBAT_POPUP_WAKEUP,Проснуться!,,¡Despierta!,Réveil&nbsp;!,Aufgewacht!,Svegliati!,Acordar!
+COMBAT_POPUP_SLEEPING,Спящий,,Durmiendo,Sommeil,Schläft,Sonno,Dormindo
+COMBAT_POPUP_FALLASLEEP,Ззз...,,Zzz...,Zzz...,Zzz&nbsp;…,Zzz...,Zzz...
+COMBAT_POPUP_EXERTED,Оказанное,,Esfuerzo,Déployé,Überanstrengt,Fatica,Exaustão
+COMBAT_POPUP_FEAR,Страх,,Miedo,Peur,Angst,Paura,Medo
+COMBAT_POPUP_ATTRACTION,Привлечение,,Atracción,Attraction,Anziehung,Attrazione,Atração
+COMBAT_POPUP_CONFUSED,Смущенный?,,Confusión,Confus&nbsp;?,Verwirrt?,Confuso?,Confusão?
+COMBAT_POPUP_BREAKFREE,Вырвись на свободу!,,¡Se libera!,Libéré&nbsp;!,Befreit!,Liberati!,Libertar-se!
+COMBAT_POPUP_CHARGED,Заряжено!,,¡Se ha cargado!,Chargé&nbsp;!,Aufgeladen!,Carico!,Carregamento!
+COMBAT_POPUP_EXHAUSTED,Измученный,,Agotamiento,Fatigue,Erschöpft,Esausto,Cansaço
+COMBAT_POPUP_ADRENALINE,Адреналин!!!,,¡Adrenalina!,Adrénaline&nbsp;!!!,Adrenalin!!!,Adrenalina!!!,Adrenalina!!!
+COMBAT_POPUP_EXHAUSTED2,Измученный!,,Agotamiento,Fatigue&nbsp;!,Erschöpft!,Esausto!,Cansaço!
+COMBAT_POPUP_COUNTERED,Противостоял!,,¡Contrataque!,Contré&nbsp;!,Konter!,Contrattaccato!,Contra-ataque!
+COMBAT_POPUP_ROT,Гниль,,Putrefacción,Décomposition,Fäulnis,Marciume,Apodrecimento
+COMBAT_POPUP_RELOAD,Перезагрузить,,Recarga,Recharge,Nachgeladen,Ricarica,Recarregamento
+COMBAT_POPUP_RELOAD_MOVE,Перезагрузить ход,,Recarga de movimiento,Recharge de déplacement,Bewegung nachgeladen,Ricarica mossa,Recarregamento de movimento
+COMBAT_POPUP_MUTATED,Мутировал!,,¡Ha mutado!,Mutation&nbsp;!,Mutiert!,Mutato!,Mutação!
+COMBAT_POPUP_REBIRTH,Возрождение,,Renacimiento,Renaissance,Wiedergeburt,Rinascita,Renascimento
+COMBAT_POPUP_STUDY,Исследование: {studiedtype},"Example: ""Study: Cat"", ""Study: Bug"", ""Study: Rock"", etc. happens when a cat with a passive called Study ""studies"" something",Estudio: {studiedtype},Étude&nbsp;: {studiedtype},Erforscht: {studiedtype},Studia: {studiedtype},Estudando: {studiedtype}
+COMBAT_POPUP_TAKEAIM,Прицелься,,Puntería,En joue,Zielen,Mira,Mira
+COMBAT_POPUP_LOSEAIM,Потерянный бонус Take Aim,,Puntería perdida,Bonus «&nbsp;En joue&nbsp;» perdu,Zielen-Bonus verloren,Bonus Mira Perso,Bônus de mira perdido
+COMBAT_POPUP_HOLSTER,кобура,,Pistolera,Attaque conservée,Holster,Fondina,Coldre
+COMBAT_POPUP_CATCH,Ловить!,,¡Captura!,Attrapé&nbsp;!,Gefangen!,Prendi!,Pegue!
+COMBAT_POPUP_ENERGIZED,Энергичный!,,¡Energía!,Énergique&nbsp;!,Energiegeladen!,Energizzato!,Energia!
+COMBAT_POPUP_BADPOOP,Плохая какашка!,,¡Caca mala!,Vilain caca&nbsp;!,Schlechter Stuhlgang!,Cacca Brutta!,Cocô ruim!
+COMBAT_POPUP_DEJAVU,Дежа Вю,,Déjà vu,Déjà-vu,Déjà-vu,Déjà vu,Déjà vu
+COMBAT_POPUP_BUGBITE,Укус жука!,,¡Picadura!,Morsure d'insecte&nbsp;!,Käferbiss!,Puntura d'insetto!,Picada de inseto!
+COMBAT_POPUP_RECHARGED,Перезарядка!,,¡Recarga!,Rechargé&nbsp;!,Aufgeladen!,Ricaricato!,Recarregamento!
+COMBAT_POPUP_BRAINSTORM,Мозговой штурм!,,Lluvia de ideas,Introspection&nbsp;!,Geistesblitz!,Brainstorming!,Troca de ideias!
+COMBAT_POPUP_REPAIRED,Отремонтировано,,Reparación,Réparé,Repariert,Riparato,Reparação
+COMBAT_POPUP_IMMUNE,Иммунитет,,Inmune,Immunité,Immun,Immune,Imune
+,,,,,,,
+COMBAT_WIN_ROUNDSTAKEN,в {rounds} раундах:,,en {rounds} rondas:,dans {rounds} manches&nbsp;:,in {rounds} Runden:,in {rounds} round:,em {rounds} rodadas:
+COMBAT_WIN_ROUNDSTAKEN_SINGULAR,в 1 раунде:,,en 1 ronda:,dans 1&nbsp;manche&nbsp;:,in 1 Runde:,in 1 round:,em 1 rodada:
+COMBAT_WIN_ENEMIESRAN,{count} враги убежали,,{count} enemigos han huido,{count} ennemis ont fui,{count} Gegner sind geflohen,{count} nemici sono scappati,{count} inimigos fugiram
+COMBAT_WIN_ENEMIESRAN_SINGULAR,1 враг убежал,,1 enemigo ha huido,1&nbsp;ennemi a fui,1 Gegner ist geflohen,1 nemico è scappato,1 inimigo fugiu
+,,,,,,,
+INJURY_NAME_BROKENPAW,Сломанная лапа,,Pata delantera rota,Patte brisée,Gebrochene Pfote,Zampa Rotta,Pata quebrada
+INJURY_NAME_TORNTENDON,Разорванное сухожилие,,Tendón roto,Tendon déchiré,Gerissene Sehne,Tendine Lacerato,Tendão rompido
+INJURY_NAME_BROKENRIB,Сломанное ребро,,Costilla rota,Côte cassée,Gebrochene Rippe,Costola Rotta,Costela quebrada
+INJURY_NAME_CONCUSSION,Сотрясение мозга,,Conmoción cerebral,Commotion,Gehirnerschütterung,Commozione Cerebrale,Concussão
+INJURY_NAME_DISFIGURED,Изуродованный,,Desfiguración,Difformité,Entstellt,Deformazione,Desfiguramento
+INJURY_NAME_BROKENLEG,Сломанная нога,,Pata trasera rota,Patte arrière cassée,Gebrochenes Bein,Gamba Rotta,Perna quebrada
+INJURY_NAME_JINXED,Сглазили,,Mal de ojo,Calamité,Verwunschen,Iellato,Mau agouro
+INJURY_NAME_CURSED,Проклятый,cursed and jinxed are almost the same thing except cursed is -2 luck instead of -1 luck,Maldición,Malédiction,Verflucht,Maledetto,Maldição
+INJURY_NAME_IMMOLATED,Сожженный,,Inmolación,Immolation,Verbrannt,Immolato,Imolação
+INJURY_NAME_EXSANGUINATED,обескровленный,,Desangramiento,Exsangue,Ausgeblutet,Dissanguato,Hemorragia
+INJURY_NAME_POISONED,Отравленный,,Veneno,Empoisonnement,Vergiftet,Avvelenato,Envenenamento
+INJURY_NAME_RADIATED,излучаемый,,Radiación,Radiation,Verstrahlt,Irradiato,Radiação
+,,,,,,,
+SHOP_RARECANDY_NAME,Редкие конфеты,,Caramelo raro,Bonbon rare,Sonderbonbon,Caramella Rara,Bala rara
+SHOP_RARECANDY_DESC,Один кот сразу повысит уровень.,,Un gato subirá de nivel al momento.,Fait immédiatement gagner un niveau à un chat.,Eine Katze erhält sofort ein Level.,Un gatto salirà immediatamente di livello.,Um gato sobe imediatamente de nível.
+SHOP_FOOD_NAME,Еда,,Comida,Nourriture,Futter,Cibo,Comida.
+SHOP_FOOD_DESC,Еда для еды.,,Alimentos para comer.,Pratique quand on a un creux.,Zum Essen.,Del cibo da mangiare.,Algo para comer.
+SHOP_COINS_NAME,Монеты,,Monedas,Pièces,Münzen,Monete,Moedas
+SHOP_COINS_DESC,Монеты для покупки вещей.,,Dinero para comprar cosas.,Utiles pour acheter des trucs.,"Münzen, mit denen man Dinge kaufen kann.",Delle monete per comprare cose.,Moedas para comprar coisas.
+SHOP_BLANKCOLLAR_NAME,Пустой воротник,,Collar en blanco,Collier vierge,Leeres Halsband,Collare in Bianco,Coleira vazia
+SHOP_BLANKCOLLAR_DESC,"Каждый раз, когда вы отправляетесь в приключение, на экране выбора ошейника будет доступен один дополнительный ошейник (случайного класса). Это позволит вам отправиться с несколькими людьми одного и того же класса!",,"Cuando partas hacia una aventura, habrá un collar extra (de una clase al azar) disponible en la pantalla de selección de collares. ¡Esto te permitirá tener alguna clase repetida!","Chaque fois que vous partez à l'aventure, un collier bonus (d'une classe aléatoire) sera disponible dans l'écran de sélection des colliers. Ainsi, vous pourrez partir avec plusieurs colliers de la même classe équipés&nbsp;!","Immer, wenn du auf ein Abenteuer aufbrichst, steht ein zusätzliches Halsband (einer zufälligen Klasse) zur Auswahl. Dadurch kannst du mehrere Katzen derselben Klasse mitnehmen!","Ogni volta che parti per un'avventura, un collare extra (di una classe casuale) sarà disponibile nella schermata di selezione del collare. Questo ti permetterà di partire con più collari della stessa classe!","Sempre que você partir em uma aventura, uma coleira adicional (de classe aleatória) estará disponível na tela de seleção de coleiras. Isso permite que você parta com diversas da mesma classe!"
+SHOP_SOLDOUT,Распродано,,Agotado,Vendu,Ausverkauft,Esaurito,Esgotado
+SHOP_EXITBUTTON,Выход,,Salir,Partir,Verlassen,Uscita,Sair
+SHOP_TRYEXIT,Выход?,,¿Salir?,Voulez-vous vraiment partir&nbsp;?,Verlassen?,Vuoi uscire?,Sair?
+,,,,,,,
+NPC_MAP_TOOLTIP_STEVEN,Он может регулировать сложность мира и заново вызывать поверженных боссов.,,Puede ajustar el nivel de dificultad del mundo y volver a invocar a jefes derrotados.,Il peut ajuster la difficulté du monde et ressusciter les boss vaincus.,Er kann die Schwierigkeit der Welt anpassen und bereits besiegte Bosse neu beschwören.,Può modificare la difficoltà del mondo di gioco e rievocare boss sconfitti.,Pode ajustar a dificuldade do mundo e invocar chefes derrotados novamente.
+NPC_MAP_TOOLTIP_CLOSED,Кошек сейчас не принимает.,,No acepta gatos ahora mismo.,N'accepte pas les chats pour le moment.,Nimmt momentan keine Katzen auf.,Al momento non accetta gatti.,Não está aceitando gatos no momento.
+NPC_MAP_TOOLTIP_BEANIES,"Хочет кошек с мутациями, врожденными дефектами, заболеваниями или паразитами.",,"Quiere gatos con mutaciones, malformaciones congénitas, trastornos o parásitos.","Recherche des chats présentant des mutations, des malformations, des troubles ou des parasites.","Will Katzen mit Mutationen, Geburtsfehlern, Störungen oder Parasiten.","Cerca gatti con mutazioni, difetti congeniti, malattie o parassiti.","Deseja gatos com mutações, doenças congênitas, transtornos ou parasitas."
+NPC_MAP_TOOLTIP_BEANIES_FULL,Кошек сейчас не принимает. Сначала завершите некоторые из своих текущих квестов!,,No acepta gatos ahora mismo. ¡Termina algunas de tus misiones actuales antes!,N'accepte pas les chats pour le moment. Terminez d'abord certaines de vos quêtes&nbsp;!,Nimmt momentan keine Katzen auf. Schließe zuerst ein paar deiner Quests ab!,Al momento non accetta gatti. Completa prima alcune delle tue missioni attuali!,Não está aceitando gatos no momento. Conclua algumas de suas missões atuais primeiro!
+NPC_MAP_TOOLTIP_BUTCH1,"Хочет кошек, которые побывали в приключениях.",,Quiere gatos que ya hayan vivido una aventura.,Recherche des chats qui sont déjà partis à l'aventure.,"Will Katzen, die schon mal auf ein Abenteuer aufgebrochen sind.",Cerca gatti che hanno partecipato a un'avventura.,Deseja gatos que já tenham participado de aventuras.
+NPC_MAP_TOOLTIP_BUTCH2,"Хочет кошек, которые бывали в канализации или на свалке.",,Quiere gatos que hayan estado en las alcantarillas o el desguace.,Recherche des chats qui sont déjà allés dans les égouts ou à la décharge.,"Will Katzen, die in der Kanalisation oder auf dem Schrottplatz waren.",Cerca gatti che sono stati nelle Fogne o nella Discarica.,Deseja gatos que já estiveram no Esgoto ou no Ferro-Velho.
+NPC_MAP_TOOLTIP_BUTCH3,"Хочет кошек, побывавших в пещерах или на кладбище.",,Quiere gatos que hayan estado en las cuevas o el cementerio.,Recherche des chats qui sont déjà allés dans les grottes ou au cimetière.,"Will Katzen, die in den Höhlen oder auf dem Friedhof waren.",Cerca gatti che sono stati nelle Caverne o nel Cimitero.,Deseja gatos que já estiveram nas Cavernas ou no Cemitério.
+NPC_MAP_TOOLTIP_BUTCH4,"Хочет кошек, побывавших в Кратере или Бункере.",,Quiere gatos que hayan estado en el cráter o el búnker.,Recherche des chats qui sont déjà allés au cratère ou au bunker.,"Will Katzen, die im Krater oder Bunker waren.",Cerca gatti che sono stati nel Cratere o nel Bunker.,Deseja gatos que já estiveram na Cratera ou no Bunker.
+NPC_MAP_TOOLTIP_BUTCH5,"Хочет кошек, побывавших на Луне или Ядре.",,Quiere gatos que hayan estado en la luna o el núcleo.,Recherche des chats qui sont déjà allés sur la lune ou dans le noyau.,"Will Katzen, die auf dem Mond oder im Kern waren.",Cerca gatti che sono stati sulla Luna o nel Nucleo.,Deseja gatos que já estiveram na Lua ou no Núcleo.
+NPC_MAP_TOOLTIP_BUTCH6,"Хочет кошек, которые путешествовали во времени.",,Quiere gatos que hayan viajado en el tiempo.,Recherche des chats qui ont déjà voyagé dans le temps.,"Will Katzen, die durch die Zeit gereist sind.",Cerca gatti che hanno viaggiato nel tempo.,Deseja gatos que já viajaram no tempo.
+NPC_MAP_TOOLTIP_BUTCH7,"Хочет кошек, которые путешествовали далеко во времени.",,Quiere gatos que hayan viajado a tiempos remotos.,Recherche des chats qui ont déjà voyagé loin dans le temps.,"Will Katzen, die weit durch die Zeit gereist sind.",Cerca gatti che hanno viaggiato molto lontano nel tempo.,Deseja gatos que já viajaram longe no tempo.
+NPC_MAP_TOOLTIP_BUTCH8,"Хочет кошек, убивших Бога.",,Quieren gatos que hayan matado a Dios.,Recherche des chats qui ont tué Dieu.,"Will Katzen, die Gott getötet haben.",Cerca gatti che hanno ucciso Dio.,Deseja gatos que mataram Deus.
+NPC_MAP_TOOLTIP_BUTCH9,"Хочет котов, убивших Бога... на высокой сложности.",,Quieren gatos que hayan matado a Dios... en modo Difícil.,Recherche des chats qui ont tué Dieu... en difficulté Difficile.,"Will Katzen, die Gott getötet haben&nbsp;… auf dem Schwierigkeitsgrad „Hart“.",Cerca gatti che hanno ucciso Dio... a livello difficile.,Deseja gatos que mataram Deus... na dificuldade Difícil.
+NPC_MAP_TOOLTIP_BUTCH10,"Хочет котов, убивших Бога... на безумной сложности.",,Quieren gatos que hayan matado a Dios... en modo Locura.,Recherche des chats qui ont tué Dieu... en difficulté Dingue.,"Will Katzen, die Gott getötet haben&nbsp;… auf dem Schwierigkeitsgrad „Verrückt“.",Cerca gatti che hanno ucciso Dio... a livello folle.,Deseja gatos que mataram Deus... na dificuldade Maluca.
+NPC_MAP_TOOLTIP_BUTCH11,"Ищет котов, убивших Бога... на невозможной сложности.",,Quieren gatos que hayan matado a Dios... en modo Imposible.,Recherche des chats qui ont tué Dieu... en difficulté Impossible.,"Will Katzen, die Gott getötet haben&nbsp;… auf dem Schwierigkeitsgrad „Unmöglich“.",Cerca gatti che hanno ucciso Dio... a livello impossibile.,Deseja gatos que mataram Deus... na dificuldade Impossível.
+NPC_MAP_TOOLTIP_TINK,Хочет котят.,,Quiere gatitos.,Recherche des chatons.,Will Kätzchen.,Cerca gattini.,Deseja filhotes de gato.
+NPC_MAP_TOOLTIP_FRANK,Хочет котов-пенсионеров.,,Quiere gatos jubilados.,Recherche des chats à la retraite/,Will Katzen im Ruhestand.,Cerca gatti in pensione.,Deseja gatos aposentados.
+NPC_MAP_TOOLTIP_JACK,Хочет кошек с травмами.,,Quiere gatos con lesiones.,Recherche des chats blessés.,Will Katzen mit Verletzungen.,Cerca gatti con ferite.,Deseja gatos com ferimentos.
+NPC_MAP_TOOLTIP_TRACY,Хочет кошек возраста {age} или старше.,,Quiere gatos que tengan {age} años o más.,Recherche des chats de {age} ans ou plus.,"Will Katzen, die {age} oder älter sind.",Cerca gatti di età pari o superiore a {age}.,Deseja gatos com idade igual ou superior a {age}.
+NPC_MAP_TOOLTIP_ORGANGRINDER,"Хочет мертвых кошек.
+(Автоматически соберет дохлых кошек из ваших приключений)",,"Quiere gatos muertos.
+(Recogerá automáticamente los gatos muertos de tus aventuras).","Recherche des chats morts.
+(Collectera automatiquement les chats morts durant vos aventures.)","Will tote Katzen.
+(Sammelt nach Abenteuern automatisch tote Katzen ein)","Cerca gatti morti.
+(Raccoglierà automaticamente i gatti morti dalle tue avventure)","Deseja gatos mortos.
+(Coleta automaticamente gatos mortos de suas aventuras)"
+NPC_MAP_TOOLTIP_NEXTREWARD,Следующая награда: {reward},see npc_favor_unlocks.csv for what {reward} looks like here,Próxima recompensa: {reward},Prochaine récompense&nbsp;: {reward},Nächste Belohnung: {reward},Prossima ricompensa: {reward},Próxima recompensa: {reward}
+NPC_MAP_HEADER,Округ Бун,,Condado Bonanza,Boon County,Boon County,Contea di Boon,Condado de Boon
+NPC_PIPEMAP_HEADER,Отправьте {Catname} по адресу:,,Destino de {Catname}:,Envoyer {Catname} à&nbsp;:,{Catname} schicken an:,Invia {Catname} a:,Enviar {Catname} para:
+NPC_PIPEMAP_HEADER_M,,,,,,,
+NPC_PIPEMAP_HEADER_F,,,,,,,
+NPC_PIPEMAP_HEADER_N,,,,,,,
+NPC_PIPEMAP_TOOLTIP_TRASH,"Избавьтесь от {Catname}, не получив никаких услуг или вознаграждений.",,Deshazte de {Catname} sin recibir ningún favor ni recompensas.,Faire disparaître {Catname} sans recevoir aucune faveur ni récompense.,"{Catname} loswerden, ohne eine Belohnung zu erhalten.",Sbarazzati di {Catname} senza ricevere favori o ricompense.,Livre-se de {Catname} sem receber qualquer favor ou recompensa.
+NPC_PIPEMAP_TOOLTIP_TRASH_M,,,,,,,
+NPC_PIPEMAP_TOOLTIP_TRASH_F,,,,,,,
+NPC_PIPEMAP_TOOLTIP_TRASH_N,,,,,,,
+,,,,,,,
+POPUP_UNEQUIPPED_QUEST_ITEMS,"У вас есть необорудованные квестовые предметы. Пожалуйста, сначала экипируйте все квестовые предметы.",,Tienes objetos de misión sin equipar. Equípalos todos antes.,Vous avez retiré des objets de quête. Équipez d'abord tous les objets de quête.,Du hast unausgerüstete Questgegenstände. Rüste zuerst alle benötigten Questgegenstände aus.,Hai oggetti missione non equipaggiati. Equipaggia prima tutti gli oggetti missione.,"Você possui itens da missão não equipados. Por favor, equipe todos os itens da missão primeiro."
+POPUP_TRY_EQUIP_PARASITE_QUEST_ITEMS,"Пожалуйста, экипируйте все квестовые предметы, прежде чем надевать этот несъемный предмет.",,Equipa todos los objetos de misión antes de equipar este objeto que no se puede quitar.,Équipez d'abord tous les objets de quête avant d'équiper cet objet impossible à retirer.,"Bitte rüste alle Questgegenstände aus, bevor du diesen nicht entfernbaren Gegenstand ausrüstest.",Equipaggia tutti gli oggetti missione prima di equipaggiare questo oggetto non rimovibile.,"Por favor, equipe todos os itens da missão antes de equipar este item que não pode ser removido."
+POPUP_TRY_EQUIP_PARASITE,"После экипировки этот предмет невозможно снять. Вы уверены, что хотите оснастить этим кота?",,"Una vez equipado, este objeto no se puede quitar. ¿Seguro que quieres equipárselo a este gato?","Une fois équipé, cet objet ne pourra pas être retiré. Vous voulez vraiment l'équiper sur ce chat&nbsp;?",Dieser Gegenstand kann nach dem Ausrüsten nicht entfernt werden. Wirklich ausrüsten?,"Una volta equipaggiato, quest'oggetto non potrà essere rimosso. Vuoi davvero assegnarlo a questo gatto?","Após ser equipado, este item não pode ser removido. Tem certeza de que deseja equipá-lo neste gato?"
+POPUP_TRY_EQUIP_MODIFIER,"После применения это действие нельзя будет отменить, и предмет будет израсходован. Вы уверены, что хотите применить это к этой кошке?",,"Una vez aplicado, el objeto se consumirá y el cambio será permanente. ¿Seguro que quieres hacerlo?","Une fois appliqué, vous ne pourrez pas retourner en arrière et l'objet sera consommé. Vous voulez vraiment l'appliquer sur ce chat&nbsp;?",Dies kann nicht rückgängig gemacht werden und der Gegenstand wird verbraucht. Wirklich auf diese Katze anwenden?,"Quest'azione, una volta applicata, non sarà annullabile e l'oggetto verrà consumato. Vuoi davvero effettuarla?","Após a aplicação, isto não poderá ser desfeito e o item será consumido. Tem certeza de que deseja aplicá-lo neste gato?"
+POPUP_TRY_EMBARK_COLORLESS,"Одной или нескольким вашим кошкам не дали ошейника. Вы уверены, что хотите, чтобы они оставались без воротников?",,Uno o varios de tus gatos no tienen collar. ¿Seguro que quieres que se queden sin collar?,Un ou plusieurs de vos chats sont sans collier. Vous voulez vraiment les laisser dans cet état&nbsp;?,"Eine oder mehrere deiner Katzen tragen kein Halsband. Willst du wirklich, dass sie klassenlos bleiben?",A uno o più dei tuoi gatti non è stato dato un collare. Vuoi davvero continuare?,Um ou mais de seus gatos não possui coleira. Tem certeza de que quer que eles permaneçam assim?
+POPUP_TRY_RETURN_HOME_EARLY,"Вы уверены, что хотите вернуться домой вместо того, чтобы продолжать дальше?",,¿Seguro que quieres volver a casa en lugar de seguir adelante?,Vous voulez vraiment rentrer chez vous et arrêter d'avancer&nbsp;?,"Willst du wirklich nach Hause zurückkehren, ohne weiterzureisen?",Vuoi davvero tornare a casa invece di proseguire?,Tem certeza de que deseja retornar para casa ao invés de prosseguir?
+POPUP_TRY_DEFEND_WITH_BASELEVEL_CATS,"Вы уверены, что хотите защитить свой дом с помощью этих кошек? У некоторых нет опыта...",,¿Seguro que quieres defender tu casa con estos gatos? Algunos de ellos no tienen experiencia...,Vous comptez vraiment défendre votre maison avec ces chats&nbsp;? Certains d'entre eux n'ont aucune expérience...,Willst du dein Haus wirklich mit diesen Katzen verteidigen? Ein paar von ihnen haben keine Erfahrung&nbsp;…,Vuoi davvero difendere la tua casa con questi gatti? Alcuni di loro non hanno esperienza...,Tem certeza de que deseja defender sua casa com esses gatos? Alguns deles não possuem experiência...
+POPUP_TRY_EMBARK_LESS_THAN_4,"Вы уверены, что хотите отправиться в приключение с менее чем четырьмя кошками?",,¿Seguro que quieres embarcarte en una aventura con menos de 4 gatos?,Vous comptez partir à l'aventure avec moins de 4 chats&nbsp;?,Willst du wirklich mit weniger als vier Katzen auf ein Abenteuer aufbrechen?,Vuoi davvero imbarcati in un'avventura con meno di 4 gatti?,Tem certeza de que deseja embarcar em uma aventura com menos de 4 gatos?
+POPUP_TRY_DEFEND_LESS_THAN_4,"Вы уверены, что хотите защитить свой дом, имея менее четырех кошек?",,¿Seguro que quieres defender tu casa con menos de 4 gatos?,Vous comptez défendre votre maison avec moins de 4 chats&nbsp;?,Willst du dein Haus wirklich mit weniger als vier Katzen verteidigen?,Vuoi davvero difendere la tua casa con meno di 4 gatti?,Tem certeza de que deseja defender sua casa com menos de 4 gatos?
+,,,,,,,
+POPUP_TRY_RESUMMON_TINA1,Вы хотите возобновить Гильотину 1?,,¿Quieres volver a invocar a Guillotina 1?,Voulez-vous réinvoquer Guillotina 1&nbsp;?,Willst du Guillotina&nbsp;1 neu beschwören?,Vuoi rievocare Guillotina 1?,Você deseja invocar Guilhotina 1 novamente?
+POPUP_TRY_RESUMMON_TINA2,Вы хотите возобновить Гильотину 2?,,¿Quieres volver a invocar a Guillotina 2?,Voulez-vous réinvoquer Guillotina 2&nbsp;?,Willst du Guillotina&nbsp;2 neu beschwören?,Vuoi rievocare Guillotina 2?,Você deseja invocar Guilhotina 2 novamente?
+POPUP_TRY_RESUMMON_TINA3,Вы хотите возобновить Гильотину 3?,,¿Quieres volver a invocar a Guillotina 3?,Voulez-vous réinvoquer Guillotina 3&nbsp;?,Willst du Guillotina&nbsp;3 neu beschwören?,Vuoi rievocare Guillotina 3?,Você deseja invocar Guilhotina 3 novamente?
+POPUP_TRY_RESUMMON_PYRO,Вы хотите возобновить вызов Пирофины?,,¿Quieres volver a invocar a Pyrophina?,Voulez-vous réinvoquer Pyrophina&nbsp;?,Willst du Pyrophina neu beschwören?,Vuoi rievocare Pyrophina?,Você deseja invocar Pyrophina novamente?
+POPUP_TRY_RESUMMON_ZARA,Вы хотите возродить Заратану?,,¿Quieres volver a invocar a Zaratana?,Voulez-vous réinvoquer Zaratana&nbsp;?,Willst du Zaratana neu beschwören?,Vuoi rievocare Zaratana?,Você deseja invocar Zaratana novamente?
+POPUP_TRY_RESUMMON_KAIJUFIGHT,"Вы хотите возобновить вызов?
+Пирофина против Заратаны?",,¿Quieres volver a invocar a Pyrophina contra Zaratana?,"Voulez-vous réinvoquer
+Pyrophina contre Zaratana&nbsp;?","Willst du Pyrophina vs. Zaratana
+neu beschwören?","Vuoi rievocare
+Pyrophina contro Zaratana?",Você deseja invocar Pyrophina vs. Zaratana novamente?
+POPUP_TRY_RESUMMON_T1,Вы хотите возобновить вызов C-800?,,¿Quieres volver a invocar al C-800?,Voulez-vous réinvoquer C-800&nbsp;?,Willst du den C-800 neu beschwören?,Vuoi rievocare il C-800?,Você deseja invocar G-800 novamente?
+POPUP_TRY_RESUMMON_T2,Вы хотите возобновить вызов C-1000?,,¿Quieres volver a invocar al C-1000?,Voulez-vous réinvoquer C-1000&nbsp;?,Willst du den C-1000 neu beschwören?,Vuoi rievocare il C-1000?,Você deseja invocar G-1000 novamente?
+POPUP_TRY_RESUMMON_T3,Вы хотите вновь вызвать Гитлера III?,,¿Quieres volver a invocar a Hitler III?,Voulez-vous réinvoquer Hitler III&nbsp;?,Willst du Hitler&nbsp;III neu beschwören?,Vuoi rievocare Hitler III?,Você deseja invocar Hitler III novamente?
+,,,,,,,
+MAP_CAT_LEVEL,Уровень: {level},,Nivel: {level},Niveau&nbsp;: {level},Level: {level},Livello: {level},Nível: {level}
+,,,,,,,
+ITEM_TOOLTIP_ADDITION_PARASITE,Паразит.,,Parásito.,Parasite,Parasit.,Parassita.,Parasita.
+ITEM_TOOLTIP_ADDITION_CURSED,Проклятый.,,Maldición.,Malédiction,Verflucht.,Maledetto.,Maldição.
+ITEM_TOOLTIP_ADDITION_USES,({amount} использует левую сторону),,({amount} usos restantes),(utilisations restantes&nbsp;: {amount}),({amount} Anwendungen übrig),({amount} utilizzi rimanenti),({amount} usos restantes)
+ITEM_TOOLTIP_ADDITION_USES_SINGULAR,(осталось 1 использование),,(1 uso restante),(utilisations restantes&nbsp;: 1),(1 Anwendung übrig),(1 utilizzo rimanente),(1 uso restante)
+ITEM_TOOLTIP_ADDITION_DURABILITY,(остаток ресурса {amount}),,({amount} de durabilidad restante),(durabilité restante&nbsp;: {amount}),({amount} Haltbarkeit übrig),({amount} durata rimanente),({amount} de durabilidade restante)
+ITEM_TOOLTIP_ADDITION_DURABILITY_SINGULAR,(осталось 1 единица прочности),,(1 de durabilidad restante),(durabilité restante&nbsp;: 1),(1 Haltbarkeit übrig),(1 durata rimanente),(1 de durabilidade restante)
+ITEM_TOOLTIP_ADDITION_QUEST_LOCATION,Отнесите его {chaptername}.,,Lleva esto aquí: {chaptername}.,Amenez cet objet à&nbsp;: {chaptername}.,Bring den Gegenstand hierhin: {chaptername}.,Portalo qui: {chaptername}.,Levar para {chaptername}.
+ITEM_TOOLTIP_ADDITION_QUEST_COMPLETE,Квест завершен! Верните его Доктору Бинису и получите награду!,,¡Misión cumplida! El Dr. Beanies te dará una recompensa.,Quête accomplie&nbsp;! Allez voir le Dr Beanies pour recevoir une récompense&nbsp;!,"Quest abgeschlossen! Kehre zu Dr. Beanies zurück, um eine Belohnung zu erhalten!",Missione completata! Ritorna dal dottor Beanies per una ricompensa!,Missão concluída! Retorne até o Dr. Beanies para receber uma recompensa!
+ITEM_NAME_ADDITION_WORN,(Изношенный),,(desgaste),(Porté),(Abgenutzt),(Indossato),(Gasto)
+ITEM_NAME_ADDITION_BROKEN,(сломанный),,(rotura),(Brisé),(Kaputt),(Rotto),(Quebrado)
+ITEM_NAME_ERROR,Неизвестный предмет,,Objeto desconocido,Objet inconnu,Unbekannter Gegenstand,Oggetto sconosciuto,Item desconhecido
+ITEM_WORN_TOOLTIP_HEADER,Изношенный,,Desgaste,Porté,Abgenutzt,Indossato,Gasto
+ITEM_WORN_TOOLTIP,Имеет 50% шанс сломаться при возвращении домой из приключений.,,Tiene un 50 % de probabilidad de romperse al volver a casa tras una aventura.,Cet objet a 50&nbsp;% de chances de se briser quand vous rentrez d'une aventure.,"Geht mit einer Wahrscheinlichkeit von 50&nbsp;% kaputt, wenn du von einem Abenteuer nach Hause zurückkehrst.",Ha il 50% di probabilità di rompersi al ritorno da un'avventura.,Possui 50% de chance de quebrar ao retornar para casa de uma aventura.
+ITEM_WORN_TOOLTIP2,Сломается по возвращении домой из приключений.,,Se romperá al volver a casa tras una aventura.,Se brisera quand vous rentrerez d'une aventure.,"Geht kaputt, wenn du von einem Abenteuer nach Hause zurückkehrst.",Si romperà al ritorno da un'avventura.,Irá quebrar ao retornar para casa de uma aventura.
+ITEM_BROKEN_TOOLTIP_HEADER,Сломанный,,Rotura,Brisé,Kaputt,Rotto,Quebrado
+ITEM_BROKEN_TOOLTIP,Теперь это мусор,,Ahora es basura.,Bon pour la poubelle.,Kann nicht mehr benutzt werden,Ora è spazzatura,Pode jogar fora
+,,,,,,,
+NO_CHARACTER_NAME,Никто,,Nadie,Personne,Niemand,Nessuno,Ninguém
+,,,,,,,
+CAT_NAME_MOD_COOL,Круто {Catname},,{Catname} guay,{Catname} (cool),{Catname} (Cool)|999,,{Catname} legal
+CAT_NAME_MOD_COOL_M,,,,,,{Catname} fantastico,
+CAT_NAME_MOD_COOL_F,,,,,,{Catname} fantastica,
+CAT_NAME_MOD_COOL_N,,,,,,{Catname} spettacolare,
+CAT_NAME_MOD_VEGAN,{Catname} (Веган)|999,"since multiple mods can apply to the same cat, you can append |<number> to change the priority a name mod applies
+in this case, (Vegan) needs to come after other mods, so |1 means apply later. 
+(higher numbers apply later)",{Catname} (dieta vegana)|999,{Catname} (végan)|999,{Catname} (Vegan)|999,,
+CAT_NAME_MOD_VEGAN_M,,,,,,{Catname} (Vegano)|999,{Catname} (Vegano)|999
+CAT_NAME_MOD_VEGAN_F,,,,,,{Catname} (Vegana)|999,{Catname} (Vegana)|999
+CAT_NAME_MOD_VEGAN_N,,,,,,{Catname} (mangia cibo vegano)|999,
+CAT_NAME_MOD_MAN,Господин {Catname}|1,(should be Mr. regardless of {Catname}'s gender),Sr. {Catname}|1,M. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1,Mr. {Catname}|1
+CAT_NAME_MOD_MAN_M,,,,,,,
+CAT_NAME_MOD_MAN_F,,,,,,,
+CAT_NAME_MOD_MAN_N,,,,,,,
+CAT_NAME_MOD_SUPER,Супер-{Catname},,Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname},Super-{Catname}
+CAT_NAME_MOD_SUPER_M,,,,,,,
+CAT_NAME_MOD_SUPER_F,,,,,,,
+CAT_NAME_MOD_SUPER_N,,,,,,,
+CAT_NAME_MOD_AMOEBA,{Catname}?|1,,¿{Catname}?|1,{Catname}&nbsp;?|1,{Catname}?|1,{Catname}?|1,{Catname}?|1
+CAT_NAME_MOD_AMOEBA_M,,,,,,,
+CAT_NAME_MOD_AMOEBA_F,,,,,,,
+CAT_NAME_MOD_AMOEBA_N,,,,,,,
+CAT_NAME_MOD_HIPPIE,{Catname} Лунный луч,,{Catname} Rayo de Luna,{Catname} (rayon lunaire),{Catname} Mondschein,{Catname} Raggio-di-luna,{Catname} Raio Lunar
+CAT_NAME_MOD_HIPPIE_M,,,,,,,
+CAT_NAME_MOD_HIPPIE_F,,,,,,,
+CAT_NAME_MOD_HIPPIE_N,,,,,,,
+CAT_NAME_MOD_DEMONIC,Злой {Catname},,{Catname} infame,{Catname} (maléfique),{Catname} (Böse)|999,{Catname} crudele,{Catname} do mal
+CAT_NAME_MOD_DEMONIC_M,,,,,,,
+CAT_NAME_MOD_DEMONIC_F,,,,,,,
+CAT_NAME_MOD_DEMONIC_N,,,,,,,
+CAT_NAME_MOD_STEVEN,Стивен|-999,,Steven|-999,Steven|-999,Steven|-999,Steven|-999,Steven|-999
+CAT_NAME_MOD_DWARF,Маленький {Catname}|3,,Peque {Catname}|3,{Catname} (minus)|3,Little {Catname}|3,,
+CAT_NAME_MOD_DWARF_M,,,,,,Piccolo {Catname}|3,{Catname} pequeno|3
+CAT_NAME_MOD_DWARF_F,,,,,,Piccola {Catname}|3,{Catname} pequena|3
+CAT_NAME_MOD_DWARF_N,,,,,,{Catname} junior|3,
+CAT_NAME_MOD_PDWARF,Маленький {Catname}|3,,Mini-{Catname}|3,{Catname} (riquiqui)|3,Lil' {Catname}|3,{Catname} baby|3,Mini-{Catname}|3
+CAT_NAME_MOD_PDWARF_M,,,,,,,
+CAT_NAME_MOD_PDWARF_F,,,,,,,
+CAT_NAME_MOD_PDWARF_N,,,,,,,
+CAT_NAME_MOD_GIGANTISM,Большой {Catname}|2,,Gran {Catname}|2,{Catname} (géant)|2,Big {Catname}|2,{Catname} grande|2,{Catname} grande|2
+CAT_NAME_MOD_GIGANTISM_M,,,,,,,
+CAT_NAME_MOD_GIGANTISM_F,,,,,,,
+CAT_NAME_MOD_GIGANTISM_N,,,,,,,
+,,,,,,,
+COMBAT_UI_ENDTURN,Конец поворота,,Terminar turno,Fin du tour,Zug beenden,Fine del turno,Finalizar turno
+COMBAT_UI_ENDTURN_TOOLTIP,Завершите ход текущего персонажа и перейдите к следующему.,,Termina el turno del personaje actual y pasa al siguiente.,Met fin au tour du personnage actuel et passe au suivant.,Beende den Zug des aktuellen Charakters. Anschließend ist der nächste Charakter dran.,Termina il turno del personaggio corrente e passa a quello successivo.,Finaliza o turno do personagem atual e avança para o próximo.
+COMBAT_UI_ENDTURN_TOOLTIP_HIGHLIGHTED,"Завершите ход текущего персонажа и перейдите к следующему.
+(У вас не осталось возможных действий)",,"Termina el turno del personaje actual y pasa al siguiente.
+(No tienes más acciones disponibles).","Met fin au tour du personnage actuel et passe au suivant.
+(Plus aucune action disponible)","Beende den Zug des aktuellen Charakters. Anschließend ist der nächste Charakter dran.
+(Du kannst keine weiteren Aktionen ausführen)","Termina il turno del personaggio corrente e passa a quello successivo.
+(Non hai più azioni possibili)","Finaliza o turno do personagem atual e avança para o próximo.
+(Não há outras ações possíveis)"
+COMBAT_UI_ROUNDCOUNT_POPUP,Раунд {round},,Ronda {round},Manche {round},Runde {round},Round {round},Rodada {round}
+COMBAT_UI_VERTICAL_ROUND,"Р
+О
+ты
+Н
+Д",should always be at most 5 characters arranged vertically,"R
+O
+N
+D
+A","M
+A
+N
+C
+H
+E","R
+U
+N
+D
+E","R
+O
+U
+N
+D","R
+O
+D
+A
+D"
+COMBAT_UI_AMBUSHED,Засада!,,¡Te atacan por sorpresa!,Embuscade ennemie&nbsp;!,Ein Hinterhalt!,Imboscata!,Emboscada!
+COMBAT_UI_AMBUSHING,Засада!,,¡Atacas por sorpresa!,"Ennemis surpris&nbsp;!
+",Ein Hinterhalt für uns!,In agguato!,Emboscando!
+COMBAT_UI_BATTLESTART,Боевой старт!,,¡A luchar!,Début du combat&nbsp;!,Kampfbeginn!,Inizio battaglia!,A batalha começa!
+COMBAT_UI_EXHAUSTIONROUND_SUBHEADER,Наступает истощение!,,¡El agotamiento hace estragos!,La fatigue se fait sentir&nbsp;!,Erschöpfung macht sich breit!,Subentra la fatica!,A exaustão toma conta!
+COMBAT_UI_VICTORY,ПОБЕДА!,,¡VICTORIA!,VICTOIRE&nbsp;!,SIEG!,VITTORIA!,VITÓRIA!
+COMBAT_UI_DEFEAT,Поражение!,,¡Derrota!,Défaite&nbsp;!,Niederlage!,Sconfitta!,Derrota!
+,,,,,,,
+INVENTORY_EQUIPPED_HEADER,Оборудовано,,Equipado,Équipement,Ausrüstung,Equipaggiato,Equipado
+INVENTORY_BACKPACK_HEADER,Рюкзак,,Mochila,Sac à dos,Rucksack,Zaino,Mochila
+INVENTORY_STORAGE_HEADER,Хранение,,Almacén,Rangement,Lager,Deposito,Armazenamento
+INVENTORY_COLLARS_HEADER,Наденьте классовые ошейники!,,¡Equipa collares de clase!,Équipez un collier de classe&nbsp;!,Halsbänder ausrüsten!,Equipaggia collari di classe!,Equipar coleiras de classe!
+INVENTORY_COLLARS_SIDE_HEADER,Воротники,,Collares,Colliers,Halsbänder,Collari,Coleiras
+INVENTORY_LOCKIN_BUTTON,Заблокируйте!,,Asignar,Valider,Fertig!,Conferma!,Travar!
+,,,,,,,
+CUTSCENE_HOLD_TO_SKIP,"Удерживайте, чтобы пропустить",,Mantén pulsado para omitir,Passer (maintenir),Halten zum Überspringen,Tieni premuto per saltare,Segure para pular
+CUTSCENE_VERSUS,против,,contra,contre,vs.,vs,vs
+,,,,,,,
+ACT_NAME_ACT1,АКТ I,,ACTO I,ACTE I,AKT I,ATTO I,ATO I
+ACT_SUBTITLE_ACT1,Аллея,,El callejón,La Ruelle,Die Gasse,Il Vicolo,O Beco
+ACT_NAME_ACT2,АКТ II,,ACTO II,ACTE II,AKT II,ATTO II,ATO II
+ACT_SUBTITLE_ACT2,Пустыня,,El desierto,Le Désert,Die Wüste,Il Deserto,O Deserto
+ACT_NAME_ACT3,АКТ III,,ACTO III,ACTE III,AKT III,ATTO III,ATO III
+ACT_SUBTITLE_ACT3,Лаборатория,,El laboratorio,Le Labo,Das Labor,Il Laboratorio,O Laboratório
+,,,,,,,
+DIFFICULTY_NAME_0,НОРМАЛЬНЫЙ,,NORMAL,NORMAL,NORMAL,NORMALE,NORMAL
+DIFFICULTY_NAME_1,ЖЕСТКО,,DIFÍCIL,DIFFICILE,HART,DIFFICILE,DIFÍCIL
+DIFFICULTY_NAME_2,СУМАСШЕДШИЙ,,LOCURA,DINGUE,VERRÜCKT,FOLLE,MALUCA
+DIFFICULTY_NAME_3,НЕВОЗМОЖНЫЙ,,IMPOSIBLE,IMPOSSIBLE,UNMÖGLICH,IMPOSSIBILE,IMPOSSÍVEL
+,,,,,,,
+MAP_HARDPATH_BANNER,ЖЕСТКО,,DIFÍCIL,DIFFICILE,HART,DIFFICILE,DIFÍCIL
+,,,,,,,
+STRINGFUCKUP_CAVESPEAK_1CH_0,а,"if a cat has 0 intelligence or less, the event text gets transformed into ""idiot speak/cavespeak"". its not critical that these pieces get localized, but you said they might need to be. The character length of these pieces is strict because they're glued together randomly to match the length of the words they're replacing. The 1-character strings should be vowels since they're often inserted in between other pieces",a,a,a,a,a
+STRINGFUCKUP_CAVESPEAK_1CH_1,о,,o,o,o,o,o
+STRINGFUCKUP_CAVESPEAK_1CH_2,ты,,u,u,u,u,u
+STRINGFUCKUP_CAVESPEAK_1CH_3,я,,i,i,i,i,i
+STRINGFUCKUP_CAVESPEAK_2CH_0,гу,,gu,gu,gu,gu,gu
+STRINGFUCKUP_CAVESPEAK_2CH_1,бу,,bu,bu,bu,bu,bu
+STRINGFUCKUP_CAVESPEAK_2CH_2,ох,,og,og,ok,og,og
+STRINGFUCKUP_CAVESPEAK_2CH_3,аг,,ag,ag,ak,ag,ag
+STRINGFUCKUP_CAVESPEAK_2CH_4,мес.,,mo,mo,mo,mo,mo
+STRINGFUCKUP_CAVESPEAK_2CH_5,фу,,fu,fu,fu,fu,fu
+STRINGFUCKUP_CAVESPEAK_2CH_6,ба,,ba,ba,ba,ba,ba
+STRINGFUCKUP_CAVESPEAK_3CH_0,да,,duh,duh,duh,duh,duh
+STRINGFUCKUP_CAVESPEAK_3CH_1,час,,hur,hur,hrr,hur,hur
+STRINGFUCKUP_CAVESPEAK_3CH_2,ошибка,,bug,boug,buk,bug,bug
+STRINGFUCKUP_CAVESPEAK_3CH_3,ооо,,oog,oug,uck,oog,oog
+STRINGFUCKUP_CAVESPEAK_3CH_4,фигня,,fug,fug,fuk,fug,fug
+STRINGFUCKUP_CAVESPEAK_3CH_5,Мур,,mur,mur,mur,mur,mur
+STRINGFUCKUP_CAVESPEAK_3CH_6,да,,doh,doh,doh,doh,doh
+STRINGFUCKUP_CAVESPEAK_3CH_7,ба,,bah,bah,bah,bah,bah
+STRINGFUCKUP_CAVESPEAK_3CH_8,дер,,der,der,der,der,der
+STRINGFUCKUP_CAVESPEAK_3CH_9,мажор,,dur,dur,dur,dur,dur
+STRINGFUCKUP_CAVESPEAK_4CH_0,грог,,grog,grog,grok,grog,grog
+STRINGFUCKUP_CAVESPEAK_4CH_1,дурить,,mook,mouk,muck,mook,mook
+STRINGFUCKUP_CAVESPEAK_4CH_2,оога,,ooga,ouga,ugga,ooga,ooga
+STRINGFUCKUP_CAVESPEAK_4CH_3,бух,,boog,boug,bugg,boog,boog
+STRINGFUCKUP_CAVESPEAK_4CH_4,дура,,durh,durh,durh,durh,durh
+STRINGFUCKUP_CAVESPEAK_4CH_5,дурр,,durr,durr,durr,durr,durr
+STRINGFUCKUP_CAVESPEAK_4CH_6,дааа,,duhh,duhh,duhh,duhh,duhh
+STRINGFUCKUP_CAVESPEAK_4CH_7,ухх,,muhh,muhh,muhh,muhh,muhh
+STRINGFUCKUP_CAVESPEAK_4CH_8,сумасшедший,,derp,baba,derp,derp,derp
+STRINGFUCKUP_CAVESPEAK_4CH_9,какать,,poop,caca,pups,caca,poop
+STRINGFUCKUP_CAVESPEAK_4CH_10,герп,,herp,herp,herp,herp,herp
+STRINGFUCKUP_CAVESPEAK_4CH_11,герр,,herr,herr,herr,herr,herr
+STRINGFUCKUP_CAVESPEAK_4CH_12,торопиться,,hurr,hurr,hurr,hurr,hurr
+STRINGFUCKUP_CAVESPEAK_4CH_13,угна,,ugna,ugna,ukna,ugna,ugna
+STRINGFUCKUP_CAVESPEAK_5CH_0,буга,,booga,bouga,bugga,booga,booga
+STRINGFUCKUP_CAVESPEAK_5CH_1,дааааа,,duhhh,duhhh,duhhh,duhhh,duhhh
+STRINGFUCKUP_CAVESPEAK_5CH_2,Муга,,mooga,mouga,mugga,mooga,mooga
+STRINGFUCKUP_CAVESPEAK_5CH_3,какающий,,poopy,popo,pupsi,cacca,poopy
+STRINGFUCKUP_CAVESPEAK_5CH_4,дерпи,,derpy,bobo,dupsi,scemo,derpy
+,,,,,,,
+//unit types,,,,,,,
+UNIT_TYPE_ALIEN,Чужой,,Extraterrestre,Extraterrestre,Alien,Alieno,Alienígena
+UNIT_TYPE_ANGEL,Ангел,,Ángel,Ange,Engel,Angelo,Anjo
+UNIT_TYPE_ANIMAL,Животное,,Animal,Animal,Tier,Animale,Animal
+UNIT_TYPE_BIRD,Птица,,Pájaro,Oiseau,Vogel,Uccello,Pássaro
+UNIT_TYPE_BISHOP_HAT,Епископ Шляпа,,Mitra,Mitre,Bischofshut,Cappello da Vescovo,Chapéu de Bispo
+UNIT_TYPE_BLOB,Блоб,,Masa,Blob,Blob,Blob,Gosma
+UNIT_TYPE_BOMB,Бомба,,Bomba,Bombe,Bombe,Bomba,Bomba
+UNIT_TYPE_BUG,Ошибка,,Bicho,Insecte,Käfer,Insetto,Inseto
+UNIT_TYPE_CANDLE,Свеча,,Vela,Bougie,Kerze,Candela,Vela
+UNIT_TYPE_CAT,Кот,,Gato,Chat,Katze,Gatto,Gato
+UNIT_TYPE_CONTAINER,Контейнер,,Contenedor,Contenant,Behälter,Contenitore,Recipiente
+UNIT_TYPE_COSMIC,Космический,,Ente cósmico,Cosmique,Kosmisch,Cosmico,Cósmico
+UNIT_TYPE_CROW,Ворона,,Cuervo,Corbeau,Krähe,Corvo,Corvo
+UNIT_TYPE_DECOY,Приманка,,Señuelo,Leurre,Lockvogel,Esca,Chamariz
+UNIT_TYPE_DEMON,Демон,,Demonio,Démon,Dämon,Demone,Demônio
+UNIT_TYPE_DINOSAUR,Динозавр,,Dinosaurio,Dinosaure,Dinosaurier,Dinosauro,Dinossauro
+UNIT_TYPE_DOG,Собака,,Perro,Chien,Hund,Cane,Cachorro
+UNIT_TYPE_ELEMENTAL,Элементаль,,Elemental,Élémentaire,Elementar,Elementale,Elemental
+UNIT_TYPE_FETUS,Плод,,Feto,Fœtus,Fötus,Feto,Feto
+UNIT_TYPE_FISH,Рыба,,Pez,Poisson,Fisch,Pesce,Peixe
+UNIT_TYPE_FOOD,Еда,,Comida,Nourriture,Futter,Cibo,Comida
+UNIT_TYPE_GHOST,Призрак,,Fantasma,Fantôme,Geist,Fantasma,Fantasma
+UNIT_TYPE_GOD,Бог,,Dios,Dieu,Gott,Dio,Deus
+UNIT_TYPE_GOLEM,Голем,,Gólem,Golem,Golem,Golem,Golem
+UNIT_TYPE_HUMANOID,Гуманоид,,Humanoide,Humanoïde,Humanoid,Umanoide,Humanoide
+UNIT_TYPE_KAIJU,Кайдзю,,Kaiju,Kaiju,Kaiju,Kaiju,Kaiju
+UNIT_TYPE_MONEY,Деньги,,Dinero,Argent,Geld,Denaro,Dinheiro
+UNIT_TYPE_MOUNT,Крепление,,Montura,Monture,Reittier,Cavalcatura,Montaria
+UNIT_TYPE_PICKUP,Пикап,,Recogible,Ressource,Gegenstand,Furgoncino,Coletável
+UNIT_TYPE_PILL,Таблетка,,Pastilla,Pilule,Pille,Pillola,Pílula
+UNIT_TYPE_PLANT,Завод,,Planta,Plante,Pflanze,Pianta,Planta
+UNIT_TYPE_POOP,какашки,,Caca,Caca,Häufchen,Cacca,Cocô
+UNIT_TYPE_RAT,Крыса,,Rata,Rat,Ratte,Ratto,Rato
+UNIT_TYPE_ROBOT,Робот,,Robot,Robot,Roboter,Robot,Robô
+UNIT_TYPE_ROCK,Рок,,Roca,Pierre,Stein,Roccia,Pedra
+UNIT_TYPE_SCRAP,Лом,,Chatarra,Ferraille,Schrott,Rottame,Sucata
+UNIT_TYPE_SIREN,Сирена,,Sirena,Sirène,Sirene,Sirena,Sereia
+UNIT_TYPE_SKELETON,Скелет,,Esqueleto,Squelette,Skelett,Scheletro,Esqueleto
+UNIT_TYPE_SPEAR,Копье,,Lanza,Lance,Speer,Lancia,Lança
+UNIT_TYPE_SQUIRREL,Белка,,Ardilla,Écureuil,Eichhörnchen,Scoiattolo,Esquilo
+UNIT_TYPE_TRASH,мусор,,Basura,Déchet,Müll,Spazzatura,Lixo
+UNIT_TYPE_TUMOR,Опухоль,,Tumor,Tumeur,Tumor,Tumore,Tumor
+UNIT_TYPE_UNDEAD,Нежить,,Muerto viviente,Mort-vivant,Untoter,Non morto,Morto-Vivo
+UNIT_TYPE_WORM,Червь,,Lombriz,Ver,Wurm,Verme,Minhoca
+UNIT_TYPE_ZOMBIE,Зомби,,Zombi,Zombie,Zombie,Zombie,Zumbi
+,,,,,,,
+//cat classes,,,,,,,
+CAT_CLASS_FIGHTER_NAME,боец,,Luchador,Pugiliste,Krieger,Guerriero,Lutador
+CAT_CLASS_FIGHTER_DESC,Пробейте себе путь к победе! Бойцы отлично умеют проводить сильные рукопашные атаки и разбивать предметы на куски!,,¡Alcanza la victoria a puñetazo limpio! Los luchadores asestan grandes ataques cuerpo a cuerpo y machacan lo que se les ponga por delante.,Foncez vers la victoire à coups de poing&nbsp;! Les pugilistes excellent dans les attaques au corps à corps surpuissantes et réduisent tout en miettes.,Lass deine Fäuste sprechen! Krieger verfügen über starke Nahkampfangriffe und schlagen gern Dinge zu Brei!,Avanza a suon di pugni! I guerrieri sono bravissimi a sferrare potenti attacchi corpo a corpo e a spaccare tutto!,Abra caminho até a vitória a socos e pontapés! Lutadores são ótimos em realizar poderosos ataques corpo-a-corpo e destruir coisas!
+CAT_CLASS_HUNTER_NAME,Охотник,,Cazador,Sentinelle,Jäger,Cacciatore,Caçador
+CAT_CLASS_HUNTER_DESC,"Стреляйте по вещам издалека! Охотники отлично умеют поражать предметы на расстоянии, оставаясь при этом вне опасности!",,¡Dispara cosas desde lejos! Los cazadores se encargan de atacar a distancia mientras se mantienen a salvo del peligro.,Attaquez vos adversaires à distance&nbsp;! Les sentinelles excellent dans les attaques à longue portée qui leur permettent de rester loin du danger.,Schieß deine Gegner aus der Ferne ab! Jäger sind ausgezeichnete Fernkämpfer und können selbst außer Reichweite bleiben!,Spara da lontano! I cacciatori sono bravissimi a colpire da lontano restando a distanza di sicurezza!,Dispare coisas de longe! Caçadores são ótimos em acertar alvos de longe enquanto se mantêm fora do perigo!
+CAT_CLASS_MAGE_NAME,Маг,,Mago,Mage,Magier,Mago,Mago
+CAT_CLASS_MAGE_DESC,Взорвите своих врагов! Маги великолепно умеют произносить всевозможные сумасшедшие заклинания и наносить стихийный урон!,,¡Haz explotar a tus enemigos! Los magos son expertos en lanzar todo tipo de hechizos disparatados e infligir daño elemental.,Anéantissez vos ennemis par la magie&nbsp;! Les mages maîtrisent une vaste panoplie de sorts et infligent de puissants dégâts élémentaires.,"Nutze die Macht der Elemente! Magier verfügen über allerlei verrückte Zauber und nutzen Feuer, Eis und Blitz, um ihre Gegner zu zerstören!",Distruggi i tuoi nemici! I maghi sono bravissimi a lanciare ogni sorta di folle incantesimo e a infliggere danno elementale!,Exploda seus inimigos! Magos são ótimos em lançar todo tipo de encantamento maluco e causar dano elemental!
+CAT_CLASS_MEDIC_NAME,Священник,,Clérigo,Sage,Kleriker,Chierico,Clérigo
+CAT_CLASS_MEDIC_DESC,Будь лучшим другом! Священники прекрасно умеют поддерживать вашу команду в живых и помогать ей восстанавливаться после ударов!,,¡Amistad de la buena! Los clérigos son la mejor opción para mantener a tu equipo con vida y ayudarlo a recuperarse de los ataques.,Soutenez vos alliés&nbsp;! Les sages gardent l'équipe sur pied et l'aident à récupérer après les coups durs.,"Hilf deinen Freunden! Kleriker können deine Gruppe am Leben halten und ihnen dabei helfen, sich von Verletzungen zu erholen!",Non c'è amico migliore! I chierici sono bravissimi a mantenere in vita i membri la tua squadra e ad aiutare loro a recuperare dai colpi subiti!,Mostre o poder da amizade! Clérigos são ótimos em manter sua equipe viva e ajudar os outros a se recuperar de golpes sofridos!
+CAT_CLASS_TANK_NAME,Танк,,Tanque,Tank,Tank,Corazzato,Tanque
+CAT_CLASS_TANK_DESC,Мешайте! Танки отлично поглощают урон и расталкивают врагов!,,¡Ponte en medio! No hay nada como un tanque para absorber daño y empujar a los enemigos de un lado a otro.,Prenez les coups à leur place&nbsp;! Les tanks protègent leurs alliés en absorbant les dégâts et repoussant les ennemis.,"Stell dich deinen Gegnern in den Weg! Tanks sind gut dafür geeignet, Schaden zu absorbieren und Gegner herumzuschubsen!",Mettiti in mezzo! I corazzati sono bravissimi ad assorbire il danno e a spingere i nemici!,Entre no caminho! Tanques são ótimos em absorver dano e empurrar inimigos por toda parte!
+CAT_CLASS_THIEF_NAME,Вор,,Ladrón,Fourbe,Dieb,Ladro,Ladrão
+CAT_CLASS_THIEF_DESC,"Атака из тени! Воры отлично умеют уклоняться от ударов, собирать монеты и наносить удары сзади!",,"¡Ataca desde las sombras! Los ladrones se valen de su destreza para esquivar golpes, conseguir monedas y atacar por detrás.","Il attaque depuis les ombres&nbsp;! Les fourbes sont passés maîtres dans l'esquive, le vol et les attaques sournoises.","Greif aus den Schatten an! Diebe weichen am liebsten Treffern aus, sammeln Münzen aus und schlagen von hinten zu!","Attacca dall'ombra! I ladri sono bravissimi a schivare i colpi, raccogliere monete e colpire alle spalle!","Ataque pelas sombras! Ladrões são ótimos em evitar ataques, coletar moedas e atacar por trás!"
+CAT_CLASS_COLORLESS_NAME,Без воротника,,Sin collar,Sans collier,Klassenlos,Senza Collare,Sem coleira
+CAT_CLASS_COLORLESS_DESC,Это кот!,,¡Es un gato!,C'est... juste un chat&nbsp;!,Eine normale Katze!,È un gatto!,É um gato!
+CAT_CLASS_MONK_NAME,Монах,,Monje,Moine,Mönch,Monaco,Monge
+CAT_CLASS_MONK_DESC,Универсальный мастер боя! Монахи могут переключаться между стойками дальнего и ближнего боя и атаковать дважды за ход!,,¡Domina las artes marciales con versatilidad! Los monjes pueden alternar posturas a distancia con otras cuerpo a cuerpo y atacar dos veces por turno.,"Nul combattant n'est plus polyvalent&nbsp;! Les moines alternent entre attaques à distance et au corps à corps, et peuvent attaquer deux fois par tour.",Ein vielseitiger Kampfkünstler! Mönche können zwischen Fern- und Nahkampfhaltung wechseln und zweimal pro Zug angreifen!,Un maestro del combattimento versatile! I monaci possono passare dalla postura a distanza a quella corpo a corpo e attaccare due volte per turno!,Mestres do combate versátil! Monges podem alternar entre posturas à distância e corpo-a-corpo e atacar duas vezes por turno!
+CAT_CLASS_BUTCHER_NAME,Мясник,,Carnicero,Barbare,Schlachter,Macellaio,Açougueiro
+CAT_CLASS_BUTCHER_DESC,"Мясо, Мясо, Мясо, Мясо! Мясники отлично умеют откалывать куски мяса от вещей, и у них есть крюк, которым можно подтягивать предметы к себе!",,"¡Carne, carne, carne, carne, carne! A los carniceros se les da genial rebanar trozos de carne, y tienen un gancho con el que pueden tirar de las cosas hacia ellos.",L'expert de la découpe&nbsp;! Les barbares tranchent leurs ennemis en rondelles et usent de leur crochet pour les ramener à portée.,"Fleisch, Fleisch, Fleisch! Schlachter schneiden ganze Stücke von ihren Gegnern ab und haben einen Fleischerhaken im Gepäck, mit dem sie alles Mögliche an sich heranziehen können!",Carne carne carne carne carne! I macellai sono bravissimi a staccare pezzi di carne dalle cose e hanno un uncino per attirarle verso di loro!,"Carne, carne, carne, carne, carne! Açougueiros são ótimos em cortar pedaços de carne das coisas e têm um gancho para puxá-las em sua direção!"
+CAT_CLASS_DRUID_NAME,Друид,,Druida,Druide,Druide,Druido,Druida
+CAT_CLASS_DRUID_DESC,"Единение с природой! Друиды отлично умеют призывать друзей-животных, и у них есть особый аналог Ворона!",,"¡Fúndete con la naturaleza! La especialidad de los druidas es invocar a amigos animales, y tienen un homólogo córvido especial.",Il ne fait qu'un avec la nature&nbsp;! Les druides peuvent appeler leurs amis animaux à la rescousse et disposent d'un corbeau domestiqué.,Er ist eins mit der Natur! Druiden beschwören Tierfreunde und haben einen schlauen Krähenbegleiter!,Un tutt'uno con la natura! I druidi sono bravissimi a evocare amici animali e hanno una controparte speciale: il corvo!,Em união com a natureza! Druidas são ótimos em invocar amigos animais e possuem um companheiro corvo especial!
+CAT_CLASS_TINKERER_NAME,Тинкерер,,Manitas,Scientifique,Bastler,Inventore,Artífice
+CAT_CLASS_TINKERER_DESC,Лукавый изобретатель! Тинкереры отлично умеют создавать временное оружие и использовать всевозможные сумасшедшие гаджеты!,,¡A inventar se ha dicho! Los manitas son capaces de fabricar armas temporales y usar todo tipo de artilugios de locos.,Un inventeur de génie&nbsp;! Les scientifiques conçoivent des armes éphémères et manient pléthore de gadgets farfelus.,Ein erfinderisches Genie! Bastler können behelfsmäßige Waffen herstellen und alle möglichen verrückte Geräte verwenden!,Ha un'incredibile ingegnosità! Gli inventori sono bravissimi a creare armi temporanee e a usare ogni sorta di gadget strampalato!,Invenções engenhosas! Artífices são ótimos em criar armas temporárias e utilizar todo tipo de engenhoca maluca!
+CAT_CLASS_NECROMANCER_NAME,Некромант,,Nigromante,Occultiste,Totenbeschwörer,Necromante,Necromante
+CAT_CLASS_NECROMANCER_DESC,Восстаньте из мертвых! Некроманты великолепно играют с трупами и высасывают жизнь из врагов!,,¡Que se alcen los muertos! Los nigromantes se dedican a jugar con cadáveres y absorber la energía vital de sus enemigos.,Le maître de la nécromancie&nbsp;! Les occultistes manipulent les cadavres et drainent la vitalité de leurs ennemis.,"Erhebe dich von den Toten! Totenbeschwörer lieben es, mit Leichen zu spielen und ihren Gegnern Leben abzusaugen!",Risorgi dai morti! I necromanti sono bravissimi a giocare con i cadaveri e a succhiare la vita dai nemici!,Erga-se dos mortos! Necromantes são ótimos em brincar com cadáveres e drenar vida dos inimigos!
+CAT_CLASS_PSYCHIC_NAME,экстрасенс,,Ocultista,Médium,Medium,Psionico,Psíquico
+CAT_CLASS_PSYCHIC_DESC,Очистите свой разум! Экстрасенсы прекрасно умеют манипулировать вещами на расстоянии и перемещать предметы силой мысли! Экстрасенсы также имеют +5 стартовой маны.,,"¡Despeja tu mente! Los ocultistas son especialistas en manipular cosas desde lejos y mover objetos con la mente. Además, tienen +5 de maná inicial.",Faites le vide dans votre esprit&nbsp;! Les médiums sont capables de déplacer les objets par la pensée et gagnent +5 mana de départ.,Reinige dein Innerstes! Das Medium kann Dinge aus der Ferne manipulieren und allein mit den Gedanken Objekte bewegen! Außerdem verfügt das Medium über +5&nbsp;Anfangsmana.,Libera la tua mente! Gli psionici sono bravissimi a manipolare le cose da lontano e a spostare gli oggetti con la mente! Inoltre hanno anche +5 di mana iniziale.,Esvazie sua mente! Psíquicos são ótimos em manipular as coisas de longe e mover objetos com suas mentes! Psíquicos também possuem +5 de mana inicial.
+CAT_CLASS_JESTER_NAME,Шут,,Bufón,Joker,Narr,Giullare,Curinga
+CAT_CLASS_JESTER_DESC,Ты можешь быть кем угодно! У шутов нет границ!,,¡Puedes ser cualquier cosa! Los bufones no tienen límites.,Devenez qui vous voulez&nbsp;! Les jokers n'ont aucune limite&nbsp;!,Du kannst alles sein! Narren kennen keine Grenzen!,Puoi essere ciò che vuoi! I giullari non hanno limiti!,Seja qualquer coisa! Curingas não têm limites!

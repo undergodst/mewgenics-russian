@@ -1,0 +1,1270 @@
+﻿KEY,en,notes,sp,fr,de,it,pt-br
+FURNITURE_RARE_FORMAT,Редкий {furniturename},,{furniturename} inusual,{furniturename} rare,{furniturename} (Selten),{furniturename} (raro),{furniturename} (raro)
+FURNITURE_NAME_POOP,какашки,,Caca,Crotte,Häufchen,Cacca,Cocô
+FURNITURE_DESC_POOP,,,,,,,
+FURNITURE_NAME_AUTOFEEDER,Автоподатчик,"(cut, no need to localize)",Comedero automático,Autofeeder,,,
+FURNITURE_DESC_AUTOFEEDER,Этот предмет был удален из игры и не имеет никакого эффекта. Хранить в доме это пустая трата места.,"(cut, no need to localize)","Este objeto ya no está en el juego, de modo que ocupa un espacio innecesario en la casa.",This item got removed from the game and has no effect. Its a waste of space to keep in your house.,,,
+FURNITURE_NAME_SPECIAL_FOODBOX,Ящик для хранения продуктов питания,,Caja para comida,Boîte de rangement de croquettes,Futterbox,Scatola per il cibo,Caixa de armazenamento de comida
+FURNITURE_DESC_SPECIAL_FOODBOX,+40 к максимальному количеству еды,,+40 de máximo de comida,Nourriture max.&nbsp;+40,+40&nbsp;max. Futter,+40 Cibo Massimo,+40 de comida máx.
+FURNITURE_NAME_SPECIAL_COMFORTIDOL,Идол комфорта,,Ídolo de la comodidad,Idole de Bien-être,Idol des Komforts,Idolo del Comfort,Ídolo de conforto
+FURNITURE_DESC_SPECIAL_COMFORTIDOL,,,,,,,
+FURNITURE_NAME_SPECIAL_APPEALIDOL,Идол привлекательности,,Ídolo del atractivo,Idole d'Attractivité,Idol der Anziehung,Idolo dell'Attrattiva,Ídolo de apelo
+FURNITURE_DESC_SPECIAL_APPEALIDOL,,,,,,,
+FURNITURE_NAME_SPECIAL_HEALTHIDOL,Идол здоровья,,Ídolo de la salud,Idole de Santé,Idol der Gesundheit,Idolo della Salute,Ídolo de saúde
+FURNITURE_DESC_SPECIAL_HEALTHIDOL,,,,,,,
+FURNITURE_NAME_SPECIAL_EVOLUTIONIDOL,Идол эволюции,,Ídolo de la evolución ,Idole d'Évolution,Idol der Evolution ,Idolo dell'Evoluzione,Ídolo de evolução
+FURNITURE_DESC_SPECIAL_EVOLUTIONIDOL,,,,,,,
+FURNITURE_NAME_SPECIAL_STIMULATIONIDOL,Идол стимуляции,,Ídolo de la estimulación ,Idole de Stimulation,Idol der Stimulation ,Idolo della Stimolazione,Ídolo de estimulação
+FURNITURE_DESC_SPECIAL_STIMULATIONIDOL,,,,,,,
+FURNITURE_NAME_SPECIAL_FIGHTIDOL,Идол Хаоса,,Ídolo del caos,Idole du Chaos,Idol des Chaos,Idolo del Caos,Ídolo de caos
+FURNITURE_DESC_SPECIAL_FIGHTIDOL,"Бои более смертоносны, но победивший кот получает вдвое больше наград за характеристики.",,"Los combates son más sangrientos, pero el gato ganador recibe el doble de recompensas de atributos.","Les combats sont plus sanguinaires, mais le chat vainqueur remporte le double des récompenses en stats.","Kämpfe sind tödlicher, aber Attributsbelohnungen sind verdoppelt.","I combattimenti sono più letali, ma il gatto vincitore ottiene il doppio delle ricompense alle statistiche.","Lutas são mais mortais, mas os gatos vencedores obtêm o dobro de recompensas de atributos."
+FURNITURE_NAME_SPECIAL_SUPPRESSORIDOL,Идол целомудрия,,Ídolo de la castidad,Idole de Chasteté,Idol der Keuschheit,Idolo della castità,Ídolo de castidade
+FURNITURE_DESC_SPECIAL_SUPPRESSORIDOL,Кошки не размножаются.,,Los gatos no se aparean.,Les chats ne se reproduiront pas.,Katzen pflanzen sich nicht fort.,I gatti non si riproducono.,Gatos não procriam.
+FURNITURE_NAME_SET_SPIDER_CANDELABRA,Паук Канделябры,,Candelabro arácnido,Candélabre araignée,Spinnenkronleuchter,Candelabro aracnide,Candelabro de aranha
+FURNITURE_DESC_SET_SPIDER_CANDELABRA,,,,,,,
+FURNITURE_NAME_SET_SPIDER_VANITY,Паучье тщеславие,,Tocador arácnido,Coiffeuse araignée,Spinnenfrisiertisch,Toeletta aracnide,Penteadeira de aranha
+FURNITURE_DESC_SET_SPIDER_VANITY,,,,,,,
+FURNITURE_NAME_SET_SPIDER_CHAIR,Стул Паук,,Silla arácnida,Chaise araignée,Spinnenstuhl,Sedia aracnide,Cadeira de aranha
+FURNITURE_DESC_SET_SPIDER_CHAIR,,,,,,,
+FURNITURE_NAME_SET_SPIDER_TABLE,Стол-паук,,Mesa arácnida,Table araignée,Spinnentisch,Tavolo aracnide,Mesa de aranha
+FURNITURE_DESC_SET_SPIDER_TABLE,,,,,,,
+FURNITURE_NAME_SET_SPIDER_DRESSER,Комод-паук,,Aparador arácnido,Commode araignée,Spinnenkleiderschrank,Comò aracnide,Cômoda de aranha
+FURNITURE_DESC_SET_SPIDER_DRESSER,,,,,,,
+FURNITURE_NAME_SET_SPIDER_TV,Паук ТВ,,Tele arácnida,TV araignée,Spinnenfernseher,TV aracnide,TV de aranha
+FURNITURE_DESC_SET_SPIDER_TV,,,,,,,
+FURNITURE_NAME_SET_SPIDER_TOILET,Паучий туалет,,Retrete arácnido,Toilettes araignée,Spinnentoilette,WC aracnide,Privada de aranha
+FURNITURE_DESC_SET_SPIDER_TOILET,,,,,,,
+FURNITURE_NAME_SET_SPIDER_SHELF,Полка Паук,,Estante arácnido,Étagère araignée,Spinnenregal,Mensola aracnide,Estante de aranha
+FURNITURE_DESC_SET_SPIDER_SHELF,,,,,,,
+FURNITURE_NAME_SET_SPIDER_BED,Кровать-паук,,Cama arácnida,Lit araignée,Spinnenbett,Letto aracnide,Cama de aranha
+FURNITURE_DESC_SET_SPIDER_BED,,,,,,,
+FURNITURE_NAME_SET_SPIDER_SIDETABLE,Приставной столик «Паук»,,Mesilla arácnida,Table d'appoint araignée,Spinnenbeistelltisch,Tavolino aracnide,Mesa lateral de aranha
+FURNITURE_DESC_SET_SPIDER_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_JUNK_SIDETABLE,Нежелательный столик,,Mesilla de desechos,Table d'appoint au rabais,Müllbeistelltisch,Tavolino di ciarpame,Mesa lateral de lixo
+FURNITURE_DESC_SET_JUNK_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_JUNK_CHAIR,Мусорный стул,,Silla de desechos,Chaise au rabais,Müllstuhl,Sedia di ciarpame,Cadeira de lixo
+FURNITURE_DESC_SET_JUNK_CHAIR,,,,,,,
+FURNITURE_NAME_SET_JUNK_SHELF,Полка для мусора,,Estante de desechos,Étagère au rabais,Müllregal,Scaffale di ciarpame,Estante de lixo
+FURNITURE_DESC_SET_JUNK_SHELF,,,,,,,
+FURNITURE_NAME_SET_JUNK_BED,Мусорная кровать,,Cama de desechos,Lit au rabais,Müllbett,Letto di ciarpame,Cama de lixo
+FURNITURE_DESC_SET_JUNK_BED,,,,,,,
+FURNITURE_NAME_SET_JUNK_CABINET,Мусорный шкаф,,Vitrina de desechos,Placard au rabais,Müllschrank,Armadietto di ciarpame,Armário de lixo
+FURNITURE_DESC_SET_JUNK_CABINET,,,,,,,
+FURNITURE_NAME_SET_JUNK_TV,Мусорное ТВ,,Tele de desechos,TV au rabais,Müllfernseher,TV di ciarpame,TV de lixo
+FURNITURE_DESC_SET_JUNK_TV,,,,,,,
+FURNITURE_NAME_SET_JUNK_SUSPENDEDSHELF,Подвесная полка для мусора,,Estante de desechos colgado,Étagère suspendue au rabais,Müllhängeregal,Mensola sospesa di ciarpame,Prateleira de lixo
+FURNITURE_DESC_SET_JUNK_SUSPENDEDSHELF,,,,,,,
+FURNITURE_NAME_SET_JUNK_LAMP,Мусорная лампа,,Lámpara de desechos,Lampe au rabais,Mülllampe,Lampada di ciarpame,Luminária de lixo
+FURNITURE_DESC_SET_JUNK_LAMP,,,,,,,
+FURNITURE_NAME_SET_JUNK_DRESSER,Комод для мусора,,Aparador de desechos,Commode au rabais,Müllkleiderschrank,Comò di ciarpame,Cômoda de lixo
+FURNITURE_DESC_SET_JUNK_DRESSER,,,,,,,
+FURNITURE_NAME_SET_JUNK_TOILET,Мусорный туалет,,Retrete de desechos,Toilettes au rabais,Mülltoilette,WC di ciarpame,Privada de lixo
+FURNITURE_DESC_SET_JUNK_TOILET,,,,,,,
+FURNITURE_NAME_SET_SEWN_DRESSER,Сшитый комод,,Aparador remendado,Commode cousue,Stoffkleiderschrank,Comò rammendato,Cômoda costurada
+FURNITURE_DESC_SET_SEWN_DRESSER,,,,,,,
+FURNITURE_NAME_SET_SEWN_SIDETABLE,Сшитый столик,,Mesilla remendada,Table d'appoint cousue,Stoffbeistelltisch,Tavolino rammendato,Mesa lateral costurada
+FURNITURE_DESC_SET_SEWN_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_SEWN_TABLE,Сшитый стол,,Mesa remendada,Table cousue,Stofftisch,Tavolo rammendato,Mesa costurada
+FURNITURE_DESC_SET_SEWN_TABLE,,,,,,,
+FURNITURE_NAME_SET_SEWN_COUCH,Сшитый Диван,,Sofá remendado,Canapé cousu,Stoffsofa,Divano rammendato,Sofá costurado
+FURNITURE_DESC_SET_SEWN_COUCH,,,,,,,
+FURNITURE_NAME_SET_SEWN_CHAIR,Сшитый стул,,Silla remendada,Chaise cousue,Stoffstuhl,Sedia rammendata,Cadeira costurada
+FURNITURE_DESC_SET_SEWN_CHAIR,,,,,,,
+FURNITURE_NAME_SET_SEWN_STOOL1,Сшитый Табурет А,,Taburete remendado A,Tabouret cousu A,Stoffhocker A,Sgabello rammendato A,Banqueta costurada A
+FURNITURE_DESC_SET_SEWN_STOOL1,,,,,,,
+FURNITURE_NAME_SET_SEWN_TOILET,Сшитый туалет,,Retrete remendado,Toilettes cousues,Stofftoilette,WC rammendato,Privada costurada
+FURNITURE_DESC_SET_SEWN_TOILET,,,,,,,
+FURNITURE_NAME_SET_SEWN_TV,Сшитый телевизор,,Tele remendada,TV cousue,Stofffernseher,TV rammendata,TV costurada
+FURNITURE_DESC_SET_SEWN_TV,,,,,,,
+FURNITURE_NAME_SET_SEWN_DOLL,Сшитая кукла,,Muñeca remendada,Poupée cousue,Stoffpuppe,Bambolotto rammendato,Boneca costurada
+FURNITURE_DESC_SET_SEWN_DOLL,,,,,,,
+FURNITURE_NAME_SET_SEWN_STOOL2,Сшитый Табурет Б,,Taburete remendado B,Tabouret cousu B,Stoffhocker B,Sgabello rammendato B,Banqueta costurada B
+FURNITURE_DESC_SET_SEWN_STOOL2,,,,,,,
+FURNITURE_NAME_SET_CAT_SHELF,Полка для кошек,,Estante gatuno,Étagère chat,Katzenregal,Scaffale a forma di gatto,Estante de gato
+FURNITURE_DESC_SET_CAT_SHELF,,,,,,,
+FURNITURE_NAME_SET_CAT_COUCH,Кошачий диван,,Sofá gatuno,Canapé chat,Katzensofa,Divano a forma di gatto,Sofá de gato
+FURNITURE_DESC_SET_CAT_COUCH,,,,,,,
+FURNITURE_NAME_SET_CAT_CHAIR,Кошачий стул,,Silla gatuna,Chaise chat,Katzenstuhl,Sedia a forma di gatto,Cadeira de gato
+FURNITURE_DESC_SET_CAT_CHAIR,,,,,,,
+FURNITURE_NAME_SET_CAT_BED,Кошачья кровать,,Cama gatuna,Lit chat,Katzenbett,Letto a forma di gatto,Cama de gato
+FURNITURE_DESC_SET_CAT_BED,,,,,,,
+FURNITURE_NAME_SET_CAT_TABLE,Стол для кошек А,,Mesa gatuna A,Table&nbsp;chat A,Katzentisch A,Tavolo a forma di gatto A,Mesa de gato A
+FURNITURE_DESC_SET_CAT_TABLE,,,,,,,
+FURNITURE_NAME_SET_CAT_TV,Кот ТВ,,Tele gatuna,TV chat,Katzenfernseher,TV a forma di gatto,TV de gato
+FURNITURE_DESC_SET_CAT_TV,,,,,,,
+FURNITURE_NAME_SET_CAT_BENCH,Кошачья скамейка,,Banco gatuno,Banc chat,Katzenbank,Panca a forma di gatto,Banco de gato
+FURNITURE_DESC_SET_CAT_BENCH,,,,,,,
+FURNITURE_NAME_SET_CAT_DRESSER,Кошачий комод,,Aparador gatuno,Commode chat,Katzenkleiderschrank,Comò a forma di gatto,Cômoda de gato
+FURNITURE_DESC_SET_CAT_DRESSER,,,,,,,
+FURNITURE_NAME_SET_CAT_SUSPENDED_SHELF,Подвесная полка для кошек,,Estante gatuno colgado,Étagère suspendue chat,Katzenhängeregal,Mensola sospesa a forma di gatto,Prateleira de gato
+FURNITURE_DESC_SET_CAT_SUSPENDED_SHELF,,,,,,,
+FURNITURE_NAME_SET_CAT_TABLE2,Стол для кошек Б,,Mesa gatuna B,Table&nbsp;B chat,Katzentisch B,Tavolo a forma di gatto B,Mesa de gato B
+FURNITURE_DESC_SET_CAT_TABLE2,,,,,,,
+FURNITURE_NAME_SET_WOODEN_SHELF,Деревянная Полка А,,Estante de madera A,Étagère en bois A,Holzregal A,Scaffale di legno A,Estante de madeira A
+FURNITURE_DESC_SET_WOODEN_SHELF,,,,,,,
+FURNITURE_NAME_SET_WOODEN_DRESSER,Деревянный комод,,Aparador de madera A,Commode en bois,Holzkleiderschrank,Comò di legno,Cômoda de madeira
+FURNITURE_DESC_SET_WOODEN_DRESSER,,,,,,,
+FURNITURE_NAME_SET_WOODEN_CHAIR,Деревянный стул,,Silla de madera,Chaise en bois,Holzstuhl,Sedia di legno,Cadeira de madeira
+FURNITURE_DESC_SET_WOODEN_CHAIR,,,,,,,
+FURNITURE_NAME_SET_WOODEN_TOILET,Деревянный туалет,,Retrete de madera,Toilettes en bois,Holztoilette,WC di legno,Privada de madeira
+FURNITURE_DESC_SET_WOODEN_TOILET,,,,,,,
+FURNITURE_NAME_SET_WOODEN_TABLE,Деревянный стол,,Mesa de madera,Table en bois,Holztisch,Tavolo di legno,Mesa de madeira
+FURNITURE_DESC_SET_WOODEN_TABLE,,,,,,,
+FURNITURE_NAME_SET_WOODEN_SINK,Деревянная Раковина,,Lavabo de madera,Évier en bois,Holzwaschbecken,Lavandino di legno,Pia de madeira
+FURNITURE_DESC_SET_WOODEN_SINK,,,,,,,
+FURNITURE_NAME_SET_WOODEN_LAMP,Деревянная лампа,,Lámpara de madera,Lampe en bois,Holzlampe,Lampada di legno,Luminária de madeira
+FURNITURE_DESC_SET_WOODEN_LAMP,,,,,,,
+FURNITURE_NAME_SET_WOODEN_TV,Деревянный телевизор,,Tele de madera,TV en bois,Holzfernseher,TV di legno,TV de madeira
+FURNITURE_DESC_SET_WOODEN_TV,,,,,,,
+FURNITURE_NAME_SET_WOODEN_SUSPENDEDSHELF,Подвесная деревянная полка,,Estante de madera colgado,Étagère suspendue en bois,Holzhängeregal,Mensola sospesa di legno,Prateleira de madeira
+FURNITURE_DESC_SET_WOODEN_SUSPENDEDSHELF,,,,,,,
+FURNITURE_NAME_SET_WOODEN_SHELF2,Деревянная Полка Б,,Estante de madera B,Étagère en bois B,Holzregal B,Mensola di legno B,Estante de madeira B
+FURNITURE_DESC_SET_WOODEN_SHELF2,,,,,,,
+FURNITURE_NAME_SET_SEWER_SINK,Канализационная раковина,,Lavabo de alcantarilla,Évier d'égout,Abwasserwaschbecken,Lavandino di fogna,Pia de esgoto
+FURNITURE_DESC_SET_SEWER_SINK,,,,,,,
+FURNITURE_NAME_SET_SEWER_SHELF,Канализационная полка,,Estante de alcantarilla,Étagère d'égout,Abwasserregal,Scaffale di fogna,Estante de esgoto
+FURNITURE_DESC_SET_SEWER_SHELF,,,,,,,
+FURNITURE_NAME_SET_SEWER_TABLE,Канализационный стол,,Mesa de alcantarilla,Table d'égout,Abwassertisch,Tavolo di fogna,Mesa de esgoto
+FURNITURE_DESC_SET_SEWER_TABLE,,,,,,,
+FURNITURE_NAME_SET_SEWER_DRESSER,Канализационный комод,,Aparador de alcantarilla,Commode d'égout,Abwasserkleiderschrank,Comò di fogna,Cômoda de esgoto
+FURNITURE_DESC_SET_SEWER_DRESSER,,,,,,,
+FURNITURE_NAME_SET_SEWER_CHAIR,Канализационный стул,,Silla de alcantarilla,Chaise d'égout,Abwasserstuhl,Sedia di fogna,Cadeira de esgoto
+FURNITURE_DESC_SET_SEWER_CHAIR,,,,,,,
+FURNITURE_NAME_SET_SEWER_SUSPENDEDSHELF,Подвесная канализационная полка,,Estante de alcantarilla colgado,Étagère suspendue d'égout,Abwasserhängeregal,Mensola sospesa di fogna,Prateleira de esgoto
+FURNITURE_DESC_SET_SEWER_SUSPENDEDSHELF,,,,,,,
+FURNITURE_NAME_SET_SEWER_TV,Канализационный телевизор,,Tele de alcantarilla,TV d'égout,Abwasserfernseher,TV di fogna,TV de esgoto
+FURNITURE_DESC_SET_SEWER_TV,,,,,,,
+FURNITURE_NAME_SET_SEWER_SMALL_TABLE,Канализационный столик,,Mesita de alcantarilla,Petite table d'égout,Kleiner Abwassertisch,Tavolino di fogna,Mesa pequena de esgoto
+FURNITURE_DESC_SET_SEWER_SMALL_TABLE,,,,,,,
+FURNITURE_NAME_SET_SEWER_STOOL,Канализационный табурет,,Taburete de alcantarilla,Tabouret d'égout,Abwasserhocker,Sgabello di fogna,Banqueta de esgoto
+FURNITURE_DESC_SET_SEWER_STOOL,,,,,,,
+FURNITURE_NAME_SET_SEWER_LAMP,Канализационная лампа,,Lámpara de alcantarilla,Lampe d'égout,Abwasserlampe,Lampada di fogna,Luminária de esgoto
+FURNITURE_DESC_SET_SEWER_LAMP,,,,,,,
+FURNITURE_NAME_SET_BONE_SHELF,Костяная полка,,Estante de huesos,Étagère en os,Knochenregal,Mensola d'osso,Estante de osso
+FURNITURE_DESC_SET_BONE_SHELF,,,,,,,
+FURNITURE_NAME_SET_BONE_SINK,Костная раковина,,Lavabo de huesos,Évier en os,Knochenwaschbecken,Lavandino d'osso,Pia de osso
+FURNITURE_DESC_SET_BONE_SINK,,,,,,,
+FURNITURE_NAME_SET_BONE_SIDETABLE,Приставной столик из костей,,Mesilla de huesos,Table d'appoint en os,Knochenbeistelltisch,Tavolino d'osso,Mesa lateral de osso
+FURNITURE_DESC_SET_BONE_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_BONE_TABLE,Костяной стол,,Mesa de huesos,Table en os,Knochentisch,Tavolo d'osso,Mesa de osso
+FURNITURE_DESC_SET_BONE_TABLE,,,,,,,
+FURNITURE_NAME_SET_BONE_COUCH,Костяной диван,,Sofá de huesos,Canapé en os,Knochensofa,Divano d'osso,Sofá de osso
+FURNITURE_DESC_SET_BONE_COUCH,,,,,,,
+FURNITURE_NAME_SET_BONE_TV,Кость ТВ,,Tele de huesos,TV en os,Knochenfernseher,TV d'osso,TV de osso
+FURNITURE_DESC_SET_BONE_TV,,,,,,,
+FURNITURE_NAME_SET_BONE_CHANDELIER,Костяная люстра,,Araña de huesos,Chandelier en os,Knochenkronleuchter,Lampadario d'osso,Lustre de osso
+FURNITURE_DESC_SET_BONE_CHANDELIER,,,,,,,
+FURNITURE_NAME_SET_BONE_LAMP,Костяная лампа,,Lámpara de huesos,Lampe en os,Knochenlampe,Lampada d'osso,Luminária de osso
+FURNITURE_DESC_SET_BONE_LAMP,,,,,,,
+FURNITURE_NAME_SET_BONE_CHAIR,Костяной стул,,Silla de huesos,Chaise en os,Knochenstuhl,Sedia d'osso,Cadeira de osso
+FURNITURE_DESC_SET_BONE_CHAIR,,,,,,,
+FURNITURE_NAME_SET_BONE_PILE,Куча костей,,Pila de huesos,Pile d'os,Knochenhaufen,Pila d'osso,Pilha de ossos
+FURNITURE_DESC_SET_BONE_PILE,,,,,,,
+FURNITURE_NAME_SET_ROBO_SHELF,Робо Полка,,Estante robótico,Étagère robo,Roboregal,Robo-scaffale,Estante robô
+FURNITURE_DESC_SET_ROBO_SHELF,,,,,,,
+FURNITURE_NAME_SET_ROBO_SINK,Робо-раковина,,Lavabo robótico,Évier robo,Robowaschbecken,Robo-lavandino,Pia robô
+FURNITURE_DESC_SET_ROBO_SINK,,,,,,,
+FURNITURE_NAME_SET_ROBO_DESK,Робо-стол,,Escritorio robótico,Bureau robo,Roboschreibtisch,Robo-scrivania,Escrivaninha robô
+FURNITURE_DESC_SET_ROBO_DESK,,,,,,,
+FURNITURE_NAME_SET_ROBO_TABLE,Робо Стол,,Mesa robótica,Table robo,Robotisch,Robo-tavolo,Mesa robô
+FURNITURE_DESC_SET_ROBO_TABLE,,,,,,,
+FURNITURE_NAME_SET_ROBO_DRESSER,Робо-комод,,Aparador robótico,Commande robo,Robokleiderschrank,Robo-comò,Cômoda robô
+FURNITURE_DESC_SET_ROBO_DRESSER,,,,,,,
+FURNITURE_NAME_SET_ROBO_TV,Робо ТВ,,Tele robótica,TV robo,Robofernseher,Robo-TV,TV robô
+FURNITURE_DESC_SET_ROBO_TV,,,,,,,
+FURNITURE_NAME_SET_ROBO_ROBOBODY,Робо Тело,,Cuerpo robótico,Corps robo,Robokörper,Robo-corpo,Corpo de robô
+FURNITURE_DESC_SET_ROBO_ROBOBODY,,,,,,,
+FURNITURE_NAME_SET_ROBO_ROBOCHEST,Робо-сундук,,Pecho robótico,Coffre robo,Robooberkörper,Robo-torace,Torso de robô
+FURNITURE_DESC_SET_ROBO_ROBOCHEST,,,,,,,
+FURNITURE_NAME_SET_ROBO_ROBOARMS,Робо Армс,,Brazos robóticos,Bras robo,Roboarme,Robo-braccia,Braços de robô
+FURNITURE_DESC_SET_ROBO_ROBOARMS,,,,,,,
+FURNITURE_NAME_SET_ROBO_HEAD,Робо-голова,,Cabeza robótica,Tête robo,Robokopf,Robo-testa,Cabeça de robô
+FURNITURE_DESC_SET_ROBO_HEAD,,,,,,,
+FURNITURE_NAME_SET_GUTS_SHELF,Полка с кишками,,Estante visceral,Étagère entrailles,Eingeweideregal,Mensola di viscere,Estante de tripas
+FURNITURE_DESC_SET_GUTS_SHELF,,,,,,,
+FURNITURE_NAME_SET_GUTS_TABLE,Стол кишки,,Mesa visceral,Table entrailles,Eingeweidetisch,Tavolo di viscere,Mesa de tripas
+FURNITURE_DESC_SET_GUTS_TABLE,,,,,,,
+FURNITURE_NAME_SET_GUTS_SIDETABLE,Приставной столик Guts A,,Mesilla visceral A,Table d'appoint entrailles A,Eingeweidebeistelltisch A,Tavolino di viscere A,Mesa lateral de tripas A
+FURNITURE_DESC_SET_GUTS_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_GUTS_SINK,Раковина кишок,,Lavabo visceral,Évier entrailles,Eingeweidewaschbecken,Lavandino di viscere,Pia de tripas
+FURNITURE_DESC_SET_GUTS_SINK,,,,,,,
+FURNITURE_NAME_SET_GUTS_SIDETABLE2,Приставной столик Guts B,,Mesilla visceral B,Table d'appoint entrailles B,Eingeweidebeistelltisch B,Tavolino di viscere B,Mesa lateral de tripas B
+FURNITURE_DESC_SET_GUTS_SIDETABLE2,,,,,,,
+FURNITURE_NAME_SET_GUTS_TOILET,Кишки Туалет,,Retrete visceral,Toilettes entrailles,Eingeweidetoilette,WC di viscere,Privada de tripas
+FURNITURE_DESC_SET_GUTS_TOILET,,,,,,,
+FURNITURE_NAME_SET_GUTS_LAMP,Лампа кишки А,,Lámpara visceral A,Lampe entrailles A,Eingeweidelampe A,Lampada di viscere A,Luminária de tripas A
+FURNITURE_DESC_SET_GUTS_LAMP,,,,,,,
+FURNITURE_NAME_SET_GUTS_LAMP2,Лампа кишки B,,Lámpara visceral B,Lampe entrailles B,Eingeweidelampe B,Lampada di viscere B,Luminária de tripas B
+FURNITURE_DESC_SET_GUTS_LAMP2,,,,,,,
+FURNITURE_NAME_SET_GUTS_SUSPENDEDSHELF,Подвесная полка для кишок,,Estante visceral colgado,Étagère suspendue entrailles,Eingeweidehängeregal,Mensola sospesa di viscere,Prateleira de tripas
+FURNITURE_DESC_SET_GUTS_SUSPENDEDSHELF,,,,,,,
+FURNITURE_NAME_SET_GUTS_TV,Гатс ТВ,,Tele visceral,TV entrailles,Eingeweidefernseher,TV di viscere,TV de tripas
+FURNITURE_DESC_SET_GUTS_TV,,,,,,,
+FURNITURE_NAME_SET_CRYSTAL_TOILET,Хрустальный туалет,,Retrete de cristal,Toilettes cristal,Kristalltoilette,WC di cristallo,Privada de cristal
+FURNITURE_DESC_SET_CRYSTAL_TOILET,,,,,,,
+FURNITURE_NAME_SET_CRYSTAL_DRESSER,Хрустальный комод А,,Aparador de cristal A,Commode cristal A,Kristallkleiderschrank A,Comò di cristallo A,Cômoda de cristal A
+FURNITURE_DESC_SET_CRYSTAL_DRESSER,,,,,,,
+FURNITURE_NAME_SET_CRYSTAL_LAMP,Хрустальная лампа,,Lámpara de cristal,Lampe cristal,Kristalllampe,Lampada di cristallo,Luminária de cristal
+FURNITURE_DESC_SET_CRYSTAL_LAMP,,,,,,,
+FURNITURE_NAME_SET_CRYSTAL_TABLE,Хрустальный стол,,Mesa de cristal,Table cristal,Kristalltisch,Tavolo di cristallo,Mesa de cristal
+FURNITURE_DESC_SET_CRYSTAL_TABLE,,,,,,,
+FURNITURE_NAME_SET_CRYSTAL_CHANDELIER,Хрустальная люстра,,Araña de cristal,Chandelier cristal,Kristallkronleuchter,Lampadario di cristallo,Lustre de cristal
+FURNITURE_DESC_SET_CRYSTAL_CHANDELIER,,,,,,,
+FURNITURE_NAME_SET_CRYSTAL_DRESSER2,Хрустальный комод Б,,Aparador de cristal B,Commode&nbsp;cristal B,Kristallkleiderschrank B,Comò di cristallo B,Cômoda de cristal B
+FURNITURE_DESC_SET_CRYSTAL_DRESSER2,,,,,,,
+FURNITURE_NAME_SET_CRYSTAL_SIDETABLE,Хрустальный столик,,Mesilla de cristal,Table d'appoint cristal,Kristallbeistelltisch,Tavolino di cristallo,Mesa lateral de cristal
+FURNITURE_DESC_SET_CRYSTAL_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_CRYSTAL_COUCH,Хрустальный диван,,Sofá de cristal,Canapé cristal,Kristallsofa,Divano di cristallo,Sofá de cristal
+FURNITURE_DESC_SET_CRYSTAL_COUCH,,,,,,,
+FURNITURE_NAME_SET_CRYSTAL_CHAIR,Хрустальный стул,,Silla de cristal,Chaise cristal,Kristallstuhl,Sedia di cristallo,Cadeira de cristal
+FURNITURE_DESC_SET_CRYSTAL_CHAIR,,,,,,,
+FURNITURE_NAME_SET_CRYSTAL_SHELF,Хрустальная полка,,Estante de cristal,Étagère cristal,Kristallregal,Mensola di cristallo,Estante de cristal
+FURNITURE_DESC_SET_CRYSTAL_SHELF,,,,,,,
+FURNITURE_NAME_SET_BLOCK_L,Блок «Л»,,Pieza L,Bloc «&nbsp;L&nbsp;»,„L“-Block,"Blocco ""L""","Bloco ""L"""
+FURNITURE_DESC_SET_BLOCK_L,,,,,,,
+FURNITURE_NAME_SET_BLOCK_T,Блок «Т»,,Pieza T,Bloc «&nbsp;T&nbsp;»,„T“-Block,"Blocco ""T""","Bloco ""T"""
+FURNITURE_DESC_SET_BLOCK_T,,,,,,,
+FURNITURE_NAME_SET_BLOCK_SQUARE,Блок «О»,,Pieza O,Bloc «&nbsp;O&nbsp;»,„O“-Block,"Blocco ""O""","Bloco ""O"""
+FURNITURE_DESC_SET_BLOCK_SQUARE,,,,,,,
+FURNITURE_NAME_SET_BLOCK_7,Перевернутый блок «L»,,Pieza L girada,Bloc «&nbsp;L&nbsp;» renversé,Gespiegelter „L“-Block,"Blocco ""L"" capovolto","Bloco ""L"" invertido"
+FURNITURE_DESC_SET_BLOCK_7,,,,,,,
+FURNITURE_NAME_SET_BLOCK_SQUARE2,"""О""Блок",,Pieza O,Bloc «&nbsp;O&nbsp;»,„O“-Block,"Blocco ""O""","Bloco ""O"""
+FURNITURE_DESC_SET_BLOCK_SQUARE2,,,,,,,
+FURNITURE_NAME_SET_BLOCK_LAYINGL,Укладка блока «L»,,Pieza L tumbada,Bloc «&nbsp;L&nbsp;» couché,Liegender „L“-Block,"Blocco ""L"" orizzontale","Bloco ""L"" deitado"
+FURNITURE_DESC_SET_BLOCK_LAYINGL,,,,,,,
+FURNITURE_NAME_SET_BLOCK_I,«Я» блокирую,,Pieza I,Bloc «&nbsp;I&nbsp;»,„I“-Block,"Blocco ""I""","Bloco ""I"""
+FURNITURE_DESC_SET_BLOCK_I,,,,,,,
+FURNITURE_NAME_SET_BLOCK_SIDET,Боковой блок «Т»,,Pieza T de lado,Bloc «&nbsp;T&nbsp;» de côté,Seitlicher „T“-Block,"Blocco ""T"" laterale","Bloco ""T"" de lado"
+FURNITURE_DESC_SET_BLOCK_SIDET,,,,,,,
+FURNITURE_NAME_SET_BLOCK_DOWNL,Укладка блока «L»,,Pieza L tumbada,Bloc «&nbsp;L&nbsp;» couché,Liegender „L“-Block,"Blocco ""L"" orizzontale","Bloco ""L"" deitado"
+FURNITURE_DESC_SET_BLOCK_DOWNL,,,,,,,
+FURNITURE_NAME_SET_BLOCK_SIDEI,Постановка блока «Я»,,Pieza I tumbada,Bloc «&nbsp;I&nbsp;» couché,Liegender „I“-Block,"Blocco ""I"" orizzontale","Bloco ""I"" deitado"
+FURNITURE_DESC_SET_BLOCK_SIDEI,,,,,,,
+FURNITURE_NAME_SET_MONSTER_SHELF,Монстр Полка,,Estante monstruoso,Étagère monstre,Monsterregal,Scaffale a forma di mostro,Estante monstruosa
+FURNITURE_DESC_SET_MONSTER_SHELF,,,,,,,
+FURNITURE_NAME_SET_MONSTER_DRESSER,Монстр Комод,,Aparador monstruoso,Commode monstre,Monsterkleiderschrank,Comò a forma di mostro,Cômoda monstruosa
+FURNITURE_DESC_SET_MONSTER_DRESSER,,,,,,,
+FURNITURE_NAME_SET_MONSTER_TABLE,Стол монстров А,,Mesa monstruosa A,Table monstre A,Monstertisch A,Tavolo a forma di mostro A,Mesa monstruosa A
+FURNITURE_DESC_SET_MONSTER_TABLE,,,,,,,
+FURNITURE_NAME_SET_MONSTER_SUSPENDEDSHELF,Подвесная полка Monster A,,Estante monstruoso colgado A,Étagère suspendue monstre A,Monsterhängeregal A,Mensola sospesa a forma di mostro A,Prateleira monstruosa A
+FURNITURE_DESC_SET_MONSTER_SUSPENDEDSHELF,,,,,,,
+FURNITURE_NAME_SET_MONSTER_SIDETABLE,Приставной столик монстра,,Mesilla monstruosa,Table d'appoint monstre,Monsterbeistelltisch,Tavolino a forma di mostro,Mesa lateral monstruosa
+FURNITURE_DESC_SET_MONSTER_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_MONSTER_SUSPENDEDSHELF2,Подвесная полка Monster B,,Estante monstruoso colgado B,Étagère suspendue monstre B,Monsterhängeregal B,Mensola sospesa a forma di mostro B,Prateleira monstruosa B
+FURNITURE_DESC_SET_MONSTER_SUSPENDEDSHELF2,,,,,,,
+FURNITURE_NAME_SET_MONSTER_CHAIR,Монстр Стул,,Silla monstruosa,Chaise monstre,Monsterstuhl,Sedia a forma di mostro,Estante monstruosa
+FURNITURE_DESC_SET_MONSTER_CHAIR,,,,,,,
+FURNITURE_NAME_SET_MONSTER_TABLE2,Стол монстров Б,,Mesa monstruosa B,Table monstre B,Monstertisch B,Tavolo a forma di mostro B,Mesa monstruosa B
+FURNITURE_DESC_SET_MONSTER_TABLE2,,,,,,,
+FURNITURE_NAME_SET_MONSTER_TV,Монстр ТВ,,Tele monstruosa,TV monstre,Monsterfernseher,TV a forma di mostro,TV monstruosa
+FURNITURE_DESC_SET_MONSTER_TV,,,,,,,
+FURNITURE_NAME_SET_MONSTER_LAMP,Монстр-лампа,,Lámpara monstruosa,Lampe monstre,Monsterlampe,Lampada a forma di mostro,Luminária monstruosa
+FURNITURE_DESC_SET_MONSTER_LAMP,,,,,,,
+FURNITURE_NAME_SET_ANGELIC_BED,Ангельская Кровать,,Cama angelical,Lit angélique,Engelbett,Letto angelico,Cama angelical
+FURNITURE_DESC_SET_ANGELIC_BED,,,,,,,
+FURNITURE_NAME_SET_ANGELIC_SHELF,Ангельская полка,,Estante angelical,Étagère angélique,Engelregal,Scaffale angelico,Estante angelical
+FURNITURE_DESC_SET_ANGELIC_SHELF,,,,,,,
+FURNITURE_NAME_SET_ANGELIC_CHAIR,Ангельский стул,,Silla angelical,Chaise angélique,Engelstuhl,Sedia angelica,Cadeira angelical
+FURNITURE_DESC_SET_ANGELIC_CHAIR,,,,,,,
+FURNITURE_NAME_SET_ANGELIC_DRESSER,Ангельский комод,,Aparador angelical,Commode angélique,Engelkleiderschrank,Comò angelico,Cômoda angelical
+FURNITURE_DESC_SET_ANGELIC_DRESSER,,,,,,,
+FURNITURE_NAME_SET_ANGELIC_SIDETABLE,Ангельский столик,,Mesilla angelical,Table d'appoint angélique,Engelbeistelltisch,Tavolino angelico,Mesa lateral angelical
+FURNITURE_DESC_SET_ANGELIC_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_ANGELIC_TOILET,Ангельский туалет,,Retrete angelical,Toilettes angéliques,Engeltoilette,WC angelico,Privada angelical
+FURNITURE_DESC_SET_ANGELIC_TOILET,,,,,,,
+FURNITURE_NAME_SET_ANGELIC_TABLE,Ангельский стол А,,Mesa angelical A,Table angélique A,Engeltisch A,Tavolo angelico A,Mesa angelical A
+FURNITURE_DESC_SET_ANGELIC_TABLE,,,,,,,
+FURNITURE_NAME_SET_ANGELIC_TABLE2,Ангельский стол Б,,Mesa angelical B,Table angélique B,Engeltisch B,Tavolo angelico B,Mesa angelical B
+FURNITURE_DESC_SET_ANGELIC_TABLE2,,,,,,,
+FURNITURE_NAME_SET_ANGELIC_SUSPENDEDSHELF,Подвесная ангельская полка,,Estante angelical colgado,Étagère suspendue angélique,Engelhängeregal,Mensola sospesa angelica,Prateleira angelical
+FURNITURE_DESC_SET_ANGELIC_SUSPENDEDSHELF,,,,,,,
+FURNITURE_NAME_SET_ANGELIC_LAMP,Ангельская лампа,,Lámpara angelical,Lampe angélique,Engellampe,Lampada angelica,Luminária angelical
+FURNITURE_DESC_SET_ANGELIC_LAMP,,,,,,,
+FURNITURE_NAME_SET_ATOMIC_STOVE,Атомная печь,,Hornillo atómico,Cuisinière atomique,Radioaktiver Ofen,Stufa atomica,Fogão atômico
+FURNITURE_DESC_SET_ATOMIC_STOVE,,,,,,,
+FURNITURE_NAME_SET_ATOMIC_FRIGE,Атомный холодильник,,Nevera atómica,Frigo atomique,Radioaktiver Kühlschrank,Frigo atomico,Geladeira atômica
+FURNITURE_DESC_SET_ATOMIC_FRIGE,,,,,,,
+FURNITURE_NAME_SET_ATOMIC_COUCH,Атомный диван,,Sofá atómico,Canapé atomique,Radioaktives Sofa,Divano atomico,Sofá atômico
+FURNITURE_DESC_SET_ATOMIC_COUCH,,,,,,,
+FURNITURE_NAME_SET_ATOMIC_TV,Атомное ТВ,,Tele atómica,TV atomique,Radioaktiver Fernseher,TV atomica,TV atômica
+FURNITURE_DESC_SET_ATOMIC_TV,,,,,,,
+FURNITURE_NAME_SET_ATOMIC_TABLE,Атомная таблица,,Mesa atómica,Table atomique,Radioaktiver Tisch,Tavolo atomico,Mesa atômica
+FURNITURE_DESC_SET_ATOMIC_TABLE,,,,,,,
+FURNITURE_NAME_SET_ATOMIC_SIDETABLE,Атомный столик,,Mesilla atómica,Table d'appoint atomique,Radioaktiver Beistelltisch,Tavolino atomico,Mesa lateral atômica
+FURNITURE_DESC_SET_ATOMIC_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_ATOMIC_RADIO,Атомное радио,,Radio atómica,Radio atomique,Radioaktives Radio,Radio atomica,Rádio atômico
+FURNITURE_DESC_SET_ATOMIC_RADIO,,,,,,,
+FURNITURE_NAME_SET_ATOMIC_LAMP,Атомная лампа,,Lámpara atómica,Lampe atomique,Radioaktive Lampe,Lampada atomica,Luminária atômica
+FURNITURE_DESC_SET_ATOMIC_LAMP,,,,,,,
+FURNITURE_NAME_SET_ATOMIC_SHELF,Атомный шельф,,Estante atómico,Étagère atomique,Radioaktives Regal,Scaffale atomico,Estante atômica
+FURNITURE_DESC_SET_ATOMIC_SHELF,,,,,,,
+FURNITURE_NAME_SET_ATOMIC_CHAIR,Атомный стул,,Silla atómica,Chaise atomique,Radioaktiver Stuhl,Sedia atomica,Cadeira atômica
+FURNITURE_DESC_SET_ATOMIC_CHAIR,,,,,,,
+FURNITURE_NAME_SET_ELEGANT_TABLE,Элегантный стол,,Mesa elegante,Table élégante,Stilvoller Tisch,Tavolo elegante,Mesa elegante
+FURNITURE_DESC_SET_ELEGANT_TABLE,,,,,,,
+FURNITURE_NAME_SET_ELEGANT_BED,Элегантная Кровать,,Cama elegante,Lit élégant,Stilvolles Bett,Letto elegante,Cama elegante
+FURNITURE_DESC_SET_ELEGANT_BED,,,,,,,
+FURNITURE_NAME_SET_ELEGANT_DESK,Элегантный письменный стол,,Escritorio elegante,Bureau élégant,Stilvoller Schreibtisch,Scrivania elegante,Escrivaninha elegante
+FURNITURE_DESC_SET_ELEGANT_DESK,,,,,,,
+FURNITURE_NAME_SET_ELEGANT_DRESSER,Элегантный комод А,,Aparador elegante A,Commode élégante A,Stilvoller Kleiderschrank A,Comò elegante A,Cômoda elegante A
+FURNITURE_DESC_SET_ELEGANT_DRESSER,,,,,,,
+FURNITURE_NAME_SET_ELEGANT_DRESSER2,Элегантный комод Б,,Aparador elegante B,Commode élégante B,Stilvoller Kleiderschrank B,Comò elegante B,Cômoda elegante B
+FURNITURE_DESC_SET_ELEGANT_DRESSER2,,,,,,,
+FURNITURE_NAME_SET_ELEGANT_SIDETABLE,Элегантный столик А,,Mesilla elegante A,Table d'appoint élégante A,Stilvoller Beistelltisch A,Tavolino elegante A,Mesa lateral elegante A
+FURNITURE_DESC_SET_ELEGANT_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_ELEGANT_SIDETABLE2,Элегантный столик B,,Mesilla elegante B,Table d'appoint élégante B,Stilvoller Beistelltisch B,Tavolino elegante B,Mesa lateral elegante B
+FURNITURE_DESC_SET_ELEGANT_SIDETABLE2,,,,,,,
+FURNITURE_NAME_SET_ELEGANT_CHAIR,Элегантный стул,,Silla elegante,Chaise élégante,Stilvoller Stuhl,Sedia elegante,Cadeira elegante
+FURNITURE_DESC_SET_ELEGANT_CHAIR,,,,,,,
+FURNITURE_NAME_SET_ELEGANT_SHELF,Элегантная полка,,Estante elegante,Étagère élégante,Stilvolles Regal,Mensola elegante,Estante elegante
+FURNITURE_DESC_SET_ELEGANT_SHELF,,,,,,,
+FURNITURE_NAME_SET_ELEGANT_LAMP,Элегантная лампа,,Lámpara elegante,Lampe élégante,Stilvolle Lampe,Lampada elegante,Luminária elegante
+FURNITURE_DESC_SET_ELEGANT_LAMP,,,,,,,
+FURNITURE_NAME_SET_MODERN_BED,Современная Кровать,,Cama moderna,Lit moderne,Modernes Bett,Letto moderno,Cama moderna
+FURNITURE_DESC_SET_MODERN_BED,,,,,,,
+FURNITURE_NAME_SET_MODERN_FRIGE,Современный Холодильник,,Nevera moderna,Frigo moderne,Moderner Kühlschrank,Frigo moderno,Geladeira moderna
+FURNITURE_DESC_SET_MODERN_FRIGE,,,,,,,
+FURNITURE_NAME_SET_MODERN_STOVE,Современная печь,,Hornillo moderno,Cuisinière moderne,Moderner Ofen,Stufa moderna,Fogão moderno
+FURNITURE_DESC_SET_MODERN_STOVE,,,,,,,
+FURNITURE_NAME_SET_MODERN_COUCH,Современный Диван,,Sofá moderno,Canapé moderne,Modernes Sofa,Divano moderno,Sofá moderno
+FURNITURE_DESC_SET_MODERN_COUCH,,,,,,,
+FURNITURE_NAME_SET_MODERN_CHAIR,Современный стул,,Silla moderna,Chaise moderne,Moderner Stuhl,Sedia moderna,Cadeira moderna
+FURNITURE_DESC_SET_MODERN_CHAIR,,,,,,,
+FURNITURE_NAME_SET_MODERN_DRESSER,Современный комод,,Aparador moderno,Commode moderne,Moderner Kleiderschrank,Comò moderno,Cômoda moderna
+FURNITURE_DESC_SET_MODERN_DRESSER,,,,,,,
+FURNITURE_NAME_SET_MODERN_SIDETABLE,Современный приставной столик,,Mesilla moderna,Table d'appoint moderne,Moderner Beistelltisch,Tavolino moderno,Mesa lateral moderna
+FURNITURE_DESC_SET_MODERN_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_MODERN_TABLE,Современный стол,,Mesa moderna,Table moderne,Moderner Tisch,Tavolo moderno,Mesa moderna
+FURNITURE_DESC_SET_MODERN_TABLE,,,,,,,
+FURNITURE_NAME_SET_MODERN_DESK,Современный письменный стол,,Escritorio moderno,Bureau moderne,Moderner Schreibtisch,Scrivania moderna,Escrivaninha moderna
+FURNITURE_DESC_SET_MODERN_DESK,,,,,,,
+FURNITURE_NAME_SET_MODERN_TV,Современное телевидение,,Tele moderna,TV moderne,Moderner Fernseher,TV moderna,TV moderna
+FURNITURE_DESC_SET_MODERN_TV,,,,,,,
+FURNITURE_NAME_SET_80S_COUCH,80-е Диван,,Sofá ochentero,Canapé années&nbsp;80,80er-Sofa,Divano anni '80,Sofá anos 80
+FURNITURE_DESC_SET_80S_COUCH,,,,,,,
+FURNITURE_NAME_SET_80S_BED,Кровать 80-х годов,,Cama ochentera,Lit années&nbsp;80,80er-Bett,Letto anni '80,Cama anos 80
+FURNITURE_DESC_SET_80S_BED,,,,,,,
+FURNITURE_NAME_SET_80S_DRESSER,Комод 80-х,,Aparador ochentero,Commode années&nbsp;80,80er-Kleiderschrank,Comò anni '80,Cômoda anos 80
+FURNITURE_DESC_SET_80S_DRESSER,,,,,,,
+FURNITURE_NAME_SET_80S_CHAIR,Стул 80-х годов,,Silla ochentera,Chaise années&nbsp;80,80er-Stuhl,Sedia anni '80,Cadeira anos 80
+FURNITURE_DESC_SET_80S_CHAIR,,,,,,,
+FURNITURE_NAME_SET_80S_STOVE,Печь 80-х годов,,Hornillo ochentero,Cuisinière années&nbsp;80,80er-Ofen,Stufa anni '80,Fogão anos 80
+FURNITURE_DESC_SET_80S_STOVE,,,,,,,
+FURNITURE_NAME_SET_80S_FRIGE,Холодильник 80-х годов,,Nevera ochentera,Frigo années&nbsp;80,80er-Kühlschrank,Frigo anni '80,Geladeira anos 80
+FURNITURE_DESC_SET_80S_FRIGE,,,,,,,
+FURNITURE_NAME_SET_80S_SHELF,Полка 80-х годов,,Estante ochentero,Étagère années&nbsp;80,80er-Regal,Scaffale anni '80,Prateleira anos 80
+FURNITURE_DESC_SET_80S_SHELF,,,,,,,
+FURNITURE_NAME_SET_80S_TV,ТВ 80-х,,Tele ochentera,TV années&nbsp;80,80er-Fernseher,TV anni '80,TV anos 80
+FURNITURE_DESC_SET_80S_TV,,,,,,,
+FURNITURE_NAME_SET_80S_TABLE,Стол 80-х,,Mesa ochentera,Table années&nbsp;80,80er-Tisch,Tavolo anni '80,Mesa anos 80
+FURNITURE_DESC_SET_80S_TABLE,,,,,,,
+FURNITURE_NAME_SET_80S_SIDETABLE,Приставной столик 80-х годов,,Mesilla ochentera,Table d'appoint années&nbsp;80,80er-Beistelltisch,Tavolino anni '80,Mesa lateral anos 80
+FURNITURE_DESC_SET_80S_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_RETRO_BED,Кровать в стиле арт-деко,,Cama art déco,Lit art déco,Art Deco Bett,Letto Art Déco,Cama art déco
+FURNITURE_DESC_SET_RETRO_BED,,,,,,,
+FURNITURE_NAME_SET_RETRO_STOVE,Плита в стиле арт-деко,,Hornillo art déco,Cuisinière art déco,Art Deco Ofen,Stufa Art Déco,Fogão art déco
+FURNITURE_DESC_SET_RETRO_STOVE,,,,,,,
+FURNITURE_NAME_SET_RETRO_FRIGE,Холодильник в стиле арт-деко,,Nevera art déco,Frigo art déco,Art Deco Kühlschrank,Frigo Art Déco,Geladeira art déco
+FURNITURE_DESC_SET_RETRO_FRIGE,,,,,,,
+FURNITURE_NAME_SET_RETRO_COUCH,Диван в стиле арт-деко,,Sofá art déco,Canapé art déco,Art Deco Sofa,Divano Art Déco,Sofá art déco
+FURNITURE_DESC_SET_RETRO_COUCH,,,,,,,
+FURNITURE_NAME_SET_RETRO_CHAIR,Стул Арт Деко,,Silla art déco,Chaise art déco,Art Deco Stuhl,Sedia Art Déco,Cadeira art déco
+FURNITURE_DESC_SET_RETRO_CHAIR,,,,,,,
+FURNITURE_NAME_SET_RETRO_DRESSER,Комод в стиле арт-деко,,Aparador art déco,Commode art déco,Art Deco Kleiderschrank,Comò Art Déco,Cômoda art déco
+FURNITURE_DESC_SET_RETRO_DRESSER,,,,,,,
+FURNITURE_NAME_SET_RETRO_DRESSER2,Туалетный столик в стиле ар-деко,,Tocador art déco,Coiffeuse art déco,Art Deco Frisiertisch,Toeletta Art Déco,Penteadeira art déco
+FURNITURE_DESC_SET_RETRO_DRESSER2,,,,,,,
+FURNITURE_NAME_SET_RETRO_DRESSER3,Ар-деко Шкаф,,Cómoda art déco,Armoire art déco,Art Deco Vertiko,Armadio Art Déco,Guarda-roupa art déco
+FURNITURE_DESC_SET_RETRO_DRESSER3,,,,,,,
+FURNITURE_NAME_SET_RETRO_SIDETABLE,Приставной столик в стиле арт-деко,,Mesilla art déco,Table d'appoint art déco,Art Deco Beistelltisch,Tavolino Art Déco,Mesa lateral art déco
+FURNITURE_DESC_SET_RETRO_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_RETRO_LAMP,Лампа Арт Деко,,Lámpara art déco,Lampe art déco,Art Deco Lampe,Lampada Art Déco,Luminária art déco
+FURNITURE_DESC_SET_RETRO_LAMP,,,,,,,
+FURNITURE_NAME_SET_90S_BED,Кровать 90-х годов,,Cama noventera,Lit années&nbsp;90,90er-Bett,Letto anni '90,Cama anos 90
+FURNITURE_DESC_SET_90S_BED,,,,,,,
+FURNITURE_NAME_SET_90S_CABINET,Подвесной кабинет 90-х годов,,Vitrina noventera colgada,Placard suspendu années&nbsp;90,90er-Hängeschrank,Armadietto sospeso anni '90,Armário suspenso anos 90
+FURNITURE_DESC_SET_90S_CABINET,,,,,,,
+FURNITURE_NAME_SET_90S_CABINET2,Кабинет 90-х,,Vitrina noventera,Placard années&nbsp;90,90er-Schrank,Armadietto anni '90,Armário anos 90
+FURNITURE_DESC_SET_90S_CABINET2,,,,,,,
+FURNITURE_NAME_SET_90S_SINK,Раковина 90-х годов,,Lavabo noventero,Évier années&nbsp;90,90er-Waschbecken,Lavandino anni '90,Pia anos 90
+FURNITURE_DESC_SET_90S_SINK,,,,,,,
+FURNITURE_NAME_SET_90S_STOVE,Печь 90-х годов,,Hornillo noventero,Cuisinière années&nbsp;90,90er-Ofen,Stufa anni '90,Fogão anos 90
+FURNITURE_DESC_SET_90S_STOVE,,,,,,,
+FURNITURE_NAME_SET_90S_FRIGE,Холодильник 90-х годов,,Nevera noventera,Frigo années&nbsp;90,90er-Kühlschrank,Frigorifero anni '90,Geladeira anos 90
+FURNITURE_DESC_SET_90S_FRIGE,,,,,,,
+FURNITURE_NAME_SET_90S_SHELF,Полка 90-х годов,,Estante noventero,Étagère années&nbsp;90,90er-Regal,Scaffale anni '90,Estante anos 90
+FURNITURE_DESC_SET_90S_SHELF,,,,,,,
+FURNITURE_NAME_SET_90S_SUSPENDEDSHELF,Подвесная полка 90-х годов,,Estante noventero colgado,Étagère suspendue années&nbsp;90,90er-Hängeregal,Mensola sospesa anni '90,Prateleira anos 90
+FURNITURE_DESC_SET_90S_SUSPENDEDSHELF,,,,,,,
+FURNITURE_NAME_SET_90S_CHAIR,Стул 90-х годов,,Silla noventera,Chaise années&nbsp;90,90er-Stuhl,Sedia anni '90,Cadeira anos 90
+FURNITURE_DESC_SET_90S_CHAIR,,,,,,,
+FURNITURE_NAME_SET_90S_STOOL,Табурет 90-х годов,,Taburete noventero,Tabouret années&nbsp;90,90er-Hocker,Sgabello anni '90,Banqueta anos 90
+FURNITURE_DESC_SET_90S_STOOL,,,,,,,
+FURNITURE_NAME_SET_MUSHROOM_TABLE1,Грибной стол А,,Mesa fúngica A,Table champignon A,Pilztisch A,Tavolo a forma di fungo A,Mesa cogumelo A
+FURNITURE_DESC_SET_MUSHROOM_TABLE1,,,,,,,
+FURNITURE_NAME_SET_MUSHROOM_STOOL,Грибной табурет А,,Taburete fúngico A,Tabouret champignon A,Pilzhocker A,Sgabello a forma di fungo A,Banqueta cogumelo A
+FURNITURE_DESC_SET_MUSHROOM_STOOL,,,,,,,
+FURNITURE_NAME_SET_MUSHROOM_STOOL2,Грибной табурет Б,,Taburete fúngico B,Tabouret champignon B,Pilzhocker B,Sgabello a forma di fungo B,Banqueta cogumelo B
+FURNITURE_DESC_SET_MUSHROOM_STOOL2,,,,,,,
+FURNITURE_NAME_SET_MUSHROOM_CHAIR,Грибной стул,,Silla fúngica,Chaise champignon,Pilzstuhl,Sedia a forma di fungo,Cadeira cogumelo
+FURNITURE_DESC_SET_MUSHROOM_CHAIR,,,,,,,
+FURNITURE_NAME_SET_MUSHROOM_TABLE,Грибной стол Б,,Mesa fúngica B,Table champignon B,Pilztisch B,Tavolo a forma di fungo B,Mesa cogumelo B
+FURNITURE_DESC_SET_MUSHROOM_TABLE,,,,,,,
+FURNITURE_NAME_SET_MUSHROOM_TOILET,Грибной туалет,,Retrete fúngico,Toilettes champignon,Pilztoilette,WC a forma di fungo,Privada cogumelo
+FURNITURE_DESC_SET_MUSHROOM_TOILET,,,,,,,
+FURNITURE_NAME_SET_MUSHROOM_SHELF,Грибная Полка,,Estante fúngico,Étagère champignon,Pilzregal,Mensola a forma di fungo,Estante cogumelo
+FURNITURE_DESC_SET_MUSHROOM_SHELF,,,,,,,
+FURNITURE_NAME_SET_MUSHROOM_SUSPENDEDSHELF,Подвесная полка-гриб А,,Estante fúngico colgado A,Étagère suspendue champignon A,Pilzhängeregal A,Mensola sospesa a forma di fungo A,Prateleira cogumelo A
+FURNITURE_DESC_SET_MUSHROOM_SUSPENDEDSHELF,,,,,,,
+FURNITURE_NAME_SET_MUSHROOM_SUSPENDEDSHELF2,Подвесная полка-гриб B,,Estante fúngico colgado B,Étagère suspendue champignon B,Pilzhängeregal B,Mensola sospesa a forma di fungo B,Prateleira cogumelo B
+FURNITURE_DESC_SET_MUSHROOM_SUSPENDEDSHELF2,,,,,,,
+FURNITURE_NAME_SET_MUSHROOM_STOOL3,Грибной табурет C,,Taburete fúngico C,Tabouret champignon C,Pilzhocker C,Sgabello a forma di fungo C,Banqueta cogumelo C
+FURNITURE_DESC_SET_MUSHROOM_STOOL3,,,,,,,
+FURNITURE_NAME_SET_RUSTIC_DRESSER,Деревенский Комод,,Aparador rústico,Commode rustique,Rustikaler Kleiderschrank,Comò rustico,Cômoda rústica
+FURNITURE_DESC_SET_RUSTIC_DRESSER,,,,,,,
+FURNITURE_NAME_SET_RUSTIC_SHELF,Подвесная полка в деревенском стиле А,,Estante rústico colgado A,Étagère suspendue&nbsp;rustique A,Rustikales Hängeregal A,Mensola rustica sospesa A,Prateleira rústica A
+FURNITURE_DESC_SET_RUSTIC_SHELF,,,,,,,
+FURNITURE_NAME_SET_RUSTIC_SUSPENDEDSHELF,Подвесная полка в деревенском стиле B,,Estante rústico colgado B,Étagère suspendue rustique B,Rustikales Hängeregal B,Mensola rustica sospesa B,Prateleira rústica B
+FURNITURE_DESC_SET_RUSTIC_SUSPENDEDSHELF,,,,,,,
+FURNITURE_NAME_SET_RUSTIC_SIDETABLE,Приставной столик в деревенском стиле,,Mesilla rústica,Table d'appoint rustique,Rustikaler Beistelltisch,Tavolino rustico,Mesa lateral rústica
+FURNITURE_DESC_SET_RUSTIC_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_RUSTIC_SUSPENDEDSHELF2,Подвесная полка для специй в деревенском стиле,,Especiero rústico colgado,Étagère à épices suspendue rustique,Rustikales Gewürzregal,Portaspezie rustico sospeso,Suporte de temperos rústico
+FURNITURE_DESC_SET_RUSTIC_SUSPENDEDSHELF2,,,,,,,
+FURNITURE_NAME_SET_RUSTIC_CHAIR,Деревенский стул,,Silla rústica,Chaise rustique,Rustikaler Stuhl,Sedia rustica,Cadeira rústica
+FURNITURE_DESC_SET_RUSTIC_CHAIR,,,,,,,
+FURNITURE_NAME_SET_RUSTIC_DESK,Деревенский письменный стол,,Escritorio rústico,Bureau rustique,Rustikaler Schreibtisch,Scrivania rustica,Escrivaninha rústica
+FURNITURE_DESC_SET_RUSTIC_DESK,,,,,,,
+FURNITURE_NAME_SET_RUSTIC_BENCH,Деревенская скамейка,,Banco rústico,Banc rustique,Rustikale Bank,Panca rustica,Banco rústico
+FURNITURE_DESC_SET_RUSTIC_BENCH,,,,,,,
+FURNITURE_NAME_SET_RUSTIC_TABLE,Деревенский стол,,Mesa rústica,Table rustique,Rustikaler Tisch,Tavolo rustico,Mesa rústica
+FURNITURE_DESC_SET_RUSTIC_TABLE,,,,,,,
+FURNITURE_NAME_SET_RUSTIC_STOOL,Деревенский табурет,,Taburete rústico,Tabouret rustique,Rustikaler Hocker,Sgabello rustico,Banqueta rústica
+FURNITURE_DESC_SET_RUSTIC_STOOL,,,,,,,
+FURNITURE_NAME_SET_CUTE_DRESSER,Милый комод,,Aparador cuqui,Commode mimi,Süßer Kleiderschrank,Comò carino,Cômoda fofinha
+FURNITURE_DESC_SET_CUTE_DRESSER,,,,,,,
+FURNITURE_NAME_SET_CUTE_SIDETABLE,Симпатичный столик А,,Mesilla cuqui A,Table d'appoint mimi A,Süßer Beistelltisch A,Tavolino carino A,Mesa lateral fofinha A
+FURNITURE_DESC_SET_CUTE_SIDETABLE,,,,,,,
+FURNITURE_NAME_SET_CUTE_SHELF,Симпатичная полка,,Estante cuqui,Étagère mimi,Süßes Regal,Scaffale carino,Estante fofinha
+FURNITURE_DESC_SET_CUTE_SHELF,,,,,,,
+FURNITURE_NAME_SET_CUTE_DRESSER2,Милый шкаф,,Cómoda cuqui,Armoire mimi,Süßes Vertiko,Armadio carino,Guarda-roupa fofinho
+FURNITURE_DESC_SET_CUTE_DRESSER2,,,,,,,
+FURNITURE_NAME_SET_CUTE_COUCH,милый диван,,Sofá cuqui,Canapé mimi,Süßes Sofa,Divano carino,Sofá fofinho
+FURNITURE_DESC_SET_CUTE_COUCH,,,,,,,
+FURNITURE_NAME_SET_CUTE_BED,Милая кровать,,Cama cuqui,Lit mimi,Süßes Bett,Letto carino,Cama fofinha
+FURNITURE_DESC_SET_CUTE_BED,,,,,,,
+FURNITURE_NAME_SET_CUTE_CHAIR,Милый стул,,Silla cuqui,Chaise mimi,Süßer Stuhl,Sedia carina,Cadeira fofinha
+FURNITURE_DESC_SET_CUTE_CHAIR,,,,,,,
+FURNITURE_NAME_SET_CUTE_STOOL,Милый табурет,,Taburete cuqui,Tabouret mimi,Süßer Hocker,Sgabello carino,Banqueta fofinha
+FURNITURE_DESC_SET_CUTE_STOOL,,,,,,,
+FURNITURE_NAME_SET_CUTE_TABLE2,Симпатичный журнальный столик,,Mesa de centro cuqui,Table d'appoint mimi,Süßer Kaffeetisch,Tavolino da caffè carino,Mesa de centro fofinha
+FURNITURE_DESC_SET_CUTE_TABLE2,,,,,,,
+FURNITURE_NAME_SET_CUTE_SIDETABLE2,Симпатичный столик B,,Mesilla cuqui B,Table d'appoint mimi B,Süßer Beistelltisch B,Tavolino carino B,Mesa lateral fofinha B
+FURNITURE_DESC_SET_CUTE_SIDETABLE2,,,,,,,
+FURNITURE_NAME_OBJECT_WOOD_TABLE,Деревянный стол,,Mesa de madera,Table en bois,Holztisch,Tavolo di legno,Mesa de madeira
+FURNITURE_DESC_OBJECT_WOOD_TABLE,,,,,,,
+FURNITURE_NAME_OBJECT_STATUE_LION,Статуя Льва-Хранителя,,Estatua de león guardián,Statue de lion gardien,Löwenwächterstatue,Statua del Leone Guardiano,Estátua do leão guardião
+FURNITURE_DESC_OBJECT_STATUE_LION,,,,,,,
+FURNITURE_NAME_OBJECT_STATUE_JESUS,Статуя Христа-Искупителя,,Estatua del Cristo Redentor,Statue du Christ Rédempteur,Jesusstatue,Statua del Cristo Redentore,Estátua do Cristo Redentor
+FURNITURE_DESC_OBJECT_STATUE_JESUS,,,,,,,
+FURNITURE_NAME_OBJECT_STATUE_DEVIL,Статуя Бафомета,,Estatua de Bafomet,Statue de Baphomet,Statue von Baphomet,Statua di Bafometto,Estátua de Baphomet
+FURNITURE_DESC_OBJECT_STATUE_DEVIL,,,,,,,
+FURNITURE_NAME_OBJECT_STATUE_MERMAID,Статуя Русалочки,,Estatua de la Sirenita,Statue de la Petite Sirène,Statue der kleinen Meerjungfrau,Statua della Sirenetta,Estátua da pequena sereia
+FURNITURE_DESC_OBJECT_STATUE_MERMAID,,,,,,,
+FURNITURE_NAME_OBJECT_STATUE_LOTUS,Статуя Господа Шивы,,Estatua de Shiva,Statue Adiyogi Shiva,Shivastatue,Statua di Shiva,Estátua de Shiva
+FURNITURE_DESC_OBJECT_STATUE_LOTUS,,,,,,,
+FURNITURE_NAME_OBJECT_STATUE_BUDDAH,Статуя смеющегося Будды,,Estatua de Buda sonriente,Statue de Bouddha rieur,Statue des lachenden Buddha,Statua del Buddha Sorridente,Estátua do Buda risonho
+FURNITURE_DESC_OBJECT_STATUE_BUDDAH,,,,,,,
+FURNITURE_NAME_OBJECT_STATUE_LUCKYCAT,Статуя Манэки Нэко,,Estatua de gato de la suerte,Statue de Maneki Neko,Maneki Neko,Statua di Maneki Neko,Estátua de Maneki Neko
+FURNITURE_DESC_OBJECT_STATUE_LUCKYCAT,,,,,,,
+FURNITURE_NAME_OBJECT_STATUE_BAST,Статуя Бастет,,Estatua de Bastet,Statue de Bastet,Bastetstatue,Statua di Bastet,Estátua de Bastet
+FURNITURE_DESC_OBJECT_STATUE_BAST,,,,,,,
+FURNITURE_NAME_OBJECT_STATUE_DARUMA,Статуя Дарумы,,Estatua de Daruma,Statue de Daruma,Darumastatue,Statua di Daruma,Estátua de Daruma
+FURNITURE_DESC_OBJECT_STATUE_DARUMA,,,,,,,
+FURNITURE_NAME_OBJECT_STATUE_EASTERISLANDSMALL,Маленькая голова острова Пасхи,,Cabeza pequeña de la isla de Pascua,Petite tête de l'île de Pâques,Kleine Moai-Statue,Testa piccola dell'Isola di Pasqua,Cabeça pequena da Ilha de Páscoa
+FURNITURE_DESC_OBJECT_STATUE_EASTERISLANDSMALL,,,,,,,
+FURNITURE_NAME_OBJECT_STATUE_EASTERISLANDMEDIUM,Средняя голова острова Пасхи,,Cabeza mediana de la isla de Pascua,Tête de l'île de Pâques,Mittelgroße Moai-Statue,Testa media dell'Isola di Pasqua,Cabeça média da Ilha de Páscoa
+FURNITURE_DESC_OBJECT_STATUE_EASTERISLANDMEDIUM,,,,,,,
+FURNITURE_NAME_OBJECT_STATUE_EASTERISLANDLARGE,Большая голова острова Пасхи,,Cabeza grande de la isla de Pascua,Grande tête de l'île de Pâques,Große Moai-Statue,Testa grande dell'Isola di Pasqua,Cabeça grande da Ilha de Páscoa
+FURNITURE_DESC_OBJECT_STATUE_EASTERISLANDLARGE,,,,,,,
+FURNITURE_NAME_OBJECT_VASE_LARGE,Большая Пустая Ваза,,Jarrón grande vacío,Grande vase vide,Große leere Vase,Grosso vaso vuoto,Vaso grande vazio
+FURNITURE_DESC_OBJECT_VASE_LARGE,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_TENTACLE,Щупальце в горшке,,Tiesto con tentáculo,Tentacule en pot,Eingetopftes Tentakel,Tentacolo in vaso,Tentáculo no vaso
+FURNITURE_DESC_OBJECT_PLANT_TENTACLE,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_MONSTERA,Монстера в горшке,,Tiesto con monstera,Monstera en pot,Eingetopfte Monstera,Monstera in vaso,Costela de Adão no vaso
+FURNITURE_DESC_OBJECT_PLANT_MONSTERA,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_SPIKEY,Горшечная Драцена,,Tiesto con dracaena,Dracaena en pot,Eingetopfte Dracaena,Dracena in vaso,Dracaena no vaso
+FURNITURE_DESC_OBJECT_PLANT_SPIKEY,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_BUSH,Самшит в горшке,,Tiesto con boj,Buis en pot,Eingetopfter Buchsbaum,Bosso in vaso,Buxo no vaso
+FURNITURE_DESC_OBJECT_PLANT_BUSH,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_POTATO,Картошка в горшке,,Tiesto con patatas,Patate en pot,Eingetopfte Kartoffel,Patata in vaso,Batata no vaso
+FURNITURE_DESC_OBJECT_PLANT_POTATO,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_FLOWERS,Ваза с Ромашками,,Florero con margaritas,Vase de marguerites,Vase mit Gänseblümchen,Vaso di margherite,Vaso de margaridas
+FURNITURE_DESC_OBJECT_PLANT_FLOWERS,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_ORCHID,Горшечная Орхидея,,Tiesto con orquídeas,Orchidée en pot,Eingetopfte Orchidee,Orchidea in vaso,Orquídea no vaso
+FURNITURE_DESC_OBJECT_PLANT_ORCHID,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_DAISY,Дейзи в горшке,,Tiesto con margaritas,Marguerite en pot,Eingetopftes Gänseblümchen,Margherita in vaso,Margarida no vaso
+FURNITURE_DESC_OBJECT_PLANT_DAISY,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_RAFFLESIA,Горшечная Раффлезия,,Tiesto con rafflesia,Rafflesia en pot,Eingetopfte Raflesien,Rafflesia in vaso,Rafflesia no vaso
+FURNITURE_DESC_OBJECT_PLANT_RAFFLESIA,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_PIRANHASPLANT,Горшечное растение-пиранья,,Tiesto con planta piraña,Plante Piranha en pot,Eingetopfte Piranha-Pflanze,Pianta piranha in vaso,Planta carnívora no vaso
+FURNITURE_DESC_OBJECT_PLANT_PIRANHASPLANT,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_CACTUS,Кактуар в горшке,,Tiesto con cactilio,Pampa en pot,Eingetopfter Kaktuar,Cactuar in vaso,Cactuar no vaso
+FURNITURE_DESC_OBJECT_PLANT_CACTUS,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_BLOWFISH,Аквариум иглобрюхих,,Pecera con pez globo,Aquarium de poisson-globe,Aquarium (Kugelfisch),Acquario di pesci palla,Aquário de baiacus
+FURNITURE_DESC_OBJECT_FISHTANK_BLOWFISH,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_CATFISH,Аквариум для сомов,,Pecera con pez gato,Aquarium de poisson-chat,Aquarium (Wels),Acquario di pesci gatto,Aquário de bagres
+FURNITURE_DESC_OBJECT_FISHTANK_CATFISH,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_BOOZE,Выпивка Аквариум,,Pecera con bebercio,Aquarium de beuverie,Aquarium (Flasche),Acquario di pesci alcool,Aquário de bebida
+FURNITURE_DESC_OBJECT_FISHTANK_BOOZE,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_TADPOLES,Головастик Аквариум,,Pecera con renacuajo,Aquarium de têtard,Aquarium (Kaulquappe),Acquario di girini,Aquário de girinos
+FURNITURE_DESC_OBJECT_FISHTANK_TADPOLES,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_MERMAID,Фиджийский аквариум с русалками,,Pecera con la sirena de Fiyi,Aquarium de sirène des Fidji,Aquarium (Fidschi-Meerjungfrau),Acquario di sirene delle Fiji,Aquário de sereias de Fiji
+FURNITURE_DESC_OBJECT_FISHTANK_MERMAID,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_WHALE,Аквариум с детенышем кита,,Pecera con cría de ballena,Aquarium de baleineau,Aquarium (Babywal),Acquario di baby balene,Aquário de baleias bebês
+FURNITURE_DESC_OBJECT_FISHTANK_WHALE,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_SMALL_TADPOLES,Маленький аквариум с головастиками,,Pecera con renacuajo pequeño,Petit aquarium de têtard,Aquarium (Kleine Kaulquappe),Acquario piccolo di girini,Aquário pequeno de girinos
+FURNITURE_DESC_OBJECT_FISHTANK_SMALL_TADPOLES,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_SMALL_POOP,Маленький аквариум с какашками,,Pecera con caca pequeña,Petit aquarium de caca,Aquarium (Kleines Häufchen),Acquario piccolo di cacche,Aquário pequeno de cocôs
+FURNITURE_DESC_OBJECT_FISHTANK_SMALL_POOP,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_SMALL_SKULL,Маленький аквариум с черепами,,Pecera con cráneo pequeño,Petit aquarium de crâne,Aquarium (Kleiner Schädel),Acquario piccolo di teschi,Aquário pequeno de crânios
+FURNITURE_DESC_OBJECT_FISHTANK_SMALL_SKULL,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_SMALL_FISH,Маленький аквариум с золотыми рыбками,,Pecera con pez dorado pequeño,Petit aquarium de poisson rouge,Aquarium (Kleiner Goldfisch),Acquario piccolo di pesci rossi,Aquário pequeno de peixinhos dourados
+FURNITURE_DESC_OBJECT_FISHTANK_SMALL_FISH,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_SMALL_LILFISH,Маленький аквариум с гольянами,,Pecera con foxino pequeño,Petit aquarium de vairon,Aquarium (Kleine Elritze),Acquario piccolo di esche,Aquário pequeno de tanictis
+FURNITURE_DESC_OBJECT_FISHTANK_SMALL_LILFISH,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_SMALL_LILFISHES,Маленький семейный аквариум Минноу,,Pecera con familia de foxinos,Petit aquarium famille de vairons,Aquarium (Kleine Elritzenfamilie),Acquario piccolo di famiglie di esche,Aquário pequeno de família de tanictis
+FURNITURE_DESC_OBJECT_FISHTANK_SMALL_LILFISHES,,,,,,,
+FURNITURE_NAME_OBJECT_RADIO_30S,Радио 30-х годов,,Radio de los años 30 ,Radio des années&nbsp;30,30er-Radio ,Radio anni '30,Rádio dos anos 30
+FURNITURE_DESC_OBJECT_RADIO_30S,,,,,,,
+FURNITURE_NAME_OBJECT_RADIO_40S,Радио 40-х годов,,Radio de los años 40,Radio des années&nbsp;40,40er-Radio,Radio anni '40,Rádio dos anos 40
+FURNITURE_DESC_OBJECT_RADIO_40S,,,,,,,
+FURNITURE_NAME_OBJECT_RADIO_50S,Радио 50-х годов,,Radio de los años 50,Radio des années&nbsp;50,50er-Radio,Radio anni '50,Rádio dos anos 50
+FURNITURE_DESC_OBJECT_RADIO_50S,,,,,,,
+FURNITURE_NAME_OBJECT_RADIO_80S,Радио 80-х,,Radio ochentera,Radio des années&nbsp;80,80er-Radio,Radio anni '80,Rádio dos anos 80
+FURNITURE_DESC_OBJECT_RADIO_80S,,,,,,,
+FURNITURE_NAME_OBJECT_RADIO_ATOMIC,Атомное радио,,Radio atómica,Radio atomique,Radioaktives Radio,Radio atomica,Rádio atômico
+FURNITURE_DESC_OBJECT_RADIO_ATOMIC,,,,,,,
+FURNITURE_NAME_OBJECT_RADIO_70S,Радио 70-х,,Radio setentera,Radio des années&nbsp;70,70er-Radio,Radio anni '70,Rádio dos anos 70
+FURNITURE_DESC_OBJECT_RADIO_70S,,,,,,,
+FURNITURE_NAME_OBJECT_RADIO_90S,Радио 90-х,,Radio noventera,Radio des années&nbsp;90,90er-Radio,Radio anni '90,Rádio dos anos 90
+FURNITURE_DESC_OBJECT_RADIO_90S,,,,,,,
+FURNITURE_NAME_OBJECT_RADIO_60S,Радио 60-х годов,,Radio sesentera,Radio des années&nbsp;60,60er-Radio,Radio anni '60,Rádio dos anos 60
+FURNITURE_DESC_OBJECT_RADIO_60S,,,,,,,
+FURNITURE_NAME_OBJECT_TAXIDERMY_PIG,Таксидермическая свинья,,Cerdo disecado,Cochon empaillé,Ausgestopftes Schwein,Maiale impagliato,Porco empalhado
+FURNITURE_DESC_OBJECT_TAXIDERMY_PIG,,,,,,,
+FURNITURE_NAME_OBJECT_TAXIDERMY_BAT,Таксидермическая летучая мышь,,Murciélago disecado,Chauve-souris empaillée,Ausgestopfte Fledermaus,Pipistrello impagliato,Morcego empalhado
+FURNITURE_DESC_OBJECT_TAXIDERMY_BAT,,,,,,,
+FURNITURE_NAME_OBJECT_TAXIDERMY_FISH,Таксидермия трески,,Bacalao disecado,Cabillaud empaillé,Ausgestopfter Kabeljau,Merluzzo impagliato,Bacalhau empalhado
+FURNITURE_DESC_OBJECT_TAXIDERMY_FISH,,,,,,,
+FURNITURE_NAME_OBJECT_TAXIDERMY_BIRD,Таксидермический голубь,,Palomo disecado,Pigeon empaillé,Ausgestopfte Taube,Piccione impagliato,Pombo empalhado
+FURNITURE_DESC_OBJECT_TAXIDERMY_BIRD,,,,,,,
+FURNITURE_NAME_OBJECT_TAXIDERMY_TURTLE,Таксидермическая черепаха,,Tortuga disecada,Tortue empaillée,Ausgestopfte Schildkröte,Tartaruga impagliata,Tartaruga empalhada
+FURNITURE_DESC_OBJECT_TAXIDERMY_TURTLE,,,,,,,
+FURNITURE_NAME_OBJECT_TAXIDERMY_LIZARD,Таксидермия Игуана,,Iguana disecada,Iguane empaillé,Ausgestopfter Iguana,Iguana impagliata,Iguana empalhada
+FURNITURE_DESC_OBJECT_TAXIDERMY_LIZARD,,,,,,,
+FURNITURE_NAME_OBJECT_TAXIDERMY_SNAKE,Таксидермическая змея,,Serpiente disecada,Serpent empaillé,Ausgestopfte Schlange,Serpente impagliato,Cobra empalhada
+FURNITURE_DESC_OBJECT_TAXIDERMY_SNAKE,,,,,,,
+FURNITURE_NAME_OBJECT_TAXIDERMY_SQUIRREL,Таксидермическая белка,,Ardilla disecada,Écureuil empaillé,Ausgestopftes Eichhörnchen,Scoiattolo impagliato,Esquilo empalhado
+FURNITURE_DESC_OBJECT_TAXIDERMY_SQUIRREL,,,,,,,
+FURNITURE_NAME_OBJECT_TAXIDERMY_MOUSE,Таксидермическая мышь,,Ratón disecado,Souris empaillée,Ausgestopfte Maus,Topo impagliato,Camundongo empalhado
+FURNITURE_DESC_OBJECT_TAXIDERMY_MOUSE,,,,,,,
+FURNITURE_NAME_OBJECT_TAXIDERMY_GOPHER,Таксидермический суслик,,Taltuza disecada,Gauphre empaillé,Ausgestopftes Erdhörnchen,Geomide impagliato,Geômis empalhado
+FURNITURE_DESC_OBJECT_TAXIDERMY_GOPHER,,,,,,,
+FURNITURE_NAME_OBJECT_TAXIDERMY_CROW,Таксидермическая ворона,,Cuervo disecado,Corbeau empaillé,Ausgestopfte Krähe,Corvo impagliato,Corvo empalhado
+FURNITURE_DESC_OBJECT_TAXIDERMY_CROW,,,,,,,
+FURNITURE_NAME_OBJECT_TAXIDERMY_RAT,Таксидермическая крыса,,Rata disecada,Rat empaillé,Ausgestopfte Ratte,Ratto impagliato,Rato empalhado
+FURNITURE_DESC_OBJECT_TAXIDERMY_RAT,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_MONITOR,ПК Монитор,,Monitor de PC,Écran d'ordinateur,PC-Monitor,Monitor del PC,Monitor
+FURNITURE_DESC_OBJECT_ELECTRONICS_MONITOR,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_PC,ПК,,PC,PC,PC,PC,PC
+FURNITURE_DESC_OBJECT_ELECTRONICS_PC,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_PRINTER,Принтер,,Impresora,Imprimante,Drucker,Stampante,Impressora
+FURNITURE_DESC_OBJECT_ELECTRONICS_PRINTER,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_LAPTOP,Ноутбук,,Portátil,PC portable,Laptop,Computer portatile,Laptop
+FURNITURE_DESC_OBJECT_ELECTRONICS_LAPTOP,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_VHS,VHS-плеер,,Reproductor VHS,Lecteur de cassettes,Videorekorder,Lettore VHS,Videocassete
+FURNITURE_DESC_OBJECT_ELECTRONICS_VHS,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_DVDPLAYER,DVD-плеер,,Reproductor DVD,Lecteur de DVD,DVD-Player,Lettore DVD,DVD Player
+FURNITURE_DESC_OBJECT_ELECTRONICS_DVDPLAYER,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_SPEAKER,Спикер,,Altavoz,Enceinte,Lautsprecher,Altoparlante,Alto-falante
+FURNITURE_DESC_OBJECT_ELECTRONICS_SPEAKER,,,,,,,
+FURNITURE_NAME_OBJECT_BOOKS1,Книги А,,Libros A,Livres&nbsp;A,Bücher A,Libri A,Livros A
+FURNITURE_DESC_OBJECT_BOOKS1,,,,,,,
+FURNITURE_NAME_OBJECT_BOOKS2,Книги Б,,Libros B,Livres&nbsp;B,Bücher B,Libri B,Livros B
+FURNITURE_DESC_OBJECT_BOOKS2,,,,,,,
+FURNITURE_NAME_OBJECT_BOOKS3,Книги С,,Libros C,Livres&nbsp;C,Bücher C,Libri C,Livros C
+FURNITURE_DESC_OBJECT_BOOKS3,,,,,,,
+FURNITURE_NAME_OBJECT_BOOKS4,Книги Д,,Libros D,Livres&nbsp;D,Bücher D,Libri D,Livros D
+FURNITURE_DESC_OBJECT_BOOKS4,,,,,,,
+FURNITURE_NAME_OBJECT_BOOKS5,Книги Е,,Libros E,Livres&nbsp;E,Bücher E,Libri E,Livros E
+FURNITURE_DESC_OBJECT_BOOKS5,,,,,,,
+FURNITURE_NAME_OBJECT_BOOKS6,Книги Ф,,Libros F,Livres&nbsp;F,Bücher F,Libri F,Livros F
+FURNITURE_DESC_OBJECT_BOOKS6,,,,,,,
+FURNITURE_NAME_OBJECT_BOOKS7,Книги Г,,Libros G,Livres&nbsp;G,Bücher G,Libri G,Livros G
+FURNITURE_DESC_OBJECT_BOOKS7,,,,,,,
+FURNITURE_NAME_OBJECT_BOOKS8,Книги Ч,,Libros H,Livres&nbsp;H,Bücher H,Libri H,Livros H
+FURNITURE_DESC_OBJECT_BOOKS8,,,,,,,
+FURNITURE_NAME_OBJECT_BOOKS9,Книги я,,Libros I,Livres&nbsp;I,Bücher I,Libri I,Livros I
+FURNITURE_DESC_OBJECT_BOOKS9,,,,,,,
+FURNITURE_NAME_OBJECT_BOOKS10,Забронировать,,Libro,Livre,Buch,Libro,Livro
+FURNITURE_DESC_OBJECT_BOOKS10,,,,,,,
+FURNITURE_NAME_OBJECT_BOOKS11,Книги Дж.,,Libros J,Livres&nbsp;J,Bücher J,Libri J,Livros J
+FURNITURE_DESC_OBJECT_BOOKS11,,,,,,,
+FURNITURE_NAME_OBJECT_BOOKS12,Книги К,,Libros K,Livres&nbsp;K,Bücher K,Libri K,Livros K
+FURNITURE_DESC_OBJECT_BOOKS12,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_CUTECACTUS,Кактус в горшке,,Tiesto con cactus,Cactus en pot,Eingetopfter Kaktus,Cactus in vaso,Cacto no vaso
+FURNITURE_DESC_OBJECT_PLANT_CUTECACTUS,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_SUNFLOWER,Подсолнух в горшке,,Tiesto con girasol,Tournesol en pot,Eingetopfte Sonnenblume,Girasole in vaso,Girassol no vaso
+FURNITURE_DESC_OBJECT_PLANT_SUNFLOWER,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_MUSHROOM,Горшечные грибы,,Tiesto con seta,Champignon en pot,Eingetopfter Pilz,Fungo in vaso,Cogumelo no vaso
+FURNITURE_DESC_OBJECT_PLANT_MUSHROOM,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_MUSHROOMS,Горшечные Грибы,,Tiesto con setas,Champignons en pot,Eingetopfte Pilze,Funghi in vaso,Cogumelos no vaso
+FURNITURE_DESC_OBJECT_PLANT_MUSHROOMS,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_BULB1,Зеленая лампочка в горшке,,Tiesto con bulbo verde,Bulbe vert en pot,Eingetopfte grüne Knolle,Bulbo verde in vaso,Bulbo verde no vaso
+FURNITURE_DESC_OBJECT_PLANT_BULB1,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_BULB2,Синяя лампочка в горшке,,Tiesto con bulbo azul,Bulbe bleu en pot,Eingetopfte blaue Knolle,Bulbo blu in vaso,Bulbo azul no vaso
+FURNITURE_DESC_OBJECT_PLANT_BULB2,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_BULB3,Желтая лампочка в горшке,,Tiesto con bulbo amarillo,Bulbe jaune en pot,Eingetopfte gelbe Knolle,Bulbo giallo in vaso,Bulbo amarelo no vaso
+FURNITURE_DESC_OBJECT_PLANT_BULB3,,,,,,,
+FURNITURE_NAME_OBJECT_PLANT_FLYTRAP,Венера Мухоловка,,Atrapamoscas,Dionée attrape-mouche,Venusfliegenfalle,Venere acchiappamosche,Dionaea muscipula
+FURNITURE_DESC_OBJECT_PLANT_FLYTRAP,,,,,,,
+FURNITURE_NAME_OBJECT_VASE_DASIY,Цветочная ваза,,Florero,Vase de fleurs,Blumenvase,Vaso di Fiori,Vaso de flores
+FURNITURE_DESC_OBJECT_VASE_DASIY,,,,,,,
+FURNITURE_NAME_OBJECT_VASE_STICKS,Ветка Ваза,,Jarrón con ramitas,Vase de branches,Vase mit Zweigen,Vaso con rami,Vaso com galho
+FURNITURE_DESC_OBJECT_VASE_STICKS,,,,,,,
+FURNITURE_NAME_OBJECT_TELEPHONE_10S,Антикварный телефон,,Teléfono antiguo ,Téléphone antique,Antikes Telefon ,Telefono antico,Telefone antigo
+FURNITURE_DESC_OBJECT_TELEPHONE_10S,,,,,,,
+FURNITURE_NAME_OBJECT_COFFEN,Гроб,,Ataúd,Cercueil,Sarg,Bara,Caixão
+FURNITURE_DESC_OBJECT_COFFEN,,,,,,,
+FURNITURE_NAME_OBJECT_BARREL,Бочка,,Barril,Tonneau,Fass,Barile,Barril
+FURNITURE_DESC_OBJECT_BARREL,,,,,,,
+FURNITURE_NAME_OBJECT_TOXICWASTE,Токсичные отходы,,Residuo tóxico,Déchets toxiques,Giftmüll,Rifiuti tossici,Lixo tóxico
+FURNITURE_DESC_OBJECT_TOXICWASTE,,,,,,,
+FURNITURE_NAME_OBJECT_CRATE,Ящик,,Caja,Caisse,Kiste,Cassa,Caixa
+FURNITURE_DESC_OBJECT_CRATE,,,,,,,
+FURNITURE_NAME_OBJECT_CHEST,Сундук,,Cofre,Coffre,Truhe,Baule,Baú
+FURNITURE_DESC_OBJECT_CHEST,,,,,,,
+FURNITURE_NAME_OBJECT_BOX,Картонная коробка,,Caja de cartón,Carton,Pappbox,Scatola di cartone,Caixa de papelão
+FURNITURE_DESC_OBJECT_BOX,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_MICROWAVE,Микроволновая печь А,,Microondas A,Micro-ondes&nbsp;A,Mikrowelle A,Microonde A,Micro-ondas A
+FURNITURE_DESC_OBJECT_ELECTRONICS_MICROWAVE,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_MICROWAVE2,Микроволновая печь Б,,Microondas B,Micro-ondes&nbsp;B,Mikrowelle B,Microonde B,Micro-ondas B
+FURNITURE_DESC_OBJECT_ELECTRONICS_MICROWAVE2,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_MICROWAVE3,Микроволновая печь С,,Microondas C,Micro-ondes&nbsp;C,Mikrowelle C,Microonde C,Micro-ondas C
+FURNITURE_DESC_OBJECT_ELECTRONICS_MICROWAVE3,,,,,,,
+FURNITURE_NAME_OBJECT_CINDERBLOCK1,Шлакоблок,,Bloque de hormigón,Parpaing,Betonblock,Blocco di cemento,Bloco de concreto
+FURNITURE_DESC_OBJECT_CINDERBLOCK1,,,,,,,
+FURNITURE_NAME_OBJECT_CINDERBLOCK2,Маленький шлакоблок,,Bloque de hormigón pequeño,Petit parpaing,Kleiner Betonblock,Blocco di cemento piccolo,Bloco de concreto pequeno
+FURNITURE_DESC_OBJECT_CINDERBLOCK2,,,,,,,
+FURNITURE_NAME_OBJECT_ROCK,Рок,,Roca,Pierre,Stein,Roccia,Pedra
+FURNITURE_DESC_OBJECT_ROCK,,,,,,,
+FURNITURE_NAME_OBJECT_SMALLROCK,Смолл Рок,,Roca pequeña,Caillou,Kleiner Stein,Piccola roccia,Pedra pequena
+FURNITURE_DESC_OBJECT_SMALLROCK,,,,,,,
+FURNITURE_NAME_OBJECT_DIAMOND,Алмаз,,Diamante,Diamant,Diamant,Diamante,Diamante
+FURNITURE_DESC_OBJECT_DIAMOND,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_ORB,Плазменная сфера,,Orbe plasmático,Orbe de plasma,Plasmakugel,Sfera di plasma,Orbe de plasma
+FURNITURE_DESC_OBJECT_ELECTRONICS_ORB,,,,,,,
+FURNITURE_NAME_OBJECT_CRYSTALBALL,Хрустальный шар,,Bola de cristal,Boule de cristal,Kristallkugel,Sfera di cristallo,Bola de cristal
+FURNITURE_DESC_OBJECT_CRYSTALBALL,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_LAVALAMP,Лавовая лампа,,Lámpara de lava,Lampe à lave,Lavalampe,Lampada di lava,Luminária de lava
+FURNITURE_DESC_OBJECT_ELECTRONICS_LAVALAMP,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_FAN,Маленький Вентилятор,,Ventilador pequeño,Petit ventilateur,Kleiner Ventilator,Ventilatore piccolo,Ventilador pequeno
+FURNITURE_DESC_OBJECT_ELECTRONICS_FAN,,,,,,,
+FURNITURE_NAME_OBJECT_JAR_EMPTY,Сломанная банка,,Tarro roto,Bocal cassé,Kaputtes Glas,Barattolo rotto,Pote quebrado
+FURNITURE_DESC_OBJECT_JAR_EMPTY,,,,,,,
+FURNITURE_NAME_OBJECT_JAR_HEAD1,Голова в банке А,,Cabeza en un tarro A,Tête en bocal&nbsp;A,Kopf im Glas A,Testa in barattolo A,Cabeça no pote A
+FURNITURE_DESC_OBJECT_JAR_HEAD1,,,,,,,
+FURNITURE_NAME_OBJECT_JAR_HEAD2,Голова в банке Б,,Cabeza en un tarro B,Tête en bocal&nbsp;B,Kopf im Glas B,Testa in barattolo B,Cabeça no pote B
+FURNITURE_DESC_OBJECT_JAR_HEAD2,,,,,,,
+FURNITURE_NAME_OBJECT_JAR_EGGS,Банка яиц,,Tarro con huevos,Bocal d'œufs,Glas mit Eiern,Barattolo di uova,Pote de ovos
+FURNITURE_DESC_OBJECT_JAR_EGGS,,,,,,,
+FURNITURE_NAME_OBJECT_JAR_CAT,Сиамская кошка в банке,,Gato conjunto en un tarro,Chats fusionnés en bocal,Siamesische Katzen im Glas,Gatto siamese in barattolo,Gatos siameses no pote
+FURNITURE_DESC_OBJECT_JAR_CAT,,,,,,,
+FURNITURE_NAME_OBJECT_JAR_FETUS,Плод в банке,,Feto en un tarro,Fœtus en bocal,Fötus im Glas,Feto in barattolo,Feto no pote
+FURNITURE_DESC_OBJECT_JAR_FETUS,,,,,,,
+FURNITURE_NAME_OBJECT_LOG,Журнал,,Tronco,Bûche,Stamm,Tronco,Tronco
+FURNITURE_DESC_OBJECT_LOG,,,,,,,
+FURNITURE_NAME_OBJECT_FOOD_HAM,ветчина,,Jamón,Jambon,Schinken,Prosciutto,Presunto
+FURNITURE_DESC_OBJECT_FOOD_HAM,,,,,,,
+FURNITURE_NAME_OBJECT_FOOD_TURKEY,Турция,,Pavo,Dinde,Pute,Tacchino,Peru
+FURNITURE_DESC_OBJECT_FOOD_TURKEY,,,,,,,
+FURNITURE_NAME_OBJECT_BUG_CENIPEDE,Многоножка,,Ciempiés,Centipède,Tausendfüßler,Millepiedi,Centopeia
+FURNITURE_DESC_OBJECT_BUG_CENIPEDE,,,,,,,
+FURNITURE_NAME_OBJECT_BUG_PILLBUG,Пиллбаг,,Cochinilla,Cloporte,Kugelassel,Porcellino di terra,Bicho-de-conta
+FURNITURE_DESC_OBJECT_BUG_PILLBUG,,,,,,,
+FURNITURE_NAME_OBJECT_BUG_SPIDER,Черная Вдова,,Viuda negra,Veuve noire,Schwarze Witwe,Vedova nera,Viúva negra
+FURNITURE_DESC_OBJECT_BUG_SPIDER,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_CHAMELEON,Хамелеон,,Camaleón,Caméléon,Chamäleon,Camaleonte,Camaleão
+FURNITURE_DESC_OBJECT_FISHTANK_CHAMELEON,,,,,,,
+FURNITURE_NAME_OBJECT_GASTANK,Бензобак,,Bidón de gasolina,Réservoir,Gastank,Serbatoio del carburante,Tanque de gasolina
+FURNITURE_DESC_OBJECT_GASTANK,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_ARCADE1,Аркадный автомат,,Máquina recreativa,Borne d'arcade,Spielautomat,Arcade da sala giochi,Fliperama
+FURNITURE_DESC_OBJECT_ELECTRONICS_ARCADE1,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_ARCADE2,Инди Аркады,,Recreativa indie,Borne d'arcade indie,Indie-Spielautomat,Arcade indie,Arcade
+FURNITURE_DESC_OBJECT_ELECTRONICS_ARCADE2,,,,,,,
+FURNITURE_NAME_OBJECT_FORTUNETELLER,Гадалка,,Máquina de adivinación,Voyante,Wahrsager,Chiromante,Vidente
+FURNITURE_DESC_OBJECT_FORTUNETELLER,,,,,,,
+FURNITURE_NAME_OBJECT_ELECTRONICS_CRANEGAME,Игра Журавль,,Máquina de gancho,Machine à pince,Greifautomat,Gioco dell'artiglio,Jogo do guindaste
+FURNITURE_DESC_OBJECT_ELECTRONICS_CRANEGAME,,,,,,,
+FURNITURE_NAME_OBJECT_OUTHOUSE,Пристройка,,Retrete exterior,Remise,Plumpsklo,Latrina,Casinha
+FURNITURE_DESC_OBJECT_OUTHOUSE,,,,,,,
+FURNITURE_NAME_OBJECT_POTOPOTTY,Горшок О'Горшок,,Váter portátil,Sanitaire mobile,Toilettenkabine,Vasino,Banheirinho
+FURNITURE_DESC_OBJECT_POTOPOTTY,,,,,,,
+FURNITURE_NAME_OBJECT_ICECHEST,Ледяной сундук,,Nevera portátil,Glacière,Eistruhe,Ghiacciaia,Baú de gelo
+FURNITURE_DESC_OBJECT_ICECHEST,,,,,,,
+FURNITURE_NAME_OBJECT_FISHTANK_OCTOCAT,Октокот Аквариум,,Pecera con octogato,Aquarium de chapoulpe,Aquarium (Oktokatze),Acquario di poligatto,Aquário de polvogatos
+FURNITURE_DESC_OBJECT_FISHTANK_OCTOCAT,,,,,,,
+FURNITURE_NAME_OBJECT_TAXIDERMY_BEAR,Таксидермический медведь,,Oso disecado,Ours empaillé,Ausgestopfter Bär,Orso impagliato,Urso empalhado
+FURNITURE_DESC_OBJECT_TAXIDERMY_BEAR,,,,,,,
+FURNITURE_NAME_OBJECT_BATH1,Античная ванна,,Bañera antigua,Baignoire antique,Antike Badewanne,Vasca antica,Banheira antiga
+FURNITURE_DESC_OBJECT_BATH1,,,,,,,
+FURNITURE_NAME_OBJECT_BATH2,Ретро-ванна,,Bañera retro,Baignoire rétro,Retrobadewanne,Vasca rétro,Banheira retrô
+FURNITURE_DESC_OBJECT_BATH2,,,,,,,
+FURNITURE_NAME_OBJECT_SHOWER,Душ,,Ducha,Douche,Dusche,Doccia,Chuveiro
+FURNITURE_DESC_OBJECT_SHOWER,,,,,,,
+FURNITURE_NAME_OBJECT_BBQ,барбекю,,Barbacoa,BBQ,Grill,Barbecue,Churrasqueira
+FURNITURE_DESC_OBJECT_BBQ,,,,,,,
+FURNITURE_NAME_OBJECT_OLDSTOVE,Антикварная печь,,Hornillo antiguo,Cuisinière antique,Antiker Ofen,Stufa antica,Fogão antigo
+FURNITURE_DESC_OBJECT_OLDSTOVE,,,,,,,
+FURNITURE_NAME_OBJECT_EASEL,Мольберт,,Caballete,Chevalet,Staffelei,Cavalletto,Cavalete
+FURNITURE_DESC_OBJECT_EASEL,,,,,,,
+FURNITURE_NAME_OBJECT_BIRDCAGE,Птичья клетка,,Jaula,Cage à oiseaux,Vogelkäfig,Gabbia per uccelli,Gaiola de pássaros
+FURNITURE_DESC_OBJECT_BIRDCAGE,,,,,,,
+FURNITURE_NAME_OBJECT_DOLLHOUSE,Кукольный домик,,Casita de muñecas,Maison de poupée,Puppenhaus,Casa delle bambole,Casa de bonecas
+FURNITURE_DESC_OBJECT_DOLLHOUSE,,,,,,,
+FURNITURE_NAME_OBJECT_SAFE,Сейф,,Caja fuerte,Coffre-fort,Safe,Cassaforte,Cofre
+FURNITURE_DESC_OBJECT_SAFE,,,,,,,
+FURNITURE_NAME_OBJECT_BED,Матрас,,Colchón,Matelas,Matratze,Materasso,Colchão
+FURNITURE_DESC_OBJECT_BED,,,,,,,
+FURNITURE_NAME_OBJECT_WATERTOWER,Кулер для воды,,Dispensador de agua,Fontaine à eau,Wasserkühler,Distributore d'acqua,Bebedouro
+FURNITURE_DESC_OBJECT_WATERTOWER,,,,,,,
+FURNITURE_NAME_OBJECT_VISIBLEMAN,Видимый человек,,Torso anatómico,Torse d'homme,Anatomiemodell,Uomo visibile,Modelo anatômico
+FURNITURE_DESC_OBJECT_VISIBLEMAN,,,,,,,
+FURNITURE_NAME_OBJECT_STATUE_STONEHEAD,Ольмекская голова,,Cabeza olmeca,Tête olmèque,Olmec-Kopf,Testa olmeca,Cabeça de Olmec
+FURNITURE_DESC_OBJECT_STATUE_STONEHEAD,,,,,,,
+FURNITURE_NAME_OBJECT_CLOCK,Дедушкины часы,,Reloj de pie,Horloge de parquet,Großvateruhr,Orologio a pendolo,Relógio antigo
+FURNITURE_DESC_OBJECT_CLOCK,,,,,,,
+FURNITURE_NAME_OBJECT_IV,IV,,IV,Intraveineuse,Infusionsständer,Flebo,Soro fisiológico
+FURNITURE_DESC_OBJECT_IV,,,,,,,
+FURNITURE_NAME_OBJECT_FIREPLACE,Камин,,Chimenea,Cheminée,Kamin,Camino,Lareira
+FURNITURE_DESC_OBJECT_FIREPLACE,,,,,,,
+FURNITURE_NAME_OBJECT_DRYER,Сушилка,,Secadora,Sèche-linge,Trockner,Asciugatrice,Secadora
+FURNITURE_DESC_OBJECT_DRYER,,,,,,,
+FURNITURE_NAME_OBJECT_WASHER,Шайба,,Lavadora,Machine à laver,Waschmaschine,Lavatrice,Lava-roupas
+FURNITURE_DESC_OBJECT_WASHER,,,,,,,
+FURNITURE_NAME_OBJECT_FILINGCABINET,Картотека,,Archivador,Classeur à tiroirs,Aktenschrank,Schedario,Arquivo
+FURNITURE_DESC_OBJECT_FILINGCABINET,,,,,,,
+FURNITURE_NAME_OBJECT_CATTREE1,Кошачье дерево А,,Árbol rascador A,Arbre à chat&nbsp;A,Katzenbaum A,Tiragraffi A,Árvore de gatos A
+FURNITURE_DESC_OBJECT_CATTREE1,,,,,,,
+FURNITURE_NAME_OBJECT_CATTREE2,Кошачье дерево Б,,Árbol rascador B,Arbre à chat&nbsp;B,Katzenbaum B,Tiragraffi B,Árvore de gatos B
+FURNITURE_DESC_OBJECT_CATTREE2,,,,,,,
+FURNITURE_NAME_OBJECT_CATTREE3,Кошачье дерево C,,Árbol rascador C,Arbre à chat&nbsp;C,Katzenbaum C,Tiragraffi C,Árvore de gatos C
+FURNITURE_DESC_OBJECT_CATTREE3,,,,,,,
+FURNITURE_NAME_OBJECT_PUNCHY,Бокс Билл,,Muñeco de boxeo,Torse de boxe,Boxfigur,Boxing Bill,Bob
+FURNITURE_DESC_OBJECT_PUNCHY,,,,,,,
+FURNITURE_NAME_OBJECT_SINK,Раковина,,Lavabo,Évier,Waschbecken,Lavandino,Pia
+FURNITURE_DESC_OBJECT_SINK,,,,,,,
+FURNITURE_NAME_OBJECT_TOOLCHEST,Ящик для инструментов,,Carrito de herramientas,Coffre à outils,Werkzeugkiste,Cassetta degli attrezzi,Caixa de ferramentas
+FURNITURE_DESC_OBJECT_TOOLCHEST,,,,,,,
+FURNITURE_NAME_OBJECT_IRONINGBOARD,Гладильная доска,,Tabla de planchar,Plancher à repasser,Bügelbrett,Asse da stiro,Tábua de passar
+FURNITURE_DESC_OBJECT_IRONINGBOARD,,,,,,,
+FURNITURE_NAME_OBJECT_BROOM,Метла,,Escoba,Balai,Besen,Scopa,Vassoura
+FURNITURE_DESC_OBJECT_BROOM,,,,,,,
+FURNITURE_NAME_OBJECT_VACUUM,Вакуум,,Aspiradora,Aspirateur,Staubsauger,Aspirapolvere,Aspirador
+FURNITURE_DESC_OBJECT_VACUUM,,,,,,,
+FURNITURE_NAME_OBJECT_GNOME,Гном,,Gnomo,Nain de jardin,Gartenzwerg,Gnomo,Gnomo
+FURNITURE_DESC_OBJECT_GNOME,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_BLUEBOY,Синий мальчик в рамке,,«El joven azul»,Tableau «&nbsp;L'Enfant bleu&nbsp;»,Knabe in Blau,Quadro incorniciato: Il Ragazzo in Azzurro,Quadro Menino Azul
+FURNITURE_DESC_WALLMOUNTED_PICTURE_BLUEBOY,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_FRIDA,Фрида в рамке,,Cuadro de Frida,Tableau «&nbsp;Frida&nbsp;»,Frida,Quadro incorniciato: Frida,Quadro Frida
+FURNITURE_DESC_WALLMOUNTED_PICTURE_FRIDA,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_GOD,Создание Адама в рамке,,«La creación de Adán»,Tableau «&nbsp;La Création d'Adam&nbsp;»,Die Erschaffung Adams,Quadro incorniciato: Creazione di Adamo,Quadro Criação de Adão
+FURNITURE_DESC_WALLMOUNTED_PICTURE_GOD,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_LISA,Мона Лиза в рамке,,«Mona Lisa»,Tableau «&nbsp;Mona Lisa&nbsp;»,Mona Lisa,Quadro incorniciato: Gioconda,Quadro Monalisa
+FURNITURE_DESC_WALLMOUNTED_PICTURE_LISA,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_SCREAM,Подставил крик,,«El grito»,Tableau «&nbsp;Le Cri&nbsp;»,Der Schrei,Quadro incorniciato: L'Urlo,Quadro O Grito
+FURNITURE_DESC_WALLMOUNTED_PICTURE_SCREAM,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_NIGHT,Звездная ночь в рамке,,«La noche estrellada»,Tableau «&nbsp;La Nuit étoilée&nbsp;»,Sternennacht,Quadro incorniciato: Notte Stellata,Quadro Noite Estrelada
+FURNITURE_DESC_WALLMOUNTED_PICTURE_NIGHT,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_GOTHIC,Американская готика в рамке,,«Gótico estadounidense»,Tableau «&nbsp;American Gothic&nbsp;»,American Gothic,Quadro incorniciato: American Gothic,Quadro American Gothic
+FURNITURE_DESC_WALLMOUNTED_PICTURE_GOTHIC,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_PICASSO,Пикассо в рамке,,Cuadro de Picasso,Tableau de Picasso,Picasso,Quadro incorniciato: Picasso,Quadro Picasso
+FURNITURE_DESC_WALLMOUNTED_PICTURE_PICASSO,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_KEITH,Подставил Кита Харинга,,Cuadro de Keith Haring,Tableau de Keith Haring,Keith Haring,Quadro incorniciato: Keith Haring,Quadro Keith Haring
+FURNITURE_DESC_WALLMOUNTED_PICTURE_KEITH,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_PEARL,Подставил Жемчужину,,«La joven de la perla»,Tableau «&nbsp;La Perle&nbsp;»,Das Mädchen mit dem Perlenohrring,Quadro incorniciato: La Ragazza col Turbante,Quadro Moça com o Brinco de Pérola
+FURNITURE_DESC_WALLMOUNTED_PICTURE_PEARL,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_ROSIE,Рози Постер,,Póster de «Rosie»,Affiche de Rosie,Rosie-Poster,Poster - Rosie,Pôster Rosie
+FURNITURE_DESC_WALLMOUNTED_PICTURE_ROSIE,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_UFO,Плакат НЛО,,Póster de «Ovni»,Affiche d'OVNI,UFO-Poster,Poster - UFO,Pôster Ufo
+FURNITURE_DESC_WALLMOUNTED_PICTURE_UFO,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_CHE,Плакат Че Пурвары,,Póster de «Miau Guevara»,Affiche de Cha Guevara,Che-Guemiaura-Poster,Poster - Che Purvara,Pôster Che Miauguevara
+FURNITURE_DESC_WALLMOUNTED_PICTURE_CHE,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_OBEY,Плакат Мяуби,,Póster de «Obediencia minina»,Affiche de Meowbey,Meowbey-Poster,Poster - Miaobey,Pôster Meowbey
+FURNITURE_DESC_WALLMOUNTED_PICTURE_OBEY,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_HANG,Плакат «Держись там»,,Póster de «Colgados de la gata»,Affiche Chat perché,Hang in There Poster,Poster - Tieni Duro,Pôster Aguenta firme
+FURNITURE_DESC_WALLMOUNTED_PICTURE_HANG,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_JAWS,Плакат с лапами,,Póster de «Bufidón»,Affiche «&nbsp;Les Crocs de la terre&nbsp;»,Der Weiße Kater Poster,Poster - Il Pescegatto,Pôster Gatubarão
+FURNITURE_DESC_WALLMOUNTED_PICTURE_JAWS,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_SCARFACE,Плакат с кошачьим лицом,,Póster de «Caragatuna»,Affiche «&nbsp;Catface&nbsp;»,Catface-Poster,Poster - Catface,Pôster Catface
+FURNITURE_DESC_WALLMOUNTED_PICTURE_SCARFACE,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_LAMBS,Плакат «Молчание мышей»,,Póster de «El silencio de los ratones»,Affiche «&nbsp;Le Silence des souris&nbsp;»,Das Schweigen der Mäuse Poster,Poster - Il Silenzio delle Pantegane,Pôster Silêncio dos camundongos
+FURNITURE_DESC_WALLMOUNTED_PICTURE_LAMBS,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_ORANGE,Оранжевый постер Catwork,,Póster de «La naranja michina»,Affiche «&nbsp;Orange méchanique&nbsp;»,Uhrwerk Miaurange Poster,Poster - Miaoarancia Meccanica,Pôster Laranja miaucânica
+FURNITURE_DESC_WALLMOUNTED_PICTURE_ORANGE,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_ERASER,Плакат «Литтерхед»,,Póster de «Cabeza basurera»,Affiche «&nbsp;Litterhead&nbsp;»,Litterhead-Poster,Poster - Testa di Lettiera,Pôster Litterhead
+FURNITURE_DESC_WALLMOUNTED_PICTURE_ERASER,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_SEWN_CLOCK,Сшитые часы,,Reloj remendado,Horloge cousue,Stoffuhr,Orologio rammendato,Relógio costurado
+FURNITURE_DESC_WALLMOUNTED_SEWN_CLOCK,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_CLOCK,Кошачьи часы,,Reloj gatuno,Horloge chat,Katzenuhr,Orologio di gatto,Relógio de gato
+FURNITURE_DESC_WALLMOUNTED_CLOCK,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_WOODEN_CLOCK,Деревянные часы,,Reloj de madera,Horloge en bois,Holzuhr,Orologio di legno,Relógio de madeira
+FURNITURE_DESC_WALLMOUNTED_WOODEN_CLOCK,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_ATOMIC_CLOCK,Атомные часы,,Reloj atómico,Horloge atomique,Radioaktive Uhr,Orologio atomico,Relógio atômico
+FURNITURE_DESC_WALLMOUNTED_ATOMIC_CLOCK,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_GHOST1,Блинки,,Pestañita,Blinky,Blinky,Lampeggino,Blinky
+FURNITURE_DESC_WALLMOUNTED_GHOST1,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_GHOST2,Пинки,,Rosita,Pinky,Pinky,Mignoletto,Pinky
+FURNITURE_DESC_WALLMOUNTED_GHOST2,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_GHOST3,Клайд,,Clyde,Clyde,Clyde,Clyde,Clyde
+FURNITURE_DESC_WALLMOUNTED_GHOST3,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_MASK_BUNNY,Маска кролика,,Máscara de conejito,Masque de lapin,Hasenmaske,Maschera da coniglio,Máscara de coelho
+FURNITURE_DESC_WALLMOUNTED_MASK_BUNNY,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_MASK_TONETTA,Маска Тонетта,,Máscara de Tonetta,Masque de Tonetta,Tonettamaske,Maschera di Tonetta,Máscara Tonetta
+FURNITURE_DESC_WALLMOUNTED_MASK_TONETTA,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_MASK_HOCKY,Хоккейная маска,,Máscara de hockey,Masque de hockey,Hockeymaske,Maschera da hockey,Máscara de hóquei
+FURNITURE_DESC_WALLMOUNTED_MASK_HOCKY,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_SAILBOAT,Парусник в рамке,,Cuadro de un velero,Tableau de voilier,Segelboot,Barca a vela incorniciata,Quadro Barco à Vela
+FURNITURE_DESC_WALLMOUNTED_PICTURE_SAILBOAT,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_MAGAZINE,Разворот,,Despegable,Pin-up,Magazin,Pagina centrale,Pôster de revista
+FURNITURE_DESC_WALLMOUNTED_PICTURE_MAGAZINE,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_POEM,Поэма,,Poema,Poème,Gedicht,Poesia,Poema
+FURNITURE_DESC_WALLMOUNTED_PICTURE_POEM,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_PHOTO,Фото А,,Foto A,Photo&nbsp;A,Foto A,Foto A,Foto A
+FURNITURE_DESC_WALLMOUNTED_PICTURE_PHOTO,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_PHOTO2,Фото Б,,Foto B,Photo&nbsp;B,Foto B,Foto B,Foto B
+FURNITURE_DESC_WALLMOUNTED_PICTURE_PHOTO2,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_PHOTO3,Фотографии,,Fotos,Photos,Fotos,Foto,Fotos
+FURNITURE_DESC_WALLMOUNTED_PICTURE_PHOTO3,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_WOODEN_BOARDS1,Деревянные доски А,,Tablones de madera A,Panneaux en bois&nbsp;A,Holzbretter A,Assi di legno A,Placas de madeira A
+FURNITURE_DESC_WALLMOUNTED_WOODEN_BOARDS1,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_WOODEN_BOARDS2,Деревянные доски Б,,Tablones de madera B,Panneaux en bois&nbsp;B,Holzbretter B,Assi di legno B,Placas de madeira B
+FURNITURE_DESC_WALLMOUNTED_WOODEN_BOARDS2,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_WOODEN_BOARDS3,Деревянные доски C,,Tablones de madera C,Panneaux en bois&nbsp;C,Holzbretter C,Assi di legno C,Placas de madeira C
+FURNITURE_DESC_WALLMOUNTED_WOODEN_BOARDS3,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_WOODEN_BOARDS4,Деревянные доски D,,Tablones de madera D,Panneaux en bois&nbsp;D,Holzbretter D,Assi di legno D,Placas de madeira D
+FURNITURE_DESC_WALLMOUNTED_WOODEN_BOARDS4,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_SWITCH,Выключатель света,,Interruptor,Interrupteur,Lichtschalter,Interruttore della luce,Interruptor
+FURNITURE_DESC_WALLMOUNTED_SWITCH,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_OUTLET,Выход,,Enchufe,Prise de courant,Steckdose,Presa di corrente,Tomada
+FURNITURE_DESC_WALLMOUNTED_OUTLET,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_ROBO_PLATE1,Металлическая пластина А,,Placa metálica A,Plaque en métal&nbsp;A,Metallplatte A,Piastra metallica A,Placa de metal A
+FURNITURE_DESC_WALLMOUNTED_ROBO_PLATE1,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_ROBO_PLATE2,Металлическая пластина Б,,Placa metálica B,Plaque en métal&nbsp;B,Metallplatte B,Piastra metallica B,Placa de metal B
+FURNITURE_DESC_WALLMOUNTED_ROBO_PLATE2,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_ROBO_PLATE3,Металлическая пластина С,,Placa metálica C,Plaque en métal&nbsp;C,Metallplatte C,Piastra metallica C,Placa de metal C
+FURNITURE_DESC_WALLMOUNTED_ROBO_PLATE3,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_FURNACE,Печь,,Horno,Chaudière,Hochofen,Fornace,Fornalha
+FURNITURE_DESC_WALLMOUNTED_FURNACE,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_ROBO_PLATE4,Робо-тарелка,,Placa robótica,Assiette robo,Roboplatte,Robo-piastra,Placa robô
+FURNITURE_DESC_WALLMOUNTED_ROBO_PLATE4,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_TV,Настенный телевизор,,Tele de pared,TV murale,Wandfernseher,TV a parete,TV na parede
+FURNITURE_DESC_WALLMOUNTED_TV,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BALLOON,Воздушный шар А,,Globo A,Ballon&nbsp;A,Ballon A,Palloncino A,Balão A
+FURNITURE_DESC_WALLMOUNTED_BALLOON,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BALLOON2,Воздушный шар Б,,Globo B,Ballon&nbsp;B,Ballon B,Palloncino B,Balão B
+FURNITURE_DESC_WALLMOUNTED_BALLOON2,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BALLOON3,Воздушный шар С,,Globo C,Ballon&nbsp;C,Ballon C,Palloncino C,Balão C
+FURNITURE_DESC_WALLMOUNTED_BALLOON3,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_SEWER_PIPES1,Канализационные трубы А,,Cañerías A,Tuyaux d'égout&nbsp;A,Abwasserrohre A,Tubi di fogna A,Canos de esgoto A
+FURNITURE_DESC_WALLMOUNTED_SEWER_PIPES1,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_SEWER_PIPES2,Канализационные трубы Б,,Cañerías B,Tuyaux d'égout&nbsp;B,Abwasserrohre B,Tubi di fogna B,Canos de esgoto B
+FURNITURE_DESC_WALLMOUNTED_SEWER_PIPES2,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_SEWER_PIPES3,Канализационные трубы С,,Cañerías C,Tuyaux d'égout&nbsp;C,Abwasserrohre C,Tubi di fogna C,Canos de esgoto C
+FURNITURE_DESC_WALLMOUNTED_SEWER_PIPES3,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BALLOON4,Сердце Воздушный Шар,,Globo acorazonado,Ballon cœur,Herzballon,Palloncino a cuore,Balão de coração
+FURNITURE_DESC_WALLMOUNTED_BALLOON4,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_MIRROR,Зеркало,,Espejo,Miroir,Spiegel,Specchio,Espelho
+FURNITURE_DESC_WALLMOUNTED_MIRROR,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_JUNK_PAPER1,Газеты А,,Periódicos A,Journeaux&nbsp;A,Zeitung A,Giornali A,Jornais A
+FURNITURE_DESC_WALLMOUNTED_JUNK_PAPER1,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_PICTURE_DRAWING,Рисование,,Dibujo,Dessin,Zeichnung,Disegno,Desenho
+FURNITURE_DESC_WALLMOUNTED_PICTURE_DRAWING,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_COWSKULL,Настенный череп коровы,,Cráneo de vaca colgado,Crâne de vache mural,Rinderschädel,Teschio di mucca a parete,Crânio de vaca na parede
+FURNITURE_DESC_WALLMOUNTED_COWSKULL,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_TAXIDERMY_DEERHEAD,Таксидермия Олень,,Ciervo disecado,Cerf empaillé,Ausgestopfter Hirsch,Cervo impagliato,Cervo empalhado
+FURNITURE_DESC_WALLMOUNTED_TAXIDERMY_DEERHEAD,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_TAXIDERMY_GUPPY,Таксидермия гуппи,,Guppy disecado,Guppy empaillé,Ausgestopfter Guppy,Pesce milione impagliato,Guppy empalhado
+FURNITURE_DESC_WALLMOUNTED_TAXIDERMY_GUPPY,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_JOLLYROGER,Веселый Роджер,,Bandera pirata,Pavillon pirate,Totenkopf,Jolly Roger,Bandeira de pirata
+FURNITURE_DESC_WALLMOUNTED_JOLLYROGER,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_TAXIDERMY_BUGS,Таксидермические ошибки,,Bichos disecados,Insectes empaillés,Ausgestopfte Käfer,Insetti impagliati,Insetos empalhados
+FURNITURE_DESC_WALLMOUNTED_TAXIDERMY_BUGS,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_TAXIDERMY_FISH,Таксидермический окунь,,Lubina disecada,Bar empaillé,Ausgestopfter Barsch,Branzino impagliato,Bagre empalhado
+FURNITURE_DESC_WALLMOUNTED_TAXIDERMY_FISH,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_MASK_INFAMY,Печально известная маска,,Máscara infame,Masque d'Infamie,Berüchtigte Maske,"Maschera ""Infamous""",Máscara infame
+FURNITURE_DESC_WALLMOUNTED_MASK_INFAMY,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_SAFE,Настенный сейф,,Caja fuerte de pared,Coffre-fort mural,Wandsafe,Cassaforte a parete,Cofre de parede
+FURNITURE_DESC_WALLMOUNTED_SAFE,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BRICKS1,Кирпичи А,,Ladrillos A,Briques&nbsp;A,Ziegel A,Mattoni A,Tijolos A
+FURNITURE_DESC_WALLMOUNTED_BRICKS1,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BRICKS2,Кирпичи Б,,Ladrillos B,Briques&nbsp;B,Ziegel B,Mattoni B,Tijolos B
+FURNITURE_DESC_WALLMOUNTED_BRICKS2,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BRICKS3,Кирпичи С,,Ladrillos C,Briques&nbsp;C,Ziegel C,Mattoni C,Tijolos C
+FURNITURE_DESC_WALLMOUNTED_BRICKS3,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BRICKS4,Кирпичи Д,,Ladrillos D,Briques&nbsp;D,Ziegel D,Mattoni D,Tijolos D
+FURNITURE_DESC_WALLMOUNTED_BRICKS4,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_JUNK_PAPER2,Газеты Б,,Periódicos B,Journaux&nbsp;B,Zeitung B,Giornali B,Jornais B
+FURNITURE_DESC_WALLMOUNTED_JUNK_PAPER2,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_CRACK,Трещина,,Grieta,Fissure&nbsp;A,Ein Riss,Una crepa,Rachadura
+FURNITURE_DESC_WALLMOUNTED_CRACK,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_TORCH,Факел,,Antorcha,Torche,Fackel,Torcia,Tocha
+FURNITURE_DESC_WALLMOUNTED_TORCH,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_SHRUNKINHEAD,Сморщенная голова кошки,,Cabeza de gato reducida,Tête réduite de chat,Katzenschrumpfkopf,Testa di gatto rimpicciolita,Cabeça de gato encolhida
+FURNITURE_DESC_WALLMOUNTED_SHRUNKINHEAD,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_CLOUD,Облако,,Nube,Nuage,Wolke,Nuvola,Nuvem
+FURNITURE_DESC_WALLMOUNTED_CLOUD,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BLOCK1,Блокировать,,Bloque,Bloc,Block,Blocco,Bloco
+FURNITURE_DESC_WALLMOUNTED_BLOCK1,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BLOCK2,Блок вопросов,,Bloque sorpresa,Bloc interrogatif,Fragezeichenblock,Blocco punto interrogativo,Bloco de interrogação
+FURNITURE_DESC_WALLMOUNTED_BLOCK2,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BLOCK3,Кирпичный блок,,Bloque de ladrillos,Bloc de brique,Ziegelblock,Blocco mattoni,Bloco de tijolos
+FURNITURE_DESC_WALLMOUNTED_BLOCK3,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BALLOON5,Воздушный шар Д,,Globo D,Ballon&nbsp;D,Ballon D,Palloncino D,Balão D
+FURNITURE_DESC_WALLMOUNTED_BALLOON5,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BALLOON6,Воздушный шар Е,,Globo E,Ballon&nbsp;E,Ballon E,Palloncino E,Balão E
+FURNITURE_DESC_WALLMOUNTED_BALLOON6,,,,,,,
+FURNITURE_NAME_WALLMOUNTED_BALLOON7,Воздушный шар F,,Globo F,Ballon&nbsp;F,Ballon F,Palloncino F,Balão F
+FURNITURE_DESC_WALLMOUNTED_BALLOON7,,,,,,,
+FURNITURE_NAME_HANGING_FISH,Подвесной воздушный загрязнитель,,Apestador de techo,Viciateur d'air suspendu,Luftentfrischer,Deodorante sospeso,Apodrecedor de ar suspenso
+FURNITURE_DESC_HANGING_FISH,,,,,,,
+FURNITURE_NAME_HANGING_CATHEAD,Подвесной освежитель воздуха А,,Ambientador de techo A,Désodorisant suspendu&nbsp;A,Lufterfrischer A,Deodorante per ambienti sospeso A,Aromatizador de ar suspenso A
+FURNITURE_DESC_HANGING_CATHEAD,,,,,,,
+FURNITURE_NAME_HANGING_AIRFRESHINER,Подвесной освежитель воздуха B,,Ambientador de techo B,Désodorisant suspendu&nbsp;B,Lufterfrischer B,Deodorante per ambienti sospeso B,Aromatizador de ar suspenso B
+FURNITURE_DESC_HANGING_AIRFRESHINER,,,,,,,
+FURNITURE_NAME_CEILING_FAN,Потолочный вентилятор,,Ventilador de techo,Ventilateur de plafond,Deckenventilator,Ventilatore da soffitto,Ventilador de teto
+FURNITURE_DESC_CEILING_FAN,,,,,,,
+FURNITURE_NAME_CEILING_DISCOBALL,Диско-шар,,Bola de espejos,Boule à facettes,Discokugel,Palla da discoteca,Globo de discoteca
+FURNITURE_DESC_CEILING_DISCOBALL,,,,,,,
+FURNITURE_NAME_CEILING_CAGE,Подвесная клетка,,Jaula de techo,Cage suspendue,Hängekäfig,Gabbia sospesa,Gaiola pendurada
+FURNITURE_DESC_CEILING_CAGE,,,,,,,
+FURNITURE_NAME_SMALL_CANDLE_BLACK1,Красная Свеча А,,Vela roja A,Bougie rouge&nbsp;A,Rote Kerze A,Candela rossa A,Vela vermelha A
+FURNITURE_DESC_SMALL_CANDLE_BLACK1,,,,,,,
+FURNITURE_NAME_SMALL_CANDLE_BLACK2,Красная Свеча Б,,Vela roja B,Bougie rouge&nbsp;B,Rote Kerze B,Candela rossa B,Vela vermelha B
+FURNITURE_DESC_SMALL_CANDLE_BLACK2,,,,,,,
+FURNITURE_NAME_SMALL_CANDLE_BLACK3,Маленькая красная свеча А,,Vela roja pequeña A,Petite bougie rouge&nbsp;A,Kleine rote Kerze A,Candela rossa piccola A,Vela vermelha pequena A
+FURNITURE_DESC_SMALL_CANDLE_BLACK3,,,,,,,
+FURNITURE_NAME_SMALL_CANDLE_BLACK4,Маленькая красная свеча B,,Vela roja pequeña B,Petite bougie rouge&nbsp;B,Kleine rote Kerze B,Candela rossa piccola B,Vela vermelha pequena B
+FURNITURE_DESC_SMALL_CANDLE_BLACK4,,,,,,,
+FURNITURE_NAME_SMALL_CANDLE_WHITE1,Маленькая белая свеча А,,Vela blanca pequeña A,Petite bougie blanche&nbsp;A,Kleine weiße Kerze A,Candela bianca piccola A,Vela branca pequena A
+FURNITURE_DESC_SMALL_CANDLE_WHITE1,,,,,,,
+FURNITURE_NAME_SMALL_CANDLE_WHITE2,Маленькая белая свеча B,,Vela blanca pequeña B,Petite bougie blanche&nbsp;B,Kleine weiße Kerze B,Candela bianca piccola B,Vela branca pequena B
+FURNITURE_DESC_SMALL_CANDLE_WHITE2,,,,,,,
+FURNITURE_NAME_SMALL_CANDLE_WHITE3,Белая Свеча А,,Vela blanca A,Bougie blanche&nbsp;A,Weiße Kerze A,Candela bianca A,Vela branca A
+FURNITURE_DESC_SMALL_CANDLE_WHITE3,,,,,,,
+FURNITURE_NAME_SMALL_CANDLE_WHITE4,Белая Свеча Б,,Vela blanca B,Bougie blanche&nbsp;B,Weiße Kerze B,Candela bianca B,Vela branca B
+FURNITURE_DESC_SMALL_CANDLE_WHITE4,,,,,,,
+FURNITURE_NAME_SMALL_VASE1,Маленькая Ваза А,,Jarrón pequeño A,Petit vase&nbsp;A,Kleine Vase A,Vaso piccolo A,Vaso pequeno A
+FURNITURE_DESC_SMALL_VASE1,,,,,,,
+FURNITURE_NAME_SMALL_VASE2,Маленькая Ваза Б,,Jarrón pequeño B,Petit vase&nbsp;B,Kleine Vase B,Vaso piccolo B,Vaso pequeno B
+FURNITURE_DESC_SMALL_VASE2,,,,,,,
+FURNITURE_NAME_SMALL_VASE3,Маленькая Ваза С,,Jarrón pequeño C,Petit vase&nbsp;C,Kleine Vase C,Vaso piccolo C,Vaso pequeno C
+FURNITURE_DESC_SMALL_VASE3,,,,,,,
+FURNITURE_NAME_SMALL_TRASH_EGGS,Яичная скорлупа,,Cáscaras de huevo,Coquilles d'œuf,Eierschalen,Gusci d'uovo,Cascas de ovo
+FURNITURE_DESC_SMALL_TRASH_EGGS,,,,,,,
+FURNITURE_NAME_SMALL_TRASH_APPLE,Яблоко Ядро,,Corazón de manzana,Trognon de pomme,Apfelkern,Torsolo di mela,Maçã comida
+FURNITURE_DESC_SMALL_TRASH_APPLE,,,,,,,
+FURNITURE_NAME_SMALL_TRASH_BONE,Кость,,Hueso,Os,Knochen,Osso,Osso
+FURNITURE_DESC_SMALL_TRASH_BONE,,,,,,,
+FURNITURE_NAME_SMALL_TRASH_BANANA,Банановая кожура,,Piel de plátano,Peau de banane,Bananenschale,Buccia di banana,Casca de banana
+FURNITURE_DESC_SMALL_TRASH_BANANA,,,,,,,
+FURNITURE_NAME_SMALL_TRASH_CANS,Банки с газировкой,,Latas de refresco,Cannettes de soda,Limodosen,Lattine di bibite gassate,Latas de refrigerante
+FURNITURE_DESC_SMALL_TRASH_CANS,,,,,,,
+FURNITURE_NAME_SMALL_TRASH_BREAD,Старый тост,,Tostada vieja,Vieille tartine,Alter Toast,Toast vecchio,Torrada velha
+FURNITURE_DESC_SMALL_TRASH_BREAD,,,,,,,
+FURNITURE_NAME_SMALL_TRASH_CUP,Чашка супа,,Envase de sopa,Soupe instantanée,Suppenbecher,Bicchiere di zuppa,Sopa
+FURNITURE_DESC_SMALL_TRASH_CUP,,,,,,,
+FURNITURE_NAME_SMALL_TRASH_CHEESE,Сыр,,Queso,Fromage,Käse,Formaggio,Queijo
+FURNITURE_DESC_SMALL_TRASH_CHEESE,,,,,,,
+FURNITURE_NAME_SMALL_TRASH_BROKENBOTTLE,Маленькая разбитая бутылка,,Botella pequeña rota,Petite bouteille cassée,Kleine kaputte Flasche,Bottiglia rotta piccola,Garrafa quebrada pequena
+FURNITURE_DESC_SMALL_TRASH_BROKENBOTTLE,,,,,,,
+FURNITURE_NAME_SMALL_TRASH_MILK,Пустая коробка из-под молока,,Cartón de leche vacío,Brique de lait vide,Leere Milchpackung,Cartone del latte vuoto,Caixa de leite vazia
+FURNITURE_DESC_SMALL_TRASH_MILK,,,,,,,
+FURNITURE_NAME_SMALL_TRASH_CAN2,Банка газировки,,Lata de refresco,Cannette de soda,Limodose,Lattina di bibita gassata,Lata de refrigerante
+FURNITURE_DESC_SMALL_TRASH_CAN2,,,,,,,
+FURNITURE_NAME_SMALL_MEDS_MYSTERYBOTTLE,Стеклянная бутылка,,Botella de cristal,Bouteille en verre,Glasflasche,Bottiglia di vetro,Garrafa de vidro
+FURNITURE_DESC_SMALL_MEDS_MYSTERYBOTTLE,,,,,,,
+FURNITURE_NAME_SMALL_MEDS_COUGHSYRUP,Сироп от кашля,,Jarabe antitusivo,Sirop pour la toux,Hustensaft,Sciroppo per la tosse,Xarope de tosse
+FURNITURE_DESC_SMALL_MEDS_COUGHSYRUP,,,,,,,
+FURNITURE_NAME_SMALL_MEDS_PILLS1,Бутылка для таблеток,,Bote de pastillas,Flacon de pilules,Pillendose,Flacone di pillole,Frasco de pílulas
+FURNITURE_DESC_SMALL_MEDS_PILLS1,,,,,,,
+FURNITURE_NAME_SMALL_MEDS_PILLS2,Маленькая бутылочка для таблеток,,Bote pequeño de pastillas,Petit flacon de pilules,Kleine Pillendose,Flaconcino di pillole,Frasco de pílulas pequena
+FURNITURE_DESC_SMALL_MEDS_PILLS2,,,,,,,
+FURNITURE_NAME_SMALL_MEDS_MYSTERY2,Тайная медицина,,Medicina misteriosa,Médicament mystère,Mysteriöse Medizin,Medicina misteriosa,Remédio misterioso
+FURNITURE_DESC_SMALL_MEDS_MYSTERY2,,,,,,,
+FURNITURE_NAME_SMALL_MEDS_FISHOIL,Рыбий жир,,Aceite de pescado,Huile de poisson,Fischöl,Olio di pesce,Óleo de peixe
+FURNITURE_DESC_SMALL_MEDS_FISHOIL,,,,,,,
+FURNITURE_NAME_SMALL_MEDS_CATHEARTS,Банка кошачьих сердец,,Lata de corazones de gato,Boîte de cœurs de chat,Dose mit Katzenherzen,Lattina di cuori di gatto,Lata de corações de gato
+FURNITURE_DESC_SMALL_MEDS_CATHEARTS,,,,,,,
+FURNITURE_NAME_SMALL_BOTTLE_EMPTY,Пустая бутылка,,Botella vacía,Bouteille vide,Leere Flasche,Bottiglia vuota,Garrafa vazia
+FURNITURE_DESC_SMALL_BOTTLE_EMPTY,,,,,,,
+FURNITURE_NAME_SMALL_BOTTLE_FULL,Бутылка,,Botella,Bouteille,Flasche,Bottiglia,Garrafa
+FURNITURE_DESC_SMALL_BOTTLE_FULL,,,,,,,
+FURNITURE_NAME_SMALL_BOTTLE_2BOTTLES,Светящаяся бутылка,,Botella resplandeciente,Bouteille lumineuse,Leuchtende Flasche,Bottiglia luminescente,Garrafa brilhante
+FURNITURE_DESC_SMALL_BOTTLE_2BOTTLES,,,,,,,
+FURNITURE_NAME_SMALL_BOBBLE_DARKCAT,Базовый кошачий боббл,,Muñeco de gato básico,Figurine bobble chat de base,Katzenwackelkopf,Bobblehead gatto base,Bobblehead de gato básico
+FURNITURE_DESC_SMALL_BOBBLE_DARKCAT,,,,,,,
+FURNITURE_NAME_SMALL_BOBBLE_GUPPY,Гуппи Кот Боббл,,Muñeco de Guppy,Figurine bobble chat guppy,Guppy Katzenwackelkopf,Bobblehead gatto Guppy,Bobblehead de gato guppy
+FURNITURE_DESC_SMALL_BOBBLE_GUPPY,,,,,,,
+FURNITURE_NAME_SMALL_BOBBLE_MAD,Злой Кот Боббл,,Muñeco de gato enfadado,Figurine bobble chat fâché,Wütender Katzenwackelkopf,Bobblehead gatto arrabbiato,Bobblehead de gato irritado
+FURNITURE_DESC_SMALL_BOBBLE_MAD,,,,,,,
+FURNITURE_NAME_SMALL_BOBBLE_MONEY,Счастливый Кот Боббл,,Muñeco de gato afortunado,Figurine bobble chat chanceux,Glücklicher Katzenwackelkopf,Bobblehead gatto fortunato,Bobblehead de gato da sorte
+FURNITURE_DESC_SMALL_BOBBLE_MONEY,,,,,,,
+FURNITURE_NAME_SMALL_BOBBLE_HAPPY,Счастливый Кот Боббл,,Muñeco de gato feliz,Figurine bobble chat heureux,Fröhlicher Katzenwackelkopf,Bobblehead gatto felice,Bobblehead de gato feliz
+FURNITURE_DESC_SMALL_BOBBLE_HAPPY,,,,,,,
+FURNITURE_NAME_SMALL_BOBBLE_DAN,Synj Cat Bobble,,Muñeco de Synj,Figurine bobble chat Synj,Synj-Wackelkopf,Bobblehead gatto Synj,Bobblehead de gato synj
+FURNITURE_DESC_SMALL_BOBBLE_DAN,,,,,,,
+FURNITURE_NAME_SMALL_BOBBLE_ZOMBIE,Зомби Кот Боббл,,Muñeco de gatozombi,Figurine bobble chat zombie,Zombie-Katzenwackelkopf,Bobblehead gatto zombie,Bobblehead de gato zumbi
+FURNITURE_DESC_SMALL_BOBBLE_ZOMBIE,,,,,,,
+FURNITURE_NAME_SMALL_BOBBLE_GRUMP,Раздражительный кошачий шарик,,Muñeco gato irascible,Figurine bobble chat grognon,Genervter Katzenwackelkopf,Bobblehead gatto irritabile,Bobblehead de gato irritável
+FURNITURE_DESC_SMALL_BOBBLE_GRUMP,,,,,,,
+FURNITURE_NAME_SMALL_BOBBLE_ALONE,Одинокий кот Боббл,,Muñeco de gato solitario,Figurine bobble chat solitaire,Einsame Katze Wackelkopf,Bobblehead gatto solitario,Bobblehead de gato solitário
+FURNITURE_DESC_SMALL_BOBBLE_ALONE,,,,,,,
+FURNITURE_NAME_SMALL_BOBBLE_SPOTS,Пятнистый кот Боббл,,Muñeco de gato moteado,Figurine bobble chat à pois,Gefleckter Katzenwackelkopf,Bobblehead gatto maculato,Bobblehead de gato pintado
+FURNITURE_DESC_SMALL_BOBBLE_SPOTS,,,,,,,
+FURNITURE_NAME_SMALL_BOBBLE_DEVIL,Дьявольский кот Боббл,,Muñeco de gato diabólico,Figurine bobble chat démoniaque,Teufel-Katzenwackelkopf,Bobblehead gatto demone,Bobblehead de gato demoníaco
+FURNITURE_DESC_SMALL_BOBBLE_DEVIL,,,,,,,
+FURNITURE_NAME_SMALL_LAB_TANK1,Лабораторный резервуар А,,Tanque de laboratorio A,Réservoir de labo&nbsp;A,Labortank A,Serbatoio da laboratorio A,Tanque de laboratório A
+FURNITURE_DESC_SMALL_LAB_TANK1,,,,,,,
+FURNITURE_NAME_SMALL_LAB_TANK2,Лабораторный резервуар Б,,Tanque de laboratorio B,Réservoir de labo&nbsp;B,Labortank B,Serbatoio da laboratorio B,Tanque de laboratório B
+FURNITURE_DESC_SMALL_LAB_TANK2,,,,,,,
+FURNITURE_NAME_SMALL_LAB_JUG1,Лабораторный кувшин А,,Frasco de laboratorio A,Pot de labo&nbsp;A,Laborkrug A,Brocca da laboratorio A,Vidro de laboratório A
+FURNITURE_DESC_SMALL_LAB_JUG1,,,,,,,
+FURNITURE_NAME_SMALL_LAB_JUG2,Лабораторный кувшин Б,,Frasco de laboratorio B,Pot de labo&nbsp;B,Laborkrug B,Brocca da laboratorio B,Vidro de laboratório B
+FURNITURE_DESC_SMALL_LAB_JUG2,,,,,,,
+FURNITURE_NAME_SMALL_LAB_JUG3,Кувшин для отбеливателя,,Bote de lejía,Bouteille de javel,Krug mit Bleiche,Brocca di candeggina,Vidro de água sanitária
+FURNITURE_DESC_SMALL_LAB_JUG3,,,,,,,
+FURNITURE_NAME_SMALL_LAB_TESTTUBE,Пробирка,,Tubo de ensayo,Tube à essai,Reagenzglas,Provetta,Tubo de ensaio
+FURNITURE_DESC_SMALL_LAB_TESTTUBE,,,,,,,
+FURNITURE_NAME_SMALL_LAB_TESTTUBE2,Пробирки,,Tubos de ensayo,Tubes à essai,Reagenzgläser,Provette,Tubos de ensaio
+FURNITURE_DESC_SMALL_LAB_TESTTUBE2,,,,,,,
+FURNITURE_NAME_SMALL_LAB_FLASK,Кипящая колба,,Matraz de bola,Ballon d'ébullition,Kochkolben,Beuta da ebollizione,Balão de ebulição
+FURNITURE_DESC_SMALL_LAB_FLASK,,,,,,,
+FURNITURE_NAME_SMALL_LAB_FLASK2,Колба Эрленмейера,,Matraz Erlenmeyer,Vase d'Erlenmeyer,Erlenmeyerkolben,Beuta di Erlenmeyer,Frasco Erlenmeyer
+FURNITURE_DESC_SMALL_LAB_FLASK2,,,,,,,
+FURNITURE_NAME_SMALL_LAB_FLASK3,Маленький стакан,,Matraz pequeño,Petit bécher,Kleines Becherglas,Becher piccolo,Béquer pequeno
+FURNITURE_DESC_SMALL_LAB_FLASK3,,,,,,,
+FURNITURE_NAME_SMALL_LAB_FLASK4,Круглодонная колба,,Matraz de destilación,Ballon à fond rond,Kolben,Beuta a fondo tondo,Balão de fundo redondo
+FURNITURE_DESC_SMALL_LAB_FLASK4,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_ROOT,Корень мандрагоры,,Raíz de mandrágora,Racine de mandragore,Alraunwurzel,Radice di mandragora,Raiz de mandrágora
+FURNITURE_DESC_SMALL_FOOD_ROOT,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_LEMON,Лимон,,Limón,Citron,Zitrone,Limone,Limão
+FURNITURE_DESC_SMALL_FOOD_LEMON,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_ORANGE,Оранжевый,,Naranja,Orange,Orange,Arancia,Laranja
+FURNITURE_DESC_SMALL_FOOD_ORANGE,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_RADISH,Редис,,Rábano,Radis,Radieschen,Ravanello,Rabanete
+FURNITURE_DESC_SMALL_FOOD_RADISH,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_ONION,Лук,,Cebolla,Oignon,Zwiebel,Cipolla,Cebola
+FURNITURE_DESC_SMALL_FOOD_ONION,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_APPLE,Яблоко,,Manzana,Pomme,Apfel,Mela,Maçã
+FURNITURE_DESC_SMALL_FOOD_APPLE,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_SQUASH,Давить,,Calabacín,Courge,Kürbis,Zucca,Jerimum
+FURNITURE_DESC_SMALL_FOOD_SQUASH,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_EGGPLANT,Баклажан,,Berenjena,Aubergine,Aubergine,Melanzana,Beringela
+FURNITURE_DESC_SMALL_FOOD_EGGPLANT,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_BROCCOLI,Брокколи,,Brócoli,Brocoli,Brokkoli,Broccolo,Brócolis
+FURNITURE_DESC_SMALL_FOOD_BROCCOLI,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_PUMPKIN,Тыква,,Calabaza,Citrouille,Kürbis,Zucca,Abóbora
+FURNITURE_DESC_SMALL_FOOD_PUMPKIN,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_PINEAPPLE,Ананас,,Piña,Ananas,Ananas,Ananas,Abacaxi
+FURNITURE_DESC_SMALL_FOOD_PINEAPPLE,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_POTATO,Картошка,,Patata,Pomme de terre,Kartoffel,Patata,Batata
+FURNITURE_DESC_SMALL_FOOD_POTATO,,,,,,,
+FURNITURE_NAME_SMALL_DOLL_STACY,Стейси плюш,,Peluche de Stacy,Peluche Stacy,Stacy-Plüschtier,Peluche di Stacy,Pelúcia Stacy
+FURNITURE_DESC_SMALL_DOLL_STACY,,,,,,,
+FURNITURE_NAME_SMALL_DOLL_AETHER,Эфир плюш,,Peluche etéreo,Peluche Aether,Aether-Plüschtier,Peluche di Aether,Pelúcia Aether
+FURNITURE_DESC_SMALL_DOLL_AETHER,,,,,,,
+FURNITURE_NAME_SMALL_DOLL_DUKE,Герцог Мух Плюшевый,,Peluche del duque de las moscas,Peluche Duc des Mouches,Herzog der Fliegen-Plüschtier,Peluche del Duca delle Mosche,Pelúcia Duque das Moscas
+FURNITURE_DESC_SMALL_DOLL_DUKE,,,,,,,
+FURNITURE_NAME_SMALL_DOLL_GUPPY,Гуппи Плюшевые,,Peluche de Guppy,Peluche Guppy,Guppy-Plüschtier,Peluche di Guppy,Pelúcia Guppy
+FURNITURE_DESC_SMALL_DOLL_GUPPY,,,,,,,
+FURNITURE_NAME_SMALL_DOLL_GISH,Гиш плюш,,Peluche de Gish,Peluche Gish,Gish-Plüschtier,Peluche di Gish,Pelúcia Gish
+FURNITURE_DESC_SMALL_DOLL_GISH,,,,,,,
+FURNITURE_NAME_SMALL_DOLL_ISAAC,Исаак плюш,,Peluche de Isaac,Peluche Isaac,Isaac-Plüschtier,Peluche di Isaac,Pelúcia Isaac
+FURNITURE_DESC_SMALL_DOLL_ISAAC,,,,,,,
+FURNITURE_NAME_SMALL_DOLL_STEVEN,Стивен Плюш,,Peluche de Steven,Peluche Steven,Steven-Plüschtier,Peluche di Steven,Pelúcia Steven
+FURNITURE_DESC_SMALL_DOLL_STEVEN,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_GAMESYSTEM,Игровая система,,Videoconsola,Console de jeu,Spielkonsole,Console di gioco,Console
+FURNITURE_DESC_SMALL_ELECTRONICS_GAMESYSTEM,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_GAMEPAD,Геймпад,,Mando,Manette,Controller,Controller,Controle
+FURNITURE_DESC_SMALL_ELECTRONICS_GAMEPAD,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_SPEAKER,Маленький динамик,,Altavoz pequeño,Petite enceinte,Kleiner Lautsprecher,Altoparlante piccolo,Alto-falante pequeno
+FURNITURE_DESC_SMALL_ELECTRONICS_SPEAKER,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_MOUSE,Мышь,,Ratón,Souris,Maus,Mouse,Mouse
+FURNITURE_DESC_SMALL_ELECTRONICS_MOUSE,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_PHONE1,Ретро-телефон А,,Teléfono retro A,Téléphone rétro&nbsp;A,Retrotelefon A,Telefono rétro A,Telefone retrô A
+FURNITURE_DESC_SMALL_ELECTRONICS_PHONE1,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_PHONE2,Поворотный телефон B,,Teléfono con disco B,Téléphone à cadran&nbsp;B,Drehscheibentelefon B,Telefono a disco B,Telefone de disco B
+FURNITURE_DESC_SMALL_ELECTRONICS_PHONE2,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_PHONE3,Поворотный телефон C,,Teléfono con disco C,Téléphone à cadran&nbsp;C,Drehscheibentelefon C,Telefono a disco C,Telefone de disco C
+FURNITURE_DESC_SMALL_ELECTRONICS_PHONE3,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_OLDPHONE,Антикварный телефон А,,Teléfono antiguo A,Téléphone antique&nbsp;A,Antikes Telefon A,Telefono antico A,Telefone antigo A
+FURNITURE_DESC_SMALL_ELECTRONICS_OLDPHONE,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_OLDPHONE2,Антикварный телефон Б,,Teléfono antiguo B,Téléphone antique&nbsp;B,Antikes Telefon B,Telefono antico B,Telefone antigo B
+FURNITURE_DESC_SMALL_ELECTRONICS_OLDPHONE2,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_OLDPHONE3,Антикварный телефон C,,Teléfono antiguo C,Téléphone antique&nbsp;C,Antikes Telefon C,Telefono antico C,Telefone antigo C
+FURNITURE_DESC_SMALL_ELECTRONICS_OLDPHONE3,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_LIPPHONE,Губы Телефон,,Teléfono de labios,Téléphone lèvres,Lippentelefon,Telefono a forma di labbra,Telefone de lábios
+FURNITURE_DESC_SMALL_ELECTRONICS_LIPPHONE,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_DUCKPHONE,Утиный телефон,,Teléfono de pato,Téléphone canard,Ententelefon,Telefono a forma di anatra,Telefone de pato
+FURNITURE_DESC_SMALL_ELECTRONICS_DUCKPHONE,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_CELLPHONE,Мобильный телефон 90-х годов,,Móvil noventero,Portable des années&nbsp;90,90er-Handy,Cellulare anni '90,Celular dos anos 90
+FURNITURE_DESC_SMALL_ELECTRONICS_CELLPHONE,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_HANDRADIO,Ретро ручное радио,,Transistor retro,Radio portative rétro,Retro-Handradio,Radio portatile rétro,Rádio portátil retrô
+FURNITURE_DESC_SMALL_ELECTRONICS_HANDRADIO,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_HANDRADIO2,Антикварное ручное радио,,Transistor antiguo,Radio portative antique,Antikes Handradio,Radio portatile antica,Rádio portátil antigo
+FURNITURE_DESC_SMALL_ELECTRONICS_HANDRADIO2,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_WALKYTALKY,Рация,,Walkie-talkie,Talkie-walkie,Walkie-Talkie,Walkie-talkie,Walkie-Talkie
+FURNITURE_DESC_SMALL_ELECTRONICS_WALKYTALKY,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_BRAIN,Мозг Глорга,,Sesos de Glorg,Cerveau de Glorg,Glorgs Gehirn,Cervello di Glorg,Cérebro de Glorg
+FURNITURE_DESC_SMALL_ELECTRONICS_BRAIN,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_MYSTERIOUSSKULL,Эфирный череп,,Calavera etérea,Crâne éthéré,Ätherischer Schädel,Teschio etereo,Crânio etéreo
+FURNITURE_DESC_SMALL_ELECTRONICS_MYSTERIOUSSKULL,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_MOON,Маленький астероид,,Asteroide pequeño,Petit astéroïde,Kleiner Asteroid,Asteroide piccolo,Asteroide pequeno
+FURNITURE_DESC_SMALL_ELECTRONICS_MOON,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_OOZE,Канистра с слизью,,Tubo de cieno,Récipient de boue visqueuse,Schleimkanne,Contenitore di melma,Recipiente de exsudação
+FURNITURE_DESC_SMALL_ELECTRONICS_OOZE,,,,,,,
+FURNITURE_NAME_SMALL_JAR_DISEASES,Банка болезней,,Tarro con virus,Bocal de maladies,Glas voller Krankheitserreger,Barattolo di malattie,Pote de doenças
+FURNITURE_DESC_SMALL_JAR_DISEASES,,,,,,,
+FURNITURE_NAME_SMALL_JAR_EYEBALLS,Банка с глазными яблоками,,Tarro con ojos,Bocal de globes oculaires,Glas voller Augen,Barattolo di bulbi oculari,Pote de olhos
+FURNITURE_DESC_SMALL_JAR_EYEBALLS,,,,,,,
+FURNITURE_NAME_SMALL_JAR_HEART,Сердце в банке,,Corazón en un tarro,Cœur en bocal,Herz im Glas,Cuore in barattolo,Coração no pote
+FURNITURE_DESC_SMALL_JAR_HEART,,,,,,,
+FURNITURE_NAME_SMALL_JAR_SPIDER,Папочка с длинными ногами,,Araña patilarga,Bocal d'araignées,Weberknecht,Daddy Long Legs,Aranhiço
+FURNITURE_DESC_SMALL_JAR_SPIDER,,,,,,,
+FURNITURE_NAME_SMALL_JAR_FISH,Банка гуппи,,Tarro con pececillos,Bocal de guppys,Glas mit Guppies,Barattolo di Guppy,Pote de guppies
+FURNITURE_DESC_SMALL_JAR_FISH,,,,,,,
+FURNITURE_NAME_SMALL_JAR_FLYS,Банка с мухами,,Tarro con moscas,Bocal de mouches,Glas mit Fliegen,Barattolo di mosche,Pote de moscas
+FURNITURE_DESC_SMALL_JAR_FLYS,,,,,,,
+FURNITURE_NAME_SMALL_JAR_FAIRY,Фея в банке,,Hada en un tarro,Fée en bocal,Fee im Glas,Fata in barattolo,Fada no pote
+FURNITURE_DESC_SMALL_JAR_FAIRY,,,,,,,
+FURNITURE_NAME_SMALL_JAR_COINS,Банка Пенни,,Tarro con peniques,Bocal de centimes,Glas mit Münzen,Barattolo di penny,Pote de moedas
+FURNITURE_DESC_SMALL_JAR_COINS,,,,,,,
+FURNITURE_NAME_SMALL_JAR_NAILS,Банка с гвоздями,,Tarro con clavos,Bocal d'ongles,Glas mit Nägeln,Barattolo di chiodi,Pote de pregos
+FURNITURE_DESC_SMALL_JAR_NAILS,,,,,,,
+FURNITURE_NAME_SMALL_JAR_GHOST,Чернильный,,Oscurita,Inky,Inky,Inchiostrello,Inky
+FURNITURE_DESC_SMALL_JAR_GHOST,,,,,,,
+FURNITURE_NAME_SMALL_JAR_EMPTY,Мейсон Джар,,Tarro de conserva,Bocal de conserve,Einmachglas,Barattolo per cibo,Pote de construção
+FURNITURE_DESC_SMALL_JAR_EMPTY,,,,,,,
+FURNITURE_NAME_SMALL_JAR_EMPTY2,Медицинская банка,,Tarro médico,Bocal médical,Medizinglas,Barattolo medico,Pote médico
+FURNITURE_DESC_SMALL_JAR_EMPTY2,,,,,,,
+FURNITURE_NAME_SMALL_JAR_EMPTY3,Пинтовая банка,,Tarro de cristal,Pinte,Großes Glas,Barattolo di vetro,Pote de meio litro
+FURNITURE_DESC_SMALL_JAR_EMPTY3,,,,,,,
+FURNITURE_NAME_SMALL_GEM,Маленький драгоценный камень,,Gema pequeña,Petite gemme,Kleiner Edelstein,Gemma piccola,Gema pequena
+FURNITURE_DESC_SMALL_GEM,,,,,,,
+FURNITURE_NAME_SMALL_LOTION,Лосьон,,Loción,Lotion,Creme,Lozione,Loção
+FURNITURE_DESC_SMALL_LOTION,,,,,,,
+FURNITURE_NAME_SMALL_TISSUES,Ткани,,Pañuelos,Mouchoirs,Taschentücher,Fazzoletti,Lenços
+FURNITURE_DESC_SMALL_TISSUES,,,,,,,
+FURNITURE_NAME_SMALL_PICTURE_SPOON,Маленькая фоторамка А,,Marco pequeño A,Petit cadre photo&nbsp;A,Kleiner Bilderrahmen A,Cornice piccola A,Moldura pequena A
+FURNITURE_DESC_SMALL_PICTURE_SPOON,,,,,,,
+FURNITURE_NAME_SMALL_PICTURE_CAT,Маленькая фоторамка B,,Marco pequeño B,Petit cadre photo&nbsp;B,Kleiner Bilderrahmen B,Cornice piccola B,Moldura pequena B
+FURNITURE_DESC_SMALL_PICTURE_CAT,,,,,,,
+FURNITURE_NAME_SMALL_PICTURE_CAN,Маленькая фоторамка C,,Marco pequeño C,Petit cadre photo&nbsp;C,Kleiner Bilderrahmen C,Cornice piccola C,Moldura pequena C
+FURNITURE_DESC_SMALL_PICTURE_CAN,,,,,,,
+FURNITURE_NAME_SMALL_ALARMCLOCK1,Цифровой будильник,,Despertador digital,Réveil électronique,Digitaler Wecker,Sveglia digitale,Rádio-relógio digital
+FURNITURE_DESC_SMALL_ALARMCLOCK1,,,,,,,
+FURNITURE_NAME_SMALL_ALARMCLOCK2,Будильник,,Despertador,Réveil,Wecker,Sveglia,Rádio-relógio
+FURNITURE_DESC_SMALL_ALARMCLOCK2,,,,,,,
+FURNITURE_NAME_SMALL_PILLBOTTLE,Маленькая бутылочка для таблеток,,Bote pequeño de pastillas,Petit flacon de pilules,Kleine Pillendose,Flaconcino per pillole,Frasco de pílulas pequeno
+FURNITURE_DESC_SMALL_PILLBOTTLE,,,,,,,
+FURNITURE_NAME_SMALL_WATERBOTTLE,Бутылка с водой,,Botella de agua,Bouteille d'eau,Wasserflasche,Bottiglia d'acqua,Garrafa de água
+FURNITURE_DESC_SMALL_WATERBOTTLE,,,,,,,
+FURNITURE_NAME_SMALL_MILK,Молочный кувшин,,Lechera,Carafe de lait,Milchkrug,Brocca di latte,Garrafa de leite
+FURNITURE_DESC_SMALL_MILK,,,,,,,
+FURNITURE_NAME_SMALL_KETTLE,Чайник,,Hervidor,Bouilloire,Wasserkocher,Bollitore,Chaleira
+FURNITURE_DESC_SMALL_KETTLE,,,,,,,
+FURNITURE_NAME_SMALL_BOWLINGBALL,Шар для боулинга,,Bola de bolos,Boule de bowling,Bowlingkugel,Palla da bowling,Bola de boliche
+FURNITURE_DESC_SMALL_BOWLINGBALL,,,,,,,
+FURNITURE_NAME_SMALL_PIN,Кегля для боулинга,,Bolo,Quille de bowling,Bowlingpin,Birillo da bowling,Pino de boliche
+FURNITURE_DESC_SMALL_PIN,,,,,,,
+FURNITURE_NAME_SMALL_MUG,Кружка,,Taza,Mug,Becher,Tazza,Caneca
+FURNITURE_DESC_SMALL_MUG,,,,,,,
+FURNITURE_NAME_SMALL_PENCUP,Кубок ручки,,Portalápices,Tasse de stylos,Stiftebecher,Portapenne,Caneca de canetas
+FURNITURE_DESC_SMALL_PENCUP,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_SAUSAGE,Колбаса,,Salchicha,Saucisse,Wurst,Salsiccia,Salsicha
+FURNITURE_DESC_SMALL_FOOD_SAUSAGE,,,,,,,
+FURNITURE_NAME_SMALL_DEADRAT,Мертвая крыса,,Rata muerta,Rat mort,Tote Ratte,Ratto morto,Rato morto
+FURNITURE_DESC_SMALL_DEADRAT,,,,,,,
+FURNITURE_NAME_SMALL_BLACKBOX,Черный ящик,,Caja negra,Boîte noire,Schwarze Box,Scatola nera,Caixa preta
+FURNITURE_DESC_SMALL_BLACKBOX,,,,,,,
+FURNITURE_NAME_SMALL_EYEBALL,глазное яблоко,,Ojo,Globe oculaire,Augapfel,Bulbo oculare,Globo ocular
+FURNITURE_DESC_SMALL_EYEBALL,,,,,,,
+FURNITURE_NAME_SMALL_PERFUME,Духи,,Perfume,Parfum,Parfüm,Profumo,Perfume
+FURNITURE_DESC_SMALL_PERFUME,,,,,,,
+FURNITURE_NAME_SMALL_JAR_TADPOLE,Головастик в банке,,Renacuajo en un tarro,Têtard en bocal,Kaulquappe im Glas,Girino in barattolo,Girino no pote
+FURNITURE_DESC_SMALL_JAR_TADPOLE,,,,,,,
+FURNITURE_NAME_SMALL_JUG,Кувшин,,Jarra,Carafe,Krug,Brocca,Jarro
+FURNITURE_DESC_SMALL_JUG,,,,,,,
+FURNITURE_NAME_SMALL_COUCH,Игрушечный диван,,Sofá de juguete,Canapé jouet,Spielzeugsofa,Divano giocattolo,Sofá de brinquedo
+FURNITURE_DESC_SMALL_COUCH,,,,,,,
+FURNITURE_NAME_SMALL_FRIGE,Игрушечный холодильник,,Nevera de juguete,Frigo jouet,Spielzeugkühlschrank,Frigo giocattolo,Geladeira de brinquedo
+FURNITURE_DESC_SMALL_FRIGE,,,,,,,
+FURNITURE_NAME_SMALL_SINK,Игрушечная раковина,,Lavabo de juguete,Évier jouet,Spielzeugwaschbecken,Lavandino giocattolo,Pia de brinquedo
+FURNITURE_DESC_SMALL_SINK,,,,,,,
+FURNITURE_NAME_SMALL_STOVE,Игрушечная печь,,Hornillo de juguete,Cuisinière jouet,Spielzeugofen,Stufa giocattolo,Fogão de brinquedo
+FURNITURE_DESC_SMALL_STOVE,,,,,,,
+FURNITURE_NAME_SMALL_CRATE,Игрушечный ящик,,Caja de juguete,Caisse jouet,Spielzeugkiste,Cassa giocattolo,Caixa de brinquedo
+FURNITURE_DESC_SMALL_CRATE,,,,,,,
+FURNITURE_NAME_SMALL_BED,Игрушечная кровать,,Cama de juguete,Lit jouet,Spielzeugbett,Letto giocattolo,Cama de brinquedo
+FURNITURE_DESC_SMALL_BED,,,,,,,
+FURNITURE_NAME_SMALL_SIDETABLE,Игрушечный стол,,Mesa de juguete,Table jouet,Spielzeugtisch,Tavolo giocattolo,Mesa de brinquedo
+FURNITURE_DESC_SMALL_SIDETABLE,,,,,,,
+FURNITURE_NAME_SMALL_SHELF,Полка для игрушек,,Estante de juguete,Étagère jouet,Spielzeugregal,Scaffale giocattolo,Estante de brinquedo
+FURNITURE_DESC_SMALL_SHELF,,,,,,,
+FURNITURE_NAME_SMALL_PIGGYBANK,Копилка,,Hucha,Tirelire cochon,Sparschwein,Salvadanaio,Porquinho
+FURNITURE_DESC_SMALL_PIGGYBANK,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_CUPCAKE,Кекс,,Magdalena,Cupcake,Cupcake,Cupcake,Cupcake
+FURNITURE_DESC_SMALL_FOOD_CUPCAKE,,,,,,,
+FURNITURE_NAME_SMALL_FOOD_CUPCAKE2,Шоколадный кекс,,Magdalena de chocolate,Cupcake au chocolat,Schokocupcake,Cupcake al cioccolato,Cupcake de chocolate
+FURNITURE_DESC_SMALL_FOOD_CUPCAKE2,,,,,,,
+FURNITURE_NAME_SMALL_MUG2,Высокая кружка,,Taza larga,Grand mug,Großer Becher,Tazza grande,Caneca alta
+FURNITURE_DESC_SMALL_MUG2,,,,,,,
+FURNITURE_NAME_SMALL_ELECTRONICS_JOYSTICK,Джойстик,,Joystick,Joystick,Joystick,Joystick,Joystick
+FURNITURE_DESC_SMALL_ELECTRONICS_JOYSTICK,,,,,,,
+FURNITURE_NAME_SMALL_BELL,Ринг Белл,,Timbre,Sonnette,Glöckchen,Campanello,Sino de campainha
+FURNITURE_DESC_SMALL_BELL,,,,,,,
+FURNITURE_NAME_SMALL_IRON,Железо,,Plancha,Fer,Bügeleisen,Ferro da stiro,Ferro
+FURNITURE_DESC_SMALL_IRON,,,,,,,
+FURNITURE_NAME_SMALL_SNOWGLOBE,Маленький снежный шар,,Bola de nieve pequeña,Petite boule à neige,Kleine Schneekugel,Palla di neve piccola,Globo de neve pequeno
+FURNITURE_DESC_SMALL_SNOWGLOBE,,,,,,,
+FURNITURE_NAME_SMALL_SHELL,Раковина,,Concha,Conque,Schneckenmuschel,Conchiglia,Concha
+FURNITURE_DESC_SMALL_SHELL,,,,,,,
+FURNITURE_NAME_SMALL_BIGEGG,Большое Яйцо,,Huevo grande,Gros œuf,Großes Ei,Uovo grande,Ovo grande
+FURNITURE_DESC_SMALL_BIGEGG,,,,,,,
+FURNITURE_NAME_SMALL_LETTERBLOCK1,Буквенный блок,,Cubo con letra,Bloc de lettre,Buchstabenblock,Cubo con lettera,Bloco de letra
+FURNITURE_DESC_SMALL_LETTERBLOCK1,,,,,,,
+FURNITURE_NAME_SMALL_LETTERBLOCK2,Буквенный блок,,Cubo con letra,Bloc de lettre,Buchstabenblock,Cubo con lettera,Bloco de letra
+FURNITURE_DESC_SMALL_LETTERBLOCK2,,,,,,,
+FURNITURE_NAME_SMALL_LETTERBLOCK3,Буквенный блок,,Cubo con letra,Bloc de lettre,Buchstabenblock,Cubo con lettera,Bloco de letra
+FURNITURE_DESC_SMALL_LETTERBLOCK3,,,,,,,
+FURNITURE_NAME_SMALL_LETTERBLOCK4,Буквенный блок,,Cubo con letra,Bloc de lettre,Buchstabenblock,Cubo con lettera,Bloco de letra
+FURNITURE_DESC_SMALL_LETTERBLOCK4,,,,,,,
+FURNITURE_NAME_SMALL_LETTERBLOCK5,Буквенный блок,,Cubo con letra,Bloc de lettre,Buchstabenblock,Cubo con lettera,Bloco de letra
+FURNITURE_DESC_SMALL_LETTERBLOCK5,,,,,,,
+FURNITURE_NAME_SMALL_LETTERBLOCK6,Буквенный блок,,Cubo con letra,Bloc de lettre,Buchstabenblock,Cubo con lettera,Bloco de letra
+FURNITURE_DESC_SMALL_LETTERBLOCK6,,,,,,,
+FURNITURE_NAME_SMALL_LETTERBLOCK7,Буквенный блок,,Cubo con letra,Bloc de lettre,Buchstabenblock,Cubo con lettera,Bloco de letra
+FURNITURE_DESC_SMALL_LETTERBLOCK7,,,,,,,
+FURNITURE_NAME_SMALL_LETTERBLOCK8,Буквенный блок,,Cubo con letra,Bloc de lettre,Buchstabenblock,Cubo con lettera,Bloco de letra
+FURNITURE_DESC_SMALL_LETTERBLOCK8,,,,,,,
+FURNITURE_NAME_SMALL_RUBBERDUCK,Резиновая утка,,Patito de goma,Canard en plastique,Gummiente,Anatra di gomma,Pato de borracha
+FURNITURE_DESC_SMALL_RUBBERDUCK,,,,,,,
+FURNITURE_NAME_SMALL_WOBBLEBIRD,Качающаяся птица,,Pajarito bebedor,Oiseau balancier,Wackelvogel,Uccellino oscillante,Pássaro oscilante
+FURNITURE_DESC_SMALL_WOBBLEBIRD,,,,,,,
+FURNITURE_NAME_SMALL_90SPHONE,Телефон 90-х А,,Teléfono noventero A,Téléphone des années&nbsp;90&nbsp;A,90er-Telefon A,Telefono anni '90 A,Telefone dos anos 90 A
+FURNITURE_DESC_SMALL_90SPHONE,,,,,,,
+FURNITURE_NAME_SMALL_90SPHONE2,Телефон 90-х Б,,Teléfono noventero B,Téléphone des années&nbsp;90&nbsp;B,90er-Telefon B,Telefono anni '90 B,Telefone dos anos 90 B
+FURNITURE_DESC_SMALL_90SPHONE2,,,,,,,
+FURNITURE_NAME_SMALL_KNOCKER,молоток,,Péndulo,Pendule de Newton,,Battente,Aldrava
+FURNITURE_DESC_SMALL_KNOCKER,,,,,,,
