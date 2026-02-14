@@ -1,185 +1,185 @@
 ﻿KEY,en,notes,sp,fr,de,it,pt-br
-TEAMNAME_FORMAT,{Adjective} {Nouns},"one adjective and one noun are chosen at random. If this is impossible to make work in a language, then just change the format to say ""The Cats"", or make the adjectives empty and randomize some teamnames in the Noun slots",Los {Nouns} {Adjective},Les {Nouns} {Adjective},Die {Adjective} {Nouns},{Nouns} {Adjective},Os {Nouns} {Adjective}
+TEAMNAME_FORMAT,The {Adjective} {Nouns},"one adjective and one noun are chosen at random. If this is impossible to make work in a language, then just change the format to say ""The Cats"", or make the adjectives empty and randomize some teamnames in the Noun slots",Los {Nouns} {Adjective},Les {Nouns} {Adjective},Die {Adjective} {Nouns},{Nouns} {Adjective},{Nouns} {Adjective}
 TEAMNAME_FORMAT2,{Adjective} {Nouns},"if the adjective is prepended with ""format2|"" then the team name will use this format instead of the default one",{Nouns} {Adjective},{Nouns} {Adjective},Die {Adjective}-{Nouns},{Adjective} {Nouns},{Nouns} {Adjective}
 ,,"if more than 2 formats are needed for a language, I can add more (just let me know).",,,,,
 ,,"nouns may be prepended with the text ""singular|"" (ex if the noun is Team or Sqaud instead of Cats). This changes the grammar in the embark/return/fail cutscenes (ex: ""{Teamname} Returns Home"" vs {Teamname} Return Home"")",,,,,
-TEAMNAME_ADJECTIVE_FIGHTER0,Сильный,"these do not need to be strictly literal translations, you can be creative with them",Fuertes,forts|fortes,Starken,Forti,Fortes
-TEAMNAME_ADJECTIVE_FIGHTER1,Тупой,,Tontos,idiots|idiotes,Blöden,Tontoloni|Tontolone,Burros
-TEAMNAME_ADJECTIVE_FIGHTER2,Мощный,,Poderosos,puissants|puissantes,Garstigen,Potenti,Poderosos
-TEAMNAME_ADJECTIVE_FIGHTER3,Могучий,,Imponentes,vaillants|vaillantes,Mächtigen,Possenti,Potentes
-TEAMNAME_ADJECTIVE_FIGHTER4,Элита,,de Élite,d'élite,format2|Elite,D'élite,de Elite
-TEAMNAME_ADJECTIVE_FIGHTER5,Свол,,Cachas,musclés|musclées,Pumpenden,Pompati|Pompate,Inchados
+TEAMNAME_ADJECTIVE_FIGHTER0,Сильные,"these do not need to be strictly literal translations, you can be creative with them",Fuertes,forts|fortes,Starken,Forti,Fortes
+TEAMNAME_ADJECTIVE_FIGHTER1,Тупые,,Tontos,idiots|idiotes,Blöden,Tontoloni|Tontolone,Burros|Burras
+TEAMNAME_ADJECTIVE_FIGHTER2,Мощные,,Poderosos,puissants|puissantes,Garstigen,Potenti,Poderosos|Poderosas
+TEAMNAME_ADJECTIVE_FIGHTER3,Грозные,,Imponentes,vaillants|vaillantes,Mächtigen,Possenti,Potentes
+TEAMNAME_ADJECTIVE_FIGHTER4,Элитные,,de Élite,d'élite,format2|Elite,D'élite,de Elite
+TEAMNAME_ADJECTIVE_FIGHTER5,Качкастые,,Cachas,musclés|musclées,Pumpenden,Pompati|Pompate,Inchados|Inchadas
 TEAMNAME_ADJECTIVE_FIGHTER6,Альфа,,Alfa,mâles alpha|femelles alpha,format2|Alpha,Alfa,Alfas
-TEAMNAME_ADJECTIVE_FIGHTER7,энергичный,,Contundentes,percutants|percutantes,Schlagfertigen,Bizzosi|Bizzose,Impactantes
-TEAMNAME_ADJECTIVE_FIGHTER8,в синяках,,Magullados,amochés|amochées,Verprellten,Lividi|Livide,Contundidos
-TEAMNAME_ADJECTIVE_FIGHTER9,Борьба,,Peleones,bagarreurs|bagarreuses,Kriegerischen,Rissosi|Rissose,Lutadores
-TEAMNAME_ADJECTIVE_FIGHTER10,Жесткий,,Duros,balèzes,Zähen,Duri|Dure,Resistentes
-TEAMNAME_ADJECTIVE_FIGHTER11,дерзкий,,Fanfarrones,prétentieux|prétentieuses,Frechen,Spavaldi|Spavalde,Arrogantes
-TEAMNAME_ADJECTIVE_FIGHTER12,Дим,,Atontados,bêtes,Zurückgebliebenen,Ottusi|Ottuse,Escuros
-TEAMNAME_ADJECTIVE_FIGHTER13,Задумчивый,,Amenazadores,menaçants|menaçantes,Grüblerischen,Cupi,Melancólicos
-TEAMNAME_ADJECTIVE_HUNTER0,Пациент,,Pacientes,patients|patientes,Geduldigen,Pazienti,Pacientes
-TEAMNAME_ADJECTIVE_HUNTER1,Точный,,Precisos,précis|précises,Peniblen,Precisi|Precise,Precisos
-TEAMNAME_ADJECTIVE_HUNTER2,Сосредоточенный,,Concentrados,concentrés|concentrées,Konzentrierten,Concentrati|Concentrate,Concentrados
-TEAMNAME_ADJECTIVE_HUNTER3,Острая стрельба,,Certeros,flingueurs|flingueuses,Adleräugigen,Attenti|Attente,Atiradores de Elite
-TEAMNAME_ADJECTIVE_HUNTER4,Паршивый,,Sarnosos,galeux|galeuses,Räudigen,Rognosi|Rognose,Improvisados
-TEAMNAME_ADJECTIVE_HUNTER5,Заражённый,,Infestados,infestés|infestées,Infizierten,Infestati|Infestate,Infestados
-TEAMNAME_ADJECTIVE_HUNTER6,Дальний бой,,a Distancia,organisés|organisées,Fernkämpfenden,Tiratori|Tiratrici,Distantes
-TEAMNAME_ADJECTIVE_HUNTER7,Захват,,Capturadores,piégeurs|piégeuses,Fallenstellenden,Insidiosi|Insidiose,Astutos
-TEAMNAME_ADJECTIVE_HUNTER8,Кин,,Agudos,enthousiastes,Eifrigen,Acuti|Acute,Afiados
-TEAMNAME_ADJECTIVE_HUNTER9,Уайлдинг,,Salvajes,déchaînés|déchaînées,Wilden,Scatenati|Scatenate,Primitivos
-TEAMNAME_ADJECTIVE_HUNTER10,неприрученный,,Indómitos,indomptables,Ungezähmten,Indomiti|Indomite,Indomáveis
-TEAMNAME_ADJECTIVE_HUNTER11,Открытый,,Intrépidos,du plein air,format2|Outdoor,Esterni|Esterne,Rueiros
-TEAMNAME_ADJECTIVE_MEDIC0,Забота,,Bondadosos,attentionnés|attentionnées,Gütigen,Premurosi|Premurose,Carinhosos
-TEAMNAME_ADJECTIVE_MEDIC1,любящий,,Afectuosos,aimants|aimantes,Lieben,Affettuosi|Affettuose,Amorosos
-TEAMNAME_ADJECTIVE_MEDIC2,почтительный,,Respetuosos,révérencieux|révérencieuses,Ehrfürchtigen,Riverenti,Reverentes
-TEAMNAME_ADJECTIVE_MEDIC3,Святой,,Sacros,saints|saintes,Heiligen,Sacri|Sacre,Sagrados
-TEAMNAME_ADJECTIVE_MEDIC4,Благочестивый,,Piadosos,pieux|pieuses,Frommen,Pii|Pie,Piedosos
-TEAMNAME_ADJECTIVE_MEDIC5,Набожный,,Devotos,dévots|dévotes,Gläubigen,Devoti|Devote,Devotos
-TEAMNAME_ADJECTIVE_MEDIC6,благочестивый,,Religiosos,vertueux|vertueuses,Gottgleichen,Celestiali,Divinos
-TEAMNAME_ADJECTIVE_MEDIC7,Праведный,,Honrados,intègres,Gerechten,Giusti|Giuste,Justos
-TEAMNAME_ADJECTIVE_MEDIC8,Божественный,,Divinos,divins|divines,Göttlichen,Divini,Divinos
+TEAMNAME_ADJECTIVE_FIGHTER7,Пробивные,,Contundentes,percutants|percutantes,Schlagfertigen,Bizzosi|Bizzose,Impactantes
+TEAMNAME_ADJECTIVE_FIGHTER8,Синячки,,Magullados,amochés|amochées,Verprellten,Lividi|Livide,Contundidos|Contundidas
+TEAMNAME_ADJECTIVE_FIGHTER9,Боевые,,Peleones,bagarreurs|bagarreuses,Kriegerischen,Rissosi|Rissose,Lutadores|Lutadoras
+TEAMNAME_ADJECTIVE_FIGHTER10,Жёсткие,,Duros,balèzes,Zähen,Duri|Dure,Resistentes
+TEAMNAME_ADJECTIVE_FIGHTER11,Наглые,,Fanfarrones,prétentieux|prétentieuses,Frechen,Spavaldi|Spavalde,Arrogantes
+TEAMNAME_ADJECTIVE_FIGHTER12,Тупорылые,,Atontados,bêtes,Zurückgebliebenen,Ottusi|Ottuse,Obtusos|Obtusas
+TEAMNAME_ADJECTIVE_FIGHTER13,Мрачные,,Amenazadores,menaçants|menaçantes,Grüblerischen,Cupi,Melancólicos|Melancólicas
+TEAMNAME_ADJECTIVE_HUNTER0,Терпеливые,,Pacientes,patients|patientes,Geduldigen,Pazienti,Pacientes
+TEAMNAME_ADJECTIVE_HUNTER1,Точные,,Precisos,précis|précises,Peniblen,Precisi|Precise,Precisos|Precisas
+TEAMNAME_ADJECTIVE_HUNTER2,Сосредоточенные,,Concentrados,concentrés|concentrées,Konzentrierten,Concentrati|Concentrate,Concentrados|Concentradas
+TEAMNAME_ADJECTIVE_HUNTER3,Меткие,,Certeros,flingueurs|flingueuses,Adleräugigen,Attenti|Attente,Certeiros|Certeiras
+TEAMNAME_ADJECTIVE_HUNTER4,Лохматые,,Sarnosos,galeux|galeuses,Räudigen,Rognosi|Rognose,Mambembes
+TEAMNAME_ADJECTIVE_HUNTER5,Заражённые,,Infestados,infestés|infestées,Infizierten,Infestati|Infestate,Infestados|Infestadas
+TEAMNAME_ADJECTIVE_HUNTER6,Дальнобойные,,a Distancia,organisés|organisées,Fernkämpfenden,Tiratori|Tiratrici,Distantes
+TEAMNAME_ADJECTIVE_HUNTER7,Ловушколовы,,Capturadores,piégeurs|piégeuses,Fallenstellenden,Insidiosi|Insidiose,Astutos|Astutas
+TEAMNAME_ADJECTIVE_HUNTER8,Проницательные,,Agudos,enthousiastes,Eifrigen,Acuti|Acute,Afiados|Afiadas
+TEAMNAME_ADJECTIVE_HUNTER9,Дикие,,Salvajes,déchaînés|déchaînées,Wilden,Scatenati|Scatenate,Primitivos|Primitivas
+TEAMNAME_ADJECTIVE_HUNTER10,Необузданные,,Indómitos,indomptables,Ungezähmten,Indomiti|Indomite,Indomáveis
+TEAMNAME_ADJECTIVE_HUNTER11,Полевые,,Intrépidos,du plein air,format2|Outdoor,Esterni|Esterne,Rueiros|Rueiras
+TEAMNAME_ADJECTIVE_MEDIC0,Заботливые,,Bondadosos,attentionnés|attentionnées,Gütigen,Premurosi|Premurose,Carinhosos|Carinhosas
+TEAMNAME_ADJECTIVE_MEDIC1,Любящие,,Afectuosos,aimants|aimantes,Lieben,Affettuosi|Affettuose,Amorosos|Amorosas
+TEAMNAME_ADJECTIVE_MEDIC2,Благоговейный,,Respetuosos,révérencieux|révérencieuses,Ehrfürchtigen,Riverenti,Reverentes
+TEAMNAME_ADJECTIVE_MEDIC3,Святой,,Sacros,saints|saintes,Heiligen,Sacri|Sacre,Sagrados|Sagradas
+TEAMNAME_ADJECTIVE_MEDIC4,Набожный,,Piadosos,pieux|pieuses,Frommen,Pii|Pie,Piedosos|Piedosas
+TEAMNAME_ADJECTIVE_MEDIC5,Верующий,,Devotos,dévots|dévotes,Gläubigen,Devoti|Devote,Devotos|Devotas
+TEAMNAME_ADJECTIVE_MEDIC6,Божественный,,Religiosos,vertueux|vertueuses,Gottgleichen,Celestiali,Virtuosos|Virtuosas
+TEAMNAME_ADJECTIVE_MEDIC7,Праведный,,Honrados,intègres,Gerechten,Giusti|Giuste,Justos|Justas
+TEAMNAME_ADJECTIVE_MEDIC8,Божий,,Divinos,divins|divines,Göttlichen,Divini,Divinos|Divinas
 TEAMNAME_ADJECTIVE_MEDIC9,Верный,,Leales,croyants|croyantes,Getreuen,Credenti,Fiéis
-TEAMNAME_ADJECTIVE_MEDIC10,Помазанный,,Ungidos,consacrés|consacrées,Gesalbten,Consacrati|Consacrate,Abençoados
-TEAMNAME_ADJECTIVE_MAGE0,Волшебный,,Mágicos,magiques,Magischen,Magici|Magiche,Mágicos
-TEAMNAME_ADJECTIVE_MAGE1,Элементаль,,Elementales,élémentaires,Elementaren,Elementali,Elementais
-TEAMNAME_ADJECTIVE_MAGE2,настроенный,,en Armonía,harmonisés|harmonisées,Eingestimmten,Armonizzati|Armonizzate,Sintonizados
-TEAMNAME_ADJECTIVE_MAGE3,Заклинание Слингин,,Hechiceros,prestidigitateurs|prestidigitatrices,Zauberhaften,Incantatori|Incantatrici,Lançadores de Feitiços
-TEAMNAME_ADJECTIVE_MAGE4,Большой Мозговой,,Inteligentes,intellos,Hyperintelligenten,Cervelloni|Cervellone,Super Inteligentes
-TEAMNAME_ADJECTIVE_MAGE5,Умный,,Listos,futés|futées,Schlauen,Svegli|Sveglie,Espertos
-TEAMNAME_ADJECTIVE_MAGE6,Зачарованный,,Encantados,enchantés|enchantées,Verzauberten,Incantati|Incantate,Encantados
-TEAMNAME_ADJECTIVE_MAGE7,Зачарованный,,Hechizados,ensorcelés|ensorcelées,Gebannten,Stregati|Stregate,Enfeitiçados
-TEAMNAME_ADJECTIVE_MAGE8,Мана заполнена,,de Maná,pourvus de mana|pourvues de mana,Magieerfüllten,del Mana,Cheios de Mana
-TEAMNAME_ADJECTIVE_MAGE9,Академический,,Académicos,académiciens|académiciennes,Akademischen,Accademici|Accademiche,Acadêmicos
+TEAMNAME_ADJECTIVE_MEDIC10,Помазанный,,Ungidos,consacrés|consacrées,Gesalbten,Consacrati|Consacrate,Abençoados|Abençoadas
+TEAMNAME_ADJECTIVE_MAGE0,Магический,,Mágicos,magiques,Magischen,Magici|Magiche,Mágicos|Mágicas
+TEAMNAME_ADJECTIVE_MAGE1,Стихийный,,Elementales,élémentaires,Elementaren,Elementali,Elementais
+TEAMNAME_ADJECTIVE_MAGE2,Настроенный,,en Armonía,harmonisés|harmonisées,Eingestimmten,Armonizzati|Armonizzate,Sintonizados|Sintonizadas
+TEAMNAME_ADJECTIVE_MAGE3,Заклинатель,,Hechiceros,prestidigitateurs|prestidigitatrices,Zauberhaften,Incantatori|Incantatrici,Feiticeiros|Feiticeiras
+TEAMNAME_ADJECTIVE_MAGE4,Башковитый,,Inteligentes,intellos,Hyperintelligenten,Cervelloni|Cervellone,Geniais
+TEAMNAME_ADJECTIVE_MAGE5,Умный,,Listos,futés|futées,Schlauen,Svegli|Sveglie,Espertos|Espertas
+TEAMNAME_ADJECTIVE_MAGE6,Заколдованный,,Encantados,enchantés|enchantées,Verzauberten,Incantati|Incantate,Encantados|Encantadas
+TEAMNAME_ADJECTIVE_MAGE7,Очарованный,,Hechizados,ensorcelés|ensorcelées,Gebannten,Stregati|Stregate,Enfeitiçados|Enfeitiçadas
+TEAMNAME_ADJECTIVE_MAGE8,Маналучший,,de Maná,pourvus de mana|pourvues de mana,Magieerfüllten,del Mana,Cheios de Mana|Cheias de Mana
+TEAMNAME_ADJECTIVE_MAGE9,Учёный,,Académicos,académiciens|académiciennes,Akademischen,Accademici|Accademiche,Acadêmicos|Acadêmicas
 TEAMNAME_ADJECTIVE_MAGE10,Интеллектуальный,,Intelectuales,intellectuels|intellectuelles,Intellektuellen,Colti|Colte,Intelectuais
-TEAMNAME_ADJECTIVE_MAGE11,Магия,,Embrujados,magiques,Bezauberten,Fatati|Fatate,Mágicos
-TEAMNAME_ADJECTIVE_TANK0,Толстый,,Gruesos,à l'ossature lourde,Dicken,Massicci|Massiccie,Grossos
-TEAMNAME_ADJECTIVE_TANK1,Устойчивый,,Firmes,solides,Standhaften,Stabili,Firmes
-TEAMNAME_ADJECTIVE_TANK2,Харди,,Robustos,robustes,Abgehärteten,Robusti|Robuste,Durões
-TEAMNAME_ADJECTIVE_TANK3,Жирный,,Gordos,en surpoids,Fetten,Grassottelli|Grassottelle,Gordos
-TEAMNAME_ADJECTIVE_TANK4,Твердый,,Sólidos,solides,Soliden,Solidi,Sólidos
+TEAMNAME_ADJECTIVE_MAGE11,Магия,,Embrujados,magiques,Bezauberten,Fatati|Fatate,Bruxos|Bruxas
+TEAMNAME_ADJECTIVE_TANK0,Толстый,,Gruesos,à l'ossature lourde,Dicken,Massicci|Massiccie,Grossos|Grossas
+TEAMNAME_ADJECTIVE_TANK1,Стойкий,,Firmes,solides,Standhaften,Stabili,Firmes
+TEAMNAME_ADJECTIVE_TANK2,Выносливый,,Robustos,robustes,Abgehärteten,Robusti|Robuste,Durões|Duronas
+TEAMNAME_ADJECTIVE_TANK3,Жирный,,Gordos,en surpoids,Fetten,Grassottelli|Grassottelle,Gordos|Gordas
+TEAMNAME_ADJECTIVE_TANK4,Плотный,,Sólidos,solides,Soliden,Solidi,Sólidos|Sólidas
 TEAMNAME_ADJECTIVE_TANK5,Устойчивый,,Resistentes,résilients|résilientes,Widerstandsfähigen,Tenaci,Resilientes
-TEAMNAME_ADJECTIVE_TANK6,Стаут,,Corpulentos,corpulents|corpulentes,Stabilen,Tarchiati|Tarchiate,Corpulentos
-TEAMNAME_ADJECTIVE_TANK7,Широкий,,Anchos,épais|épaisses,Breiten,Larghi|Larghe,Largos
-TEAMNAME_ADJECTIVE_TANK8,Хаски,,Fornidos,costauds|costaudes,Stattlichen,Grossi|Grosse,Robustos
-TEAMNAME_ADJECTIVE_TANK9,Пухлый,,Rellenitos,potelés|potelées,Molligen,Paffuti|Paffute,Gorduchos
-TEAMNAME_ADJECTIVE_TANK10,Рокки,,Pétreos,rocailleux|rocailleuses,Felsenfesten,Rocciosi|Rocciose,Pedregosos
-TEAMNAME_ADJECTIVE_TANK11,Плотный,,Densos,énormes,Unterbelichteten,Densi|Dense,Densos
-TEAMNAME_ADJECTIVE_TANK12,Круглый,,Orondos,rondelets|rondelettes,Runden,Rotondi|Rotonde,Redondos
+TEAMNAME_ADJECTIVE_TANK6,Коренастый,,Corpulentos,corpulents|corpulentes,Stabilen,Tarchiati|Tarchiate,Corpulentos|Corpulentas
+TEAMNAME_ADJECTIVE_TANK7,Широкий,,Anchos,épais|épaisses,Breiten,Larghi|Larghe,Largos|Largas
+TEAMNAME_ADJECTIVE_TANK8,Мохнатый,,Fornidos,costauds|costaudes,Stattlichen,Grossi|Grosse,Robustos|Robustas
+TEAMNAME_ADJECTIVE_TANK9,Толстый,,Rellenitos,potelés|potelées,Molligen,Paffuti|Paffute,Gorduchos|Gorduchas
+TEAMNAME_ADJECTIVE_TANK10,Каменный,,Pétreos,rocailleux|rocailleuses,Felsenfesten,Rocciosi|Rocciose,Pedregosos|Pedregosas
+TEAMNAME_ADJECTIVE_TANK11,Плотный,,Densos,énormes,Unterbelichteten,Densi|Dense,Densos|Densas
+TEAMNAME_ADJECTIVE_TANK12,Круглый,,Orondos,rondelets|rondelettes,Runden,Rotondi|Rotonde,Redondos|Redondas
 TEAMNAME_ADJECTIVE_TANK13,XXL,,XXL,XXL,format2|XXL,XXL,GGG
-TEAMNAME_ADJECTIVE_TANK14,Ленивый,,Vagos,paresseux|paresseuses,Faulen,Pigri|Pigre,Preguiçosos
-TEAMNAME_ADJECTIVE_TANK15,Медленно,,Lentos,lents|lentes,Langsamen,Lenti|Lente,Lentos
-TEAMNAME_ADJECTIVE_TANK16,Чонки,,Rollizos,joufflus|joufflues,Klobigen,Cicciotti|Cicciotte,Rotundos
-TEAMNAME_ADJECTIVE_THIEF0,Подлый,,Sigilosos,sournois|sournoises,Schleichenden,Furtivi|Furtive,Furtivos
-TEAMNAME_ADJECTIVE_THIEF1,хитрый,,Taimados,fourbes,Listigen,Scaltri|Scaltre,Espertos
-TEAMNAME_ADJECTIVE_THIEF2,Скрытый,,Ocultos,cachés|cachées,Versteckten,Nascosti|Nascoste,Ocultos
-TEAMNAME_ADJECTIVE_THIEF3,Лежащий,,Mentirosos,menteurs|menteuses,Lügenden,Bugiardi|Bugiarde,Mentirosos
-TEAMNAME_ADJECTIVE_THIEF4,Жадный,,Avariciosos,cupides,Gierigen,Avidi|Avide,Ambiciosos
-TEAMNAME_ADJECTIVE_THIEF5,Пенни Пинчин,,Agarrados,avares,Geizigen,Tirchi|Tirchie,Sovinas
+TEAMNAME_ADJECTIVE_TANK14,Ленивый,,Vagos,paresseux|paresseuses,Faulen,Pigri|Pigre,Preguiçosos|Preguiçosas
+TEAMNAME_ADJECTIVE_TANK15,Медлительный,,Lentos,lents|lentes,Langsamen,Lenti|Lente,Lentos|Lentas
+TEAMNAME_ADJECTIVE_TANK16,Пушистый,,Rollizos,joufflus|joufflues,Klobigen,Cicciotti|Cicciotte,Roliços|Roliças
+TEAMNAME_ADJECTIVE_THIEF0,Хитрый,,Sigilosos,sournois|sournoises,Schleichenden,Furtivi|Furtive,Furtivos|Furtivas
+TEAMNAME_ADJECTIVE_THIEF1,Ловкий,,Taimados,fourbes,Listigen,Scaltri|Scaltre,Astutos|Astutas
+TEAMNAME_ADJECTIVE_THIEF2,Скрытный,,Ocultos,cachés|cachées,Versteckten,Nascosti|Nascoste,Ocultos|Ocultas
+TEAMNAME_ADJECTIVE_THIEF3,Лживый,,Mentirosos,menteurs|menteuses,Lügenden,Bugiardi|Bugiarde,Mentirosos|Mentirosas
+TEAMNAME_ADJECTIVE_THIEF4,Жадный,,Avariciosos,cupides,Gierigen,Avidi|Avide,Ambiciosos|Ambiciosas
+TEAMNAME_ADJECTIVE_THIEF5,Прижимистый,,Agarrados,avares,Geizigen,Tirchi|Tirchie,Sovinas
 TEAMNAME_ADJECTIVE_THIEF6,Быстрый,,Rápidos,rapides,Schnellen,Svelti|Svelte,Velozes
-TEAMNAME_ADJECTIVE_THIEF7,непослушный,,Traviesos,vilains|vilaines,Frechen,Birbanti,Safadinhos
-TEAMNAME_ADJECTIVE_THIEF8,Воровство,,Ladrones,voleurs|voleuses,Diebischen,Ladri|Ladre,Gatunos
-TEAMNAME_ADJECTIVE_THIEF9,Мерсин,,Furtivos,du larcin,Gnädigen,Mercenari|Mercenarie,Graciosos
-TEAMNAME_ADJECTIVE_THIEF10,Колотить,,Arteros,au poignard,Hinterlistigen,Pugnalatori|Pugnalatrici,Enganadores
-TEAMNAME_ADJECTIVE_THIEF11,Темный,,Oscuros,sombres,Dunklen,Oscuri|Oscure,Sombrios
-TEAMNAME_ADJECTIVE_THIEF12,Тихий,,Silenciosos,silencieux|silencieuses,Stillen,Silenziosi|Silenziose,Quietos
-TEAMNAME_ADJECTIVE_THIEF13,Секрет,,Secretos,discrets|discrètes,Geheimen,Segreti|Segrete,Secretos
-TEAMNAME_ADJECTIVE_MONK0,Сбалансированный,,Equilibrados,équilibrés|équilibrées,Ausgeglichenen,Equilibrati|Equilibrate,Equilibrados
+TEAMNAME_ADJECTIVE_THIEF7,Озорной,,Traviesos,vilains|vilaines,Frechen,Birbanti,Safadinhos|Safadinhas
+TEAMNAME_ADJECTIVE_THIEF8,Воровской,,Ladrones,voleurs|voleuses,Diebischen,Ladri|Ladre,Gatunos|Gatunas
+TEAMNAME_ADJECTIVE_THIEF9,Безжалостный,,Furtivos,du larcin,Gnädigen,Mercenari|Mercenarie,Graciosos|Graciosas
+TEAMNAME_ADJECTIVE_THIEF10,Колющий,,Arteros,au poignard,Hinterlistigen,Pugnalatori|Pugnalatrici,Enganadores|Enganadoras
+TEAMNAME_ADJECTIVE_THIEF11,Тёмный,,Oscuros,sombres,Dunklen,Oscuri|Oscure,Sombrios|Sombrias
+TEAMNAME_ADJECTIVE_THIEF12,Тихий,,Silenciosos,silencieux|silencieuses,Stillen,Silenziosi|Silenziose,Quietos|Quietas
+TEAMNAME_ADJECTIVE_THIEF13,Секретный,,Secretos,discrets|discrètes,Geheimen,Segreti|Segrete,Secretos|Secretas
+TEAMNAME_ADJECTIVE_MONK0,Уравновешенный,,Equilibrados,équilibrés|équilibrées,Ausgeglichenen,Equilibrati|Equilibrate,Equilibrados|Equilibradas
 TEAMNAME_ADJECTIVE_MONK1,Дзен,,Zen,zen,format2|Zen,Zen,Zen
-TEAMNAME_ADJECTIVE_MONK2,Течет,,Fluidos,ruisselants|ruisselantes,Fließenden,Fluidi|Fluide,Fluidos
-TEAMNAME_ADJECTIVE_MONK3,Медитируя,,Meditabundos,méditatifs|méditatives,Meditierenden,Meditativi|Meditative,Meditantes
-TEAMNAME_ADJECTIVE_MONK4,Спокойствие,,Calmados,calmes,Ruhigen,Sereni|Serene,Calmos
-TEAMNAME_ADJECTIVE_MONK5,Летающий,,Voladores,volants|volantes,Fliegenden,Volanti,Voadores
-TEAMNAME_ADJECTIVE_MONK6,Просвещенный,,Iluminados,éveillés|éveillées,Erleuchteten,Illuminati|Illuminate,Iluminados
-TEAMNAME_ADJECTIVE_MONK7,блаженный,,Dichosos,béats|béates,Seligen,Beati|Beate,Afortunados
+TEAMNAME_ADJECTIVE_MONK2,Текучий,,Fluidos,ruisselants|ruisselantes,Fließenden,Fluidi|Fluide,Fluidos|Fluidas
+TEAMNAME_ADJECTIVE_MONK3,Медитирующий,,Meditabundos,méditatifs|méditatives,Meditierenden,Meditativi|Meditative,Meditantes
+TEAMNAME_ADJECTIVE_MONK4,Спокойный,,Calmados,calmes,Ruhigen,Sereni|Serene,Calmos|Calmas
+TEAMNAME_ADJECTIVE_MONK5,Летающий,,Voladores,volants|volantes,Fliegenden,Volanti,Voadores|Voadoras
+TEAMNAME_ADJECTIVE_MONK6,Просвещённый,,Iluminados,éveillés|éveillées,Erleuchteten,Illuminati|Illuminate,Iluminados|Iluminadas
+TEAMNAME_ADJECTIVE_MONK7,Блаженный,,Dichosos,béats|béates,Seligen,Beati|Beate,Afortunados|Afortunadas
 TEAMNAME_ADJECTIVE_MONK8,Внутренний,,Ensimismados,intérieurs|intérieures,Inneren,Intimi|Intime,Interiores
-TEAMNAME_ADJECTIVE_MONK9,Центрировано,,Centrados,centrés|centrées,Zentrierten,Centrati|Centrate,Centrados
-TEAMNAME_ADJECTIVE_MONK10,Летающий,,Voladores,planants|planantes,Fliegenden,Alati|Alate,Voadores
-TEAMNAME_ADJECTIVE_MONK11,Кармический,,del Karma,karmiques,format2|Karma,del Karma,Cármicos
+TEAMNAME_ADJECTIVE_MONK9,Сосредоточенный,,Centrados,centrés|centrées,Zentrierten,Centrati|Centrate,Centrados|Centradas
+TEAMNAME_ADJECTIVE_MONK10,Летающий,,Voladores,planants|planantes,Fliegenden,Alati|Alate,Voadores|Voadoras
+TEAMNAME_ADJECTIVE_MONK11,Кармический,,del Karma,karmiques,format2|Karma,del Karma,Cármicos|Cármicas
 TEAMNAME_ADJECTIVE_MONK12,Трансцендентный,,Trascendentales,transcendés|transcendées,Überweltlichen,Trascendenti,Transcendentes
-TEAMNAME_ADJECTIVE_DRUID0,Анималистический,,Bestiales,animaux|animales,Animalistischen,Animalisti|Animaliste,Animalísticos
-TEAMNAME_ADJECTIVE_DRUID1,Пение,,Cantantes,chantants|chantantes,Singenden,Canterini|Canterine,Cantores
-TEAMNAME_ADJECTIVE_DRUID2,Натуральный,,Naturales,naturels|naturelles,Natürlichen,Naturali,Naturais
-TEAMNAME_ADJECTIVE_DRUID3,Мирный,,Pacíficos,pacifiques,Friedlichen,Pacifici|Pacifiche,Pacíficos
-TEAMNAME_ADJECTIVE_DRUID4,Мюзикл,,Musicales,musicaux|musicales,Musikalischen,Musicali,Musicais
-TEAMNAME_ADJECTIVE_DRUID5,Белка,,Ardillistas,agités|agitées,Schreckhaften,Strambi|Strambe,Assustadores
-TEAMNAME_ADJECTIVE_DRUID6,Вызванный,,Invocados,invoqués|invoquées,Beschworenen,Evocati|Evocate,Invocados
-TEAMNAME_ADJECTIVE_DRUID7,Лиственный,,Frondosos,feuillus|feuillues,Blättrigen,Floridi|Floride,Folhosos
-TEAMNAME_ADJECTIVE_DRUID8,Высокий,,Colocados,défoncés|défoncées,Vollgedröhnten,Inebriati|Inebriate,Altos
-TEAMNAME_ADJECTIVE_DRUID9,Танцы,,Danzantes,dansants|dansantes,Tanzenden,Ballerini|Ballerine,Dançantes
-TEAMNAME_ADJECTIVE_DRUID10,Свист,,Silbantes,sifflotants|sifflotantes,Pfeifenden,Fischiettanti,Assobiadores
-TEAMNAME_ADJECTIVE_DRUID11,Капелла,,Cantarines,a capella,A Capella,A Cappella,A Cappella
-TEAMNAME_ADJECTIVE_PSYCHIC0,Трехглазый,,Videntes,à trois yeux,Dreiäugigen,Triclopi,de Três Olhos
-TEAMNAME_ADJECTIVE_PSYCHIC1,Астрал,,Astrales,astraux|astrales,Astralen,Astrali,Astrais
-TEAMNAME_ADJECTIVE_PSYCHIC2,Провидец,,Visionarios,visionnaires,Visionären,Veggenti,Visionários
-TEAMNAME_ADJECTIVE_PSYCHIC3,Мистический,,Místicos,mystiques,Mystischen,Mistici|Mistiche,Místicos
-TEAMNAME_ADJECTIVE_PSYCHIC4,Чтение мыслей,,Mentales,devins,Gedankenlesenden,Chiromanti,Leitores de Mentes
-TEAMNAME_ADJECTIVE_PSYCHIC5,Гадание,,Adivinos,voyants|voyantes,Wahrsagenden,Indovini|Indovine,Videntes
-TEAMNAME_ADJECTIVE_PSYCHIC6,экстрасенс,,Mentalistas,médiums,Psychischen,Psionici|Psioniche,Psíquicos
+TEAMNAME_ADJECTIVE_DRUID0,Животный,,Bestiales,animaux|animales,Animalistischen,Animalisti|Animaliste,Animalísticos|Animalísticas
+TEAMNAME_ADJECTIVE_DRUID1,Поющий,,Cantantes,chantants|chantantes,Singenden,Canterini|Canterine,Cantores|Cantoras
+TEAMNAME_ADJECTIVE_DRUID2,Природный,,Naturales,naturels|naturelles,Natürlichen,Naturali,Naturais
+TEAMNAME_ADJECTIVE_DRUID3,Мирный,,Pacíficos,pacifiques,Friedlichen,Pacifici|Pacifiche,Pacíficos|Pacíficas
+TEAMNAME_ADJECTIVE_DRUID4,Музыкальный,,Musicales,musicaux|musicales,Musikalischen,Musicali,Musicais
+TEAMNAME_ADJECTIVE_DRUID5,Беличий,,Ardillistas,agités|agitées,Schreckhaften,Strambi|Strambe,Assustadores|Assustadoras
+TEAMNAME_ADJECTIVE_DRUID6,Призванный,,Invocados,invoqués|invoquées,Beschworenen,Evocati|Evocate,Invocados|Invocadas
+TEAMNAME_ADJECTIVE_DRUID7,Листопадный,,Frondosos,feuillus|feuillues,Blättrigen,Floridi|Floride,Frondosos|Frondosas
+TEAMNAME_ADJECTIVE_DRUID8,Обалденный,,Colocados,défoncés|défoncées,Vollgedröhnten,Inebriati|Inebriate,Altos|Altas
+TEAMNAME_ADJECTIVE_DRUID9,Танцующий,,Danzantes,dansants|dansantes,Tanzenden,Ballerini|Ballerine,Dançantes
+TEAMNAME_ADJECTIVE_DRUID10,Свистящий,,Silbantes,sifflotants|sifflotantes,Pfeifenden,Fischiettanti,Assobiadores|Assobiadoras
+TEAMNAME_ADJECTIVE_DRUID11,A Capella,,Cantarines,a capella,A Capella,A Cappella,A Cappella
+TEAMNAME_ADJECTIVE_PSYCHIC0,Третьеглазый,,Videntes,à trois yeux,Dreiäugigen,Triclopi,de Três Olhos
+TEAMNAME_ADJECTIVE_PSYCHIC1,Астральный,,Astrales,astraux|astrales,Astralen,Astrali,Astrais
+TEAMNAME_ADJECTIVE_PSYCHIC2,Провидческий,,Visionarios,visionnaires,Visionären,Veggenti,Visionários|Visionárias
+TEAMNAME_ADJECTIVE_PSYCHIC3,Мистический,,Místicos,mystiques,Mystischen,Mistici|Mistiche,Místicos|Místicas
+TEAMNAME_ADJECTIVE_PSYCHIC4,Читающий мысли,,Mentales,devins,Gedankenlesenden,Chiromanti,Leitores de Mentes|Leitoras de Mentes
+TEAMNAME_ADJECTIVE_PSYCHIC5,Гадающий,,Adivinos,voyants|voyantes,Wahrsagenden,Indovini|Indovine,Videntes
+TEAMNAME_ADJECTIVE_PSYCHIC6,Психический,,Mentalistas,médiums,Psychischen,Psionici|Psioniche,Psíquicos|Psíquicas
 TEAMNAME_ADJECTIVE_PSYCHIC7,Телепатический,,Telepáticos,télépathes,Telepathischen,Telepatici|Telepatiche,Telepatas
-TEAMNAME_ADJECTIVE_PSYCHIC8,Очаровательный,,Encantadores,charmeurs|charmeuses,Charmanten,Ammaliatori|Ammaliatrici,Charmosos
-TEAMNAME_ADJECTIVE_PSYCHIC9,Манипулятивный,,Manipuladores,manipulateurs|manipulatrices,Manipulierenden,Manipolatori|Manipolatrici,Manipulativos
+TEAMNAME_ADJECTIVE_PSYCHIC8,Чарующий,,Encantadores,charmeurs|charmeuses,Charmanten,Ammaliatori|Ammaliatrici,Charmosos|Charmosas
+TEAMNAME_ADJECTIVE_PSYCHIC9,Манипулирующий,,Manipuladores,manipulateurs|manipulatrices,Manipulierenden,Manipolatori|Manipolatrici,Manipulativos|Manipulativas
 TEAMNAME_ADJECTIVE_PSYCHIC10,Всезнающий,,Omniscientes,omniscients|omniscientes,Allwissenden,Onniscienti,Sabe-Tudo
 TEAMNAME_ADJECTIVE_PSYCHIC11,Пульсирующий,,Palpitantes,palpitants|palpitantes,Pulsierenden,Pulsanti,Pulsantes
-TEAMNAME_ADJECTIVE_PSYCHIC12,Кататонический,,Catatónicos,catatoniques,Katatonischen,Catatonici|Catatoniche,Catatônicos
-TEAMNAME_ADJECTIVE_BUTCHER0,голодный,,Hambrientos,affamés|affamées,Hungrigen,Affamati|Affamate,Famintos
-TEAMNAME_ADJECTIVE_BUTCHER1,потный,,Sudorosos,en sueur,Schwitzenden,Sudaticci|Sudaticcie,Suados
-TEAMNAME_ADJECTIVE_BUTCHER2,мясистый,,Cárnicos,charnus|charnues,Fleischigen,Carnosi|Carnose,Carnudos
-TEAMNAME_ADJECTIVE_BUTCHER3,Нарезанный,,Rebanados,en tranches,Geschnittenen,Affettati|Affettate,Fatiados
-TEAMNAME_ADJECTIVE_BUTCHER4,на крючке,,Ensartados,accrochés|accrochées,Hakenden,Appesi|Appese,Enganchados
-TEAMNAME_ADJECTIVE_BUTCHER5,Кровотечение,,Sangrientos,ensanglantés|ensanglantées,Blutenden,Sanguinanti,Sangrentos
-TEAMNAME_ADJECTIVE_BUTCHER6,Никогда не полный,,Famélicos,insatiables,Nimmersatten,Insaziabili,Nunca Satisfeitos
-TEAMNAME_ADJECTIVE_BUTCHER7,Бутч,,Carniceros,barbares,Maskulin gelesenen,Macellati|Macellate,Machões
-TEAMNAME_ADJECTIVE_BUTCHER8,Прикованный,,Encadenados,enchaînés|enchaînées,Angeketteten,Incatenati|Incatenate,Acorrentados
-TEAMNAME_ADJECTIVE_BUTCHER9,Кровожадный,,Sedientos de Sangre,sanguinaires,Blutdurstigen,Assetati di Sangue|Assetate di Sangue,Sedentos de Sangue
-TEAMNAME_ADJECTIVE_BUTCHER10,Хак-н-Слэш,,Trinchadores,tranchants|tranchantes,Hackenden,Squartatori|Squartatrici,Estraçalhantes
-TEAMNAME_ADJECTIVE_NECROMANCER0,Нежить,,de Ultratumba,morts-vivants|mortes-vivantes,Untoten,Non morti|Non morte,Mortos-Vivos
-TEAMNAME_ADJECTIVE_NECROMANCER1,Разлагающийся,,en Descomposición,pourrissants|pourrissantes,Verwesenden,Decomposti|Decomposte,Apodrecidos
-TEAMNAME_ADJECTIVE_NECROMANCER2,Темный,,Oscuros,sombres,Dunklen,Tenebrosi|Tenebrose,Sombreados
-TEAMNAME_ADJECTIVE_NECROMANCER3,Гниение,,Putrefactos,putréfiés|putréfiées,Verrottenden,Marcescenti,Apodrecidos
-TEAMNAME_ADJECTIVE_NECROMANCER4,Готика,,Góticos,gothiques,format2|Gothic,Gotici|Gotiche,Góticos
+TEAMNAME_ADJECTIVE_PSYCHIC12,Кататонический,,Catatónicos,catatoniques,Katatonischen,Catatonici|Catatoniche,Catatônicos|Catatônicas
+TEAMNAME_ADJECTIVE_BUTCHER0,Голодные,,Hambrientos,affamés|affamées,Hungrigen,Affamati|Affamate,Famintos|Famintas
+TEAMNAME_ADJECTIVE_BUTCHER1,Потные,,Sudorosos,en sueur,Schwitzenden,Sudaticci|Sudaticcie,Suados|Suadas
+TEAMNAME_ADJECTIVE_BUTCHER2,Мясные,,Cárnicos,charnus|charnues,Fleischigen,Carnosi|Carnose,Carnudos|Carnudas
+TEAMNAME_ADJECTIVE_BUTCHER3,Нашинкованные,,Rebanados,en tranches,Geschnittenen,Affettati|Affettate,Fatiados|Fatiadas
+TEAMNAME_ADJECTIVE_BUTCHER4,Крючковые,,Ensartados,accrochés|accrochées,Hakenden,Appesi|Appese,Enganchados|Enganchadas
+TEAMNAME_ADJECTIVE_BUTCHER5,Кровавые,,Sangrientos,ensanglantés|ensanglantées,Blutenden,Sanguinanti,Sangrentos|Sangrentas
+TEAMNAME_ADJECTIVE_BUTCHER6,Ненасытные,,Famélicos,insatiables,Nimmersatten,Insaziabili,Insatisfeitos|Insatisfeitas
+TEAMNAME_ADJECTIVE_BUTCHER7,Грубые,,Carniceros,barbares,Maskulin gelesenen,Macellati|Macellate,Bárbaros|Bárbaras
+TEAMNAME_ADJECTIVE_BUTCHER8,Закованные,,Encadenados,enchaînés|enchaînées,Angeketteten,Incatenati|Incatenate,Acorrentados|Acorrentadas
+TEAMNAME_ADJECTIVE_BUTCHER9,Жаждущие Крови,,Sedientos de Sangre,sanguinaires,Blutdurstigen,Assetati di Sangue|Assetate di Sangue,Sanguinolentos|Sanguinolentas
+TEAMNAME_ADJECTIVE_BUTCHER10,Рубящие,,Trinchadores,tranchants|tranchantes,Hackenden,Squartatori|Squartatrici,Estraçalhantes
+TEAMNAME_ADJECTIVE_NECROMANCER0,Нежить,,de Ultratumba,morts-vivants|mortes-vivantes,Untoten,Non morti|Non morte,Mortos-Vivos|Mortas-Vivas
+TEAMNAME_ADJECTIVE_NECROMANCER1,Разлагающиеся,,en Descomposición,pourrissants|pourrissantes,Verwesenden,Decomposti|Decomposte,Apodrecidos|Apodrecidas
+TEAMNAME_ADJECTIVE_NECROMANCER2,Тёмные,,Oscuros,sombres,Dunklen,Tenebrosi|Tenebrose,Sombreados|Sombreadas
+TEAMNAME_ADJECTIVE_NECROMANCER3,Гнилые,,Putrefactos,putréfiés|putréfiées,Verrottenden,Marcescenti,Apodrecidos|Apodrecidas
+TEAMNAME_ADJECTIVE_NECROMANCER4,Готические,,Góticos,gothiques,format2|Gothic,Gotici|Gotiche,Góticos|Góticas
 TEAMNAME_ADJECTIVE_NECROMANCER5,Эмо,,Emo,emos,format2|Emo,Emo,Emo
-TEAMNAME_ADJECTIVE_NECROMANCER6,Черный,,Negros,noirs|noires,Schwarzen,Neri|Nere,Negros
-TEAMNAME_ADJECTIVE_NECROMANCER7,Зло,,Malvados,diaboliques,Bösen,Malvagi|Malvagie,Malignos
-TEAMNAME_ADJECTIVE_NECROMANCER8,Обреченный,,Condenados,damnés|damnées,Verdammten,Dannati|Dannate,Perdidos
-TEAMNAME_ADJECTIVE_NECROMANCER9,Осушенный,,Drenados,exsangues,Ausgesaugten,Prosciugati|Prosciugate,Drenados
-TEAMNAME_ADJECTIVE_NECROMANCER10,Полночь,,de Medianoche,de minuit,Nächtlichen,Crepuscolari,da Meia-Noite
-TEAMNAME_ADJECTIVE_NECROMANCER11,Мертвый,,Muertos,morts|mortes,Toten,Morti|Morte,Mortos
-TEAMNAME_ADJECTIVE_NECROMANCER12,Жуткий,,Aterradores,flippants|flippantes,Gruseligen,Spettrali,Assustadores
-TEAMNAME_ADJECTIVE_TINKERER0,хитрый,,Hábiles,ingénieux|ingénieuses,Gewieften,Astuti|Astute,Engenhosos
-TEAMNAME_ADJECTIVE_TINKERER1,лоскутный,,Apañados,ferrailleurs|ferrailleuses,Rabiaten,Battaglieri|Battagliere,Brigões
-TEAMNAME_ADJECTIVE_TINKERER2,изобретательный,,Inventivos,inventifs|inventives,Erfinderischen,Ingegnosi|Ingegnose,Inventores
-TEAMNAME_ADJECTIVE_TINKERER3,Безумный,,Locos,énervés|énervées,Verrückten,Folli,Loucos
-TEAMNAME_ADJECTIVE_TINKERER4,Жареный,,Electrocutados,frits|frites,Durchgedrehten,Fritti|Fritte,Fritos
-TEAMNAME_ADJECTIVE_TINKERER5,Электрический,,Eléctricos,électriques,Elektrischen,Elettrici|Elettriche,Elétricos
-TEAMNAME_ADJECTIVE_TINKERER6,Креатив,,Creativos,créatifs|créatives,Kreativen,Creativi|Creative,Criativos
-TEAMNAME_ADJECTIVE_TINKERER7,Научный,,Científicos,scientifiques,Wissenschaftlichen,Scientifici|Scientifiche,Científicos
-TEAMNAME_ADJECTIVE_TINKERER8,Роботизированный,,Robóticos,robotiques,Mechanischen,Robotici|Robotiche,Robóticos
-TEAMNAME_ADJECTIVE_TINKERER9,Металл,,Metálicos,métalliques,Metallischen,Metallici|Metalliche,de Metal
-TEAMNAME_ADJECTIVE_TINKERER10,Взрывающийся,,Explosivos,explosifs|explosives,Explodierenden,Esplosivi|Esplosive,Explosivos
-TEAMNAME_ADJECTIVE_TINKERER11,Бронированный,,con Armadura,blindés|blindées,Gerüsteten,Corazzati|Corazzate,Blindados
-TEAMNAME_ADJECTIVE_TINKERER12,Вооружен,,Armados,armés|armées,Bewaffneten,Armati|Armate,Armados
-TEAMNAME_ADJECTIVE_TINKERER13,Дистанционное управление,,Remotos,télécommandés|télécommandées,Ferngesteuerten,Telecomandati|Telecomandate,de Controle Remoto
-TEAMNAME_ADJECTIVE_COLORLESS0,Нормальный,,Normales,normal|normales,Normalen,Normali,Normais
-TEAMNAME_ADJECTIVE_COLORLESS1,Базовый,,Básicos,basiques,Regulären,Basilari,Básicos
-TEAMNAME_ADJECTIVE_COLORLESS2,Стандартный,,Estándares,ordinaires,format2|Standard,Standard,Padrão
-TEAMNAME_ADJECTIVE_JESTER0,Сумасшедший,,Alocados,fous|folles,Verrückten,Pazzi|Pazze,Malucos
-TEAMNAME_ADJECTIVE_JESTER1,дурацкий,,Chiflados,farfelus|farfelues,Schrulligen,Squinternati|Squinternate,Pirados
-TEAMNAME_ADJECTIVE_JESTER2,повезло,,Afortunados,chanceux|chanceuses,Glücklichen,Fortunati|Fortunate,Sortudos
-TEAMNAME_ADJECTIVE_JESTER3,Гуфи,,Bobalicones,loufoques,Exzentrischen,Goffi|Goffe,Bobões
-TEAMNAME_ADJECTIVE_JESTER4,хихиканье,,Nerviosos,gloussants|gloussantes,Giggelnden,Ridacchianti,Gargalhantes
-TEAMNAME_ADJECTIVE_JESTER5,Смех,,Risueños,hilares,Lachenden,Sghignazzanti,Risonhos
-TEAMNAME_ADJECTIVE_JESTER6,Смешно,,Graciosos,drôles,Lustigen,Divertenti,Engraçados
-TEAMNAME_ADJECTIVE_JESTER7,Саркастический,,Sarcásticos,sarcastiques,Sarkastischen,Sarcastici|Sarcastiche,Sarcásticos
-TEAMNAME_ADJECTIVE_JESTER8,кудахтанье,,Desternillados,rigolos|rigolotes,Gackernden,Sguaiati|Sguaiate,Gargalhantes
-TEAMNAME_ADJECTIVE_JESTER9,Насмешливый,,Burlones,moqueurs|moqueuses,Spöttischen,Beffardi|Beffarde,Zombeteiros
-TEAMNAME_ADJECTIVE_JESTER10,Радуга,,Arcoíris,arcs-en-ciel,format2|Regenbogen,Arcobaleno,Arco-Íris
-TEAMNAME_ADJECTIVE_JESTER11,посмеиваясь,,Divertidos,amusés|amusées,Glucksenden,Sorridenti,Risonhos
-TEAMNAME_ADJECTIVE_JESTER12,Хихикающий,,Socarrones,narquois|narquoises,Kichernden,Lieti|Liete,Joviais
-TEAMNAME_ADJECTIVE_JESTER13,Улыбаясь,,Sonrientes,souriants|souriantes,Lächelnden,Ilari,Sorridentes
-TEAMNAME_ADJECTIVE_JESTER14,Гей,,Alegres,gais|gaies,Fröhlichen,Gioiosi|Gioiose,Alegres
-TEAMNAME_ADJECTIVE_MISC0,Муррректно,,Ronroneantes,parrrfaits|parrrfaites,Schnurrenden,Miaosi|Miaosette,Purrrfeitos
-TEAMNAME_ADJECTIVE_MISC1,Пушистый,,Suaves,duveteux|duveteuses,Fluffigen,Pelosetti|Pelosette,Fofinhos
-TEAMNAME_ADJECTIVE_MISC2,формат2|{Catname's},,format2|{Catname} y sus,format2|{Catname} et les,Namhaften,di {Catname},format2|de {Catname}
+TEAMNAME_ADJECTIVE_NECROMANCER6,Чёрные,,Negros,noirs|noires,Schwarzen,Neri|Nere,Negros|Negras
+TEAMNAME_ADJECTIVE_NECROMANCER7,Злые,,Malvados,diaboliques,Bösen,Malvagi|Malvagie,Malignos|Malignas
+TEAMNAME_ADJECTIVE_NECROMANCER8,Обречённые,,Condenados,damnés|damnées,Verdammten,Dannati|Dannate,Perdidos|Perdidas
+TEAMNAME_ADJECTIVE_NECROMANCER9,Осушенные,,Drenados,exsangues,Ausgesaugten,Prosciugati|Prosciugate,Drenados|Drenadas
+TEAMNAME_ADJECTIVE_NECROMANCER10,Полуночные,,de Medianoche,de minuit,Nächtlichen,Crepuscolari,da Meia-Noite
+TEAMNAME_ADJECTIVE_NECROMANCER11,Мёртвые,,Muertos,morts|mortes,Toten,Morti|Morte,Mortos|Mortas
+TEAMNAME_ADJECTIVE_NECROMANCER12,Жуткие,,Aterradores,flippants|flippantes,Gruseligen,Spettrali,Assustadores|Assustadoras
+TEAMNAME_ADJECTIVE_TINKERER0,Хитрые,,Hábiles,ingénieux|ingénieuses,Gewieften,Astuti|Astute,Engenhosos|Engenhosas
+TEAMNAME_ADJECTIVE_TINKERER1,Самоделочные,,Apañados,ferrailleurs|ferrailleuses,Rabiaten,Battaglieri|Battagliere,Brigões|Brigonas
+TEAMNAME_ADJECTIVE_TINKERER2,Изобретательные,,Inventivos,inventifs|inventives,Erfinderischen,Ingegnosi|Ingegnose,Inventores|Inventoras
+TEAMNAME_ADJECTIVE_TINKERER3,Безумные,,Locos,énervés|énervées,Verrückten,Folli,Loucos|Loucas
+TEAMNAME_ADJECTIVE_TINKERER4,Пожаренные,,Electrocutados,frits|frites,Durchgedrehten,Fritti|Fritte,Fritos|Fritas
+TEAMNAME_ADJECTIVE_TINKERER5,Электрические,,Eléctricos,électriques,Elektrischen,Elettrici|Elettriche,Elétricos|Elétricas
+TEAMNAME_ADJECTIVE_TINKERER6,Творческие,,Creativos,créatifs|créatives,Kreativen,Creativi|Creative,Criativos|Criativas
+TEAMNAME_ADJECTIVE_TINKERER7,Научные,,Científicos,scientifiques,Wissenschaftlichen,Scientifici|Scientifiche,Científicos|Científicas
+TEAMNAME_ADJECTIVE_TINKERER8,Робо,,Robóticos,robotiques,Mechanischen,Robotici|Robotiche,Robóticos|Robóticas
+TEAMNAME_ADJECTIVE_TINKERER9,Металлические,,Metálicos,métalliques,Metallischen,Metallici|Metalliche,de Metal
+TEAMNAME_ADJECTIVE_TINKERER10,Взрывные,,Explosivos,explosifs|explosives,Explodierenden,Esplosivi|Esplosive,Explosivos
+TEAMNAME_ADJECTIVE_TINKERER11,Броневые,,con Armadura,blindés|blindées,Gerüsteten,Corazzati|Corazzate,Blindados|Blindadas
+TEAMNAME_ADJECTIVE_TINKERER12,Вооружённые,,Armados,armés|armées,Bewaffneten,Armati|Armate,Armados|Armadas
+TEAMNAME_ADJECTIVE_TINKERER13,Управляемые,,Remotos,télécommandés|télécommandées,Ferngesteuerten,Telecomandati|Telecomandate,de Controle Remoto
+TEAMNAME_ADJECTIVE_COLORLESS0,Обычные,,Normales,normaux|normales,Normalen,Normali,Normais
+TEAMNAME_ADJECTIVE_COLORLESS1,Базовые,,Básicos,basiques,Regulären,Basilari,Básicos|Básicas
+TEAMNAME_ADJECTIVE_COLORLESS2,Стандартные,,Estándares,ordinaires,format2|Standard,Standard,Padrão
+TEAMNAME_ADJECTIVE_JESTER0,Бешеные,,Alocados,fous|folles,Verrückten,Pazzi|Pazze,Malucos|Malucas
+TEAMNAME_ADJECTIVE_JESTER1,Чокнутые,,Chiflados,farfelus|farfelues,Schrulligen,Squinternati|Squinternate,Pirados|Piradas
+TEAMNAME_ADJECTIVE_JESTER2,Везучие,,Afortunados,chanceux|chanceuses,Glücklichen,Fortunati|Fortunate,Sortudos|Sortudas
+TEAMNAME_ADJECTIVE_JESTER3,Дурашливые,,Bobalicones,loufoques,Exzentrischen,Goffi|Goffe,Bobões|Bobonas
+TEAMNAME_ADJECTIVE_JESTER4,Хихикающие,,Nerviosos,gloussants|gloussantes,Giggelnden,Ridacchianti,Gargalhantes
+TEAMNAME_ADJECTIVE_JESTER5,Смеющиеся,,Risueños,hilares,Lachenden,Sghignazzanti,Risonhos|Risonhas
+TEAMNAME_ADJECTIVE_JESTER6,Смешные,,Graciosos,drôles,Lustigen,Divertenti,Engraçados|Engraçadas
+TEAMNAME_ADJECTIVE_JESTER7,Саркастичные,,Sarcásticos,sarcastiques,Sarkastischen,Sarcastici|Sarcastiche,Sarcásticos|Sarcásticas
+TEAMNAME_ADJECTIVE_JESTER8,Хохочущие,,Desternillados,rigolos|rigolotes,Gackernden,Sguaiati|Sguaiate,Cacarejantes
+TEAMNAME_ADJECTIVE_JESTER9,Издевающиеся,,Burlones,moqueurs|moqueuses,Spöttischen,Beffardi|Beffarde,Zombeteiros|Zombeteiras
+TEAMNAME_ADJECTIVE_JESTER10,Радужные,,Arcoíris,arcs-en-ciel,format2|Regenbogen,Arcobaleno,Arco-Íris
+TEAMNAME_ADJECTIVE_JESTER11,Посмеивающиеся,,Divertidos,amusés|amusées,Glucksenden,Sorridenti,Risonhos|Risonhas
+TEAMNAME_ADJECTIVE_JESTER12,Посмивающиеся,,Socarrones,narquois|narquoises,Kichernden,Lieti|Liete,Joviais
+TEAMNAME_ADJECTIVE_JESTER13,Улыбчивые,,Sonrientes,souriants|souriantes,Lächelnden,Ilari,Sorridentes
+TEAMNAME_ADJECTIVE_JESTER14,Весёлые,,Alegres,gais|gaies,Fröhlichen,Gioiosi|Gioiose,Alegres
+TEAMNAME_ADJECTIVE_MISC0,Мурлыфектные,,Ronroneantes,parrrfaits|parrrfaites,Schnurrenden,Miaosi|Miaosette,Purrrfeitos|Purrrfeitas
+TEAMNAME_ADJECTIVE_MISC1,Пушистые,,Suaves,duveteux|duveteuses,Fluffigen,Pelosetti|Pelosette,Fofinhos|Fofinhas
+TEAMNAME_ADJECTIVE_MISC2,format2|{Catname's},,format2|{Catname} y sus,format2|{Catname} et les,Namhaften,di {Catname},format2|de {Catname}
 TEAMNAME_ADJECTIVE_MISC2_M,,,,,,,
 TEAMNAME_ADJECTIVE_MISC2_F,,,,,,,
 TEAMNAME_ADJECTIVE_MISC2_N,,,,,,,
@@ -187,167 +187,167 @@ TEAMNAME_ADJECTIVE_MISC3,format2|{Catname} и,,format2|{Catname} y los,format2|{
 TEAMNAME_ADJECTIVE_MISC3_M,,,,,,,
 TEAMNAME_ADJECTIVE_MISC3_F,,,,,,,
 TEAMNAME_ADJECTIVE_MISC3_N,,,,,,,
-TEAMNAME_NOUN_FIGHTER0,Лунки,,Zopencos,Balourds|male,Blödiane,I Gorilloni,Brutos
-TEAMNAME_NOUN_FIGHTER1,Братья,,Machotes,Frères|male,Bros,I Fratelli,Irmãos
-TEAMNAME_NOUN_FIGHTER2,Кулаки,,Puños,Poings|male,Fäuste,I Pugni,Punhos
-TEAMNAME_NOUN_FIGHTER3,Громилы,,Matones,Castagneurs|male,Schlägertypen,I Picchiatori,Agressores
-TEAMNAME_NOUN_FIGHTER4,Кулаки,,Puños,Poings|male,Fäuste,I Cazzotti,Punhos
-TEAMNAME_NOUN_FIGHTER5,болваны,,Memos,Sans-cervelles|male,Tölpel,Gli Imbranati,Tolos
-TEAMNAME_NOUN_FIGHTER6,Герои,,Héroes,Héros|male,Helden,Gli Eroi,Heróis
+TEAMNAME_NOUN_FIGHTER0,Качки,,Zopencos,Balourds|male,Blödiane,I Gorilloni,Brutos|male
+TEAMNAME_NOUN_FIGHTER1,Братва,,Machotes,Frères|male,Bros,I Fratelli,Irmãos|male
+TEAMNAME_NOUN_FIGHTER2,Кулаки,,Puños,Poings|male,Fäuste,I Pugni,Punhos|male
+TEAMNAME_NOUN_FIGHTER3,Громилы,,Matones,Castagneurs|male,Schlägertypen,I Picchiatori,Agressores|male
+TEAMNAME_NOUN_FIGHTER4,Кулаки,,Puños,Poings|male,Fäuste,I Cazzotti,Punhos|male
+TEAMNAME_NOUN_FIGHTER5,Болваны,,Memos,Sans-cervelles|male,Tölpel,Gli Imbranati,Tolos|male
+TEAMNAME_NOUN_FIGHTER6,Герои,,Héroes,Héros|male,Helden,Gli Eroi,Heróis|male
 TEAMNAME_NOUN_FIGHTER7,Альфы,,Alfa,Alphas|male,Alphas,Gli Alfa,Alfas
-TEAMNAME_NOUN_FIGHTER8,спортсмены,,Atletas,Athlètes|male,Sportskanonen,I Palestrati,Atletas
-TEAMNAME_NOUN_FIGHTER9,Папочки,,Forzudos,Papas|male,Daddys,I Paparini,Papais
-TEAMNAME_NOUN_FIGHTER10,Хулиганы,,Abusones,Harceleurs|male,Rabauken,I Bulli,Valentões
-TEAMNAME_NOUN_FIGHTER11,Загонщики,,Vapuleadores,Batteurs|male,Schläger,I Pestatori,Espancadores
-TEAMNAME_NOUN_HUNTER0,Сталкеры,,Acechadores,Désaxés|male,Pirscher,I Segugi,Espreitadores
-TEAMNAME_NOUN_HUNTER1,Рейнджерс,,Guardabosques,Rôdeurs|male,Waldläufer,I Ranger,Guardiões
-TEAMNAME_NOUN_HUNTER2,Трекеры,,Rastreadores,Pisteurs|male,Spurensucher,I Tracciatori,Rastreadores
-TEAMNAME_NOUN_HUNTER3,Наконечники стрел,,Arqueros,Têtes de flèche|male,Bogenschützen,I Predatori,Batedores
-TEAMNAME_NOUN_HUNTER4,Скиннеры,,Desolladores,Écorcheurs|male,Hautabzieher,I Scorticatori,Esfoladores
-TEAMNAME_NOUN_HUNTER5,Ловушки,,Tramperos,Pièges|male,Fallensteller,Gli Intrappolatori,Armadilhas
-TEAMNAME_NOUN_HUNTER6,Споттеры,,Observadores,Guetteurs|male,Detektive,Gli Osservatori,Olheiros
-TEAMNAME_NOUN_HUNTER7,Снайперы,,Francotiradores,Tirailleurs|male,Scharfschützen,I Cecchini,Atiradores de Elite
-TEAMNAME_NOUN_HUNTER8,единственное число|Пакет,,Compañeros,Mutins|male,Meute,I Cercatori,Matilha
-TEAMNAME_NOUN_HUNTER9,Одичалые,,Montaraces,Sauvageons|male,Wildlinge,I Selvaggi,Selvagens
-TEAMNAME_NOUN_HUNTER10,Природа Дети,,Naturalistas,Campagnards|male,Naturburschen,I Silvestri,Naturais
-TEAMNAME_NOUN_HUNTER11,Скауты,,Exploradores,Scouts|male,Pfadfinder,Gli Esploratori,Batedores
-TEAMNAME_NOUN_HUNTER12,Выводок,,Polluelos,Progénitures|female,Brüter,I Discendenti,Ninhada
-TEAMNAME_NOUN_MEDIC0,Врачи,,Médicos,Médecins|male,Ärzte,I Dottori,Doutores
-TEAMNAME_NOUN_MEDIC1,Священники,,Sacerdotes,Curés|male,Priester,I Sacerdoti,Sacerdotes
-TEAMNAME_NOUN_MEDIC2,Крестоносцы,,Cruzados,Croisés|male,Kreuzritter,I Crociati,Cruzados
-TEAMNAME_NOUN_MEDIC3,Библейские Тамперы,,Fanáticos,Matrixés de la Bible|male,Bibelfreunde,I Bacchettoni,Fanáticos Religiosos
-TEAMNAME_NOUN_MEDIC4,Бог-воины,,Templarios,Guerriers divins|male,Gotteskrieger,I Guerrieri di Dio,Guerreiros Divinos
-TEAMNAME_NOUN_MEDIC5,Святые,,Santos,Saints|male,Heiligen,I Santi,Santos
-TEAMNAME_NOUN_MEDIC6,Слуги,,Siervos,Serviteurs|male,Diener,I Servitori,Servos
+TEAMNAME_NOUN_FIGHTER8,Качки,,Atletas,Athlètes|male,Sportskanonen,I Palestrati,Atletas
+TEAMNAME_NOUN_FIGHTER9,Папики,,Forzudos,Papas|male,Daddys,I Paparini,Papais|male
+TEAMNAME_NOUN_FIGHTER10,Хулиганы,,Abusones,Harceleurs|male,Rabauken,I Bulli,Valentões|male
+TEAMNAME_NOUN_FIGHTER11,Битухи,,Vapuleadores,Batteurs|male,Schläger,I Pestatori,Espancadores|male
+TEAMNAME_NOUN_HUNTER0,Охотники,,Acechadores,Désaxés|male,Pirscher,I Segugi,Espreitadores|male
+TEAMNAME_NOUN_HUNTER1,Рейнджеры,,Guardabosques,Rôdeurs|male,Waldläufer,I Ranger,Guardiões|male
+TEAMNAME_NOUN_HUNTER2,Следопыты,,Rastreadores,Pisteurs|male,Spurensucher,I Tracciatori,Rastreadores|male
+TEAMNAME_NOUN_HUNTER3,Стрелки,,Arqueros,Têtes de flèche|male,Bogenschützen,I Predatori,Batedores|male
+TEAMNAME_NOUN_HUNTER4,Шкурники,,Desolladores,Écorcheurs|male,Hautabzieher,I Scorticatori,Esfoladores|male
+TEAMNAME_NOUN_HUNTER5,Ловушки,,Tramperos,Pièges|male,Fallensteller,Gli Intrappolatori,Armadilhas|female
+TEAMNAME_NOUN_HUNTER6,Разведчики,,Observadores,Guetteurs|male,Detektive,Gli Osservatori,Olheiros|male
+TEAMNAME_NOUN_HUNTER7,Снайперы,,Francotiradores,Tirailleurs|male,Scharfschützen,I Cecchini,Franco Atiradores|male
+TEAMNAME_NOUN_HUNTER8,singular|Стая,,Compañeros,Mutins|male,Meute,I Cercatori,Companheiros|male
+TEAMNAME_NOUN_HUNTER9,Дикари,,Montaraces,Sauvageons|male,Wildlinge,I Selvaggi,Selvagens
+TEAMNAME_NOUN_HUNTER10,Лесные дети,,Naturalistas,Campagnards|male,Naturburschen,I Silvestri,Silvestres
+TEAMNAME_NOUN_HUNTER11,Скауты,,Exploradores,Scouts|male,Pfadfinder,Gli Esploratori,Batedores|male
+TEAMNAME_NOUN_HUNTER12,Выводок,,Polluelos,Progénitures|female,Brüter,I Discendenti,Descendentes
+TEAMNAME_NOUN_MEDIC0,Доктора,,Médicos,Médecins|male,Ärzte,I Dottori,Doutores|male
+TEAMNAME_NOUN_MEDIC1,Священники,,Sacerdotes,Curés|male,Priester,I Sacerdoti,Sacerdotes|male
+TEAMNAME_NOUN_MEDIC2,Крестоносцы,,Cruzados,Croisés|male,Kreuzritter,I Crociati,Cruzados|male
+TEAMNAME_NOUN_MEDIC3,Библейцы,,Fanáticos,Matrixés de la Bible|male,Bibelfreunde,I Bacchettoni,Fanáticos|male
+TEAMNAME_NOUN_MEDIC4,Боги войны,,Templarios,Guerriers divins|male,Gotteskrieger,I Guerrieri di Dio,Guerreiros Divinos|male
+TEAMNAME_NOUN_MEDIC5,Святые,,Santos,Saints|male,Heiligen,I Santi,Santos|male
+TEAMNAME_NOUN_MEDIC6,Служители,,Siervos,Serviteurs|male,Diener,I Servitori,Servos|male
 TEAMNAME_NOUN_MEDIC7,Верные,,Fieles,Croyants|male,Gläubigen,I Fedeli,Crentes
-TEAMNAME_NOUN_MEDIC8,Паладины,,Paladines,Paladins|male,Paladine,I Paladini,Paladinos
-TEAMNAME_NOUN_MEDIC9,Избранный,,Elegidos,Élus|male,Auserwählten,I Prescelti,Escolhidos
-TEAMNAME_NOUN_MAGE0,Студенты,,Estudiantes,Élèves|male,Studenten,Gli Studenti,Estudantes
-TEAMNAME_NOUN_MAGE1,Волшебники,,Brujos,Sorciers|male,Hexenmeister,I Maghi,Magos
+TEAMNAME_NOUN_MEDIC8,Паладины,,Paladines,Paladins|male,Paladine,I Paladini,Paladinos|male
+TEAMNAME_NOUN_MEDIC9,Избранные,,Elegidos,Élus|male,Auserwählten,I Prescelti,Escolhidos|male
+TEAMNAME_NOUN_MAGE0,Ученики,,Estudiantes,Élèves|male,Studenten,Gli Studenti,Estudantes
+TEAMNAME_NOUN_MAGE1,Волшебники,,Brujos,Sorciers|male,Hexenmeister,I Maghi,Magos|male
 TEAMNAME_NOUN_MAGE2,Оккультисты,,Ocultistas,Occultistes|male,Okkultisten,Gli Occultisti,Ocultistas
-TEAMNAME_NOUN_MAGE3,Волшебники,,Magos,Magiciens|male,Magier,I Prestigiatori,Mágicos
-TEAMNAME_NOUN_MAGE4,Заклинания пращники,,Lanzahechizos,Enchanteurs|male,Zauberwirker,I Lanciaincantesimi,Encantadores
-TEAMNAME_NOUN_MAGE5,Сбор,,Taumaturgos,Initiés|male,Versammelten,Gli Adunatori,Compiladores
-TEAMNAME_NOUN_MAGE6,Знай все это,,Sabiondos,Prétentieux|male,Besserwisser,I Saputelli,Sabe-Tudo
-TEAMNAME_NOUN_MAGE7,Книжные черви,,Lectores,Bibliophiles|male,Leseratten,I Topi di Biblioteca,Leitores
-TEAMNAME_NOUN_MAGE8,Колдуны,,Hechiceros,Sorceleurs|male,Zauberer,Gli Stregoni,Feiticeiros
-TEAMNAME_NOUN_TANK0,Скалы,,Pedruscos,Cailloux|male,Steine,I Sassi,Pedras
-TEAMNAME_NOUN_TANK1,Чонкс,,Zampabollos,Parpaings|male,Klumpen,I Corpulenti,Pedaços
-TEAMNAME_NOUN_TANK2,Защитники,,Defensores,Défenseurs|male,Verteidiger,I Difensori,Defensores
-TEAMNAME_NOUN_TANK3,Сальные задницы,,Tragaldabas,Lardons|male,Fettwanste,I Lardosi,Rechonchudos
-TEAMNAME_NOUN_TANK4,Чабберы,,Tragones,Enrobés|male,Klöße,I Paffutelli,Gordurosos
-TEAMNAME_NOUN_TANK5,Кирпичные стены,,Muros,Murs|male,Ziegelmauern,I Fortini,Muralhas
-TEAMNAME_NOUN_TANK6,Полузащитники,,Armarios,Protecteurs|male,Linebacker,I Centravanti,Zagueiros
-TEAMNAME_NOUN_TANK7,Танки,,Tanques,Tanks|male,Panzer,I Carrarmati,Tanques
-TEAMNAME_NOUN_TANK8,Большие мальчики,,Grandullones,Gros tas|male,Supertypen,I Ragazzoni,Garotões
-TEAMNAME_NOUN_TANK9,Толстяки,,Gordinflones,Bouboules|male,Dickerchen,I Grassi,Gorduchos
-TEAMNAME_NOUN_TANK10,Буханки,,Holgazanes,Miches|female,Moppel,I Manzi,Gordinhos
-TEAMNAME_NOUN_TANK11,Комки,,Gandules,Blocs|male,Bullen,I Bitorzoli,Caroços
-TEAMNAME_NOUN_TANK12,Черепахи,,Acorazados,Tortues|female,Schildkröten,Le Tartarughe|female,Tartarugas
-TEAMNAME_NOUN_THIEF0,Тени,,Anónimos,Ombres|female,Schatten,Le Ombre|female,Sombras
-TEAMNAME_NOUN_THIEF1,Бандиты,,Bandidos,Bandits|male,Banditen,I Banditi,Bandidos
-TEAMNAME_NOUN_THIEF2,негодяи,,Bribones,Canailles|female,Schurken,I Mascalzoni,Cafajestes
-TEAMNAME_NOUN_THIEF3,Мошенники,,Tramposos,Tricheurs|male,Betrüger,Gli Imbroglioni,Safados
-TEAMNAME_NOUN_THIEF4,Мошенники,,Estafadores,Arnaqueurs|male,Schwindler,I Truffatori,Enganadores
-TEAMNAME_NOUN_THIEF5,Предатели,,Traidores,Traîtres|male,Verräter,I Pugnalatori,Apunhaladores
-TEAMNAME_NOUN_THIEF6,Воры,,Ladrones,Voleurs|male,Diebe,I Ladri,Ladrões
-TEAMNAME_NOUN_THIEF7,Воры,,Rateros,Brigands|male,Schlitzohren,I Rapinatori,Larápios
-TEAMNAME_NOUN_THIEF8,накопители,,Cleptómanos,Thésauriseurs|male,Hamsterer,Gli Accaparratori,Acumuladores
-TEAMNAME_NOUN_THIEF9,Разбойники,,Pícaros,Voyous|male,Gauner,Le Canaglie|female,Rebeldes
-TEAMNAME_NOUN_THIEF10,Мародеры,,Saqueadores,Pillards|male,Plünderer,I Saccheggiatori,Saqueadores
-TEAMNAME_NOUN_THIEF11,Джекеры,,Maleantes,Filous|male,Schufte,I Razziatori,Malfeitores
-TEAMNAME_NOUN_MONK0,единственное число|Додзё,,Monjes,Ceintures noires|female,Samurai,Gli Accademici,singular|Dojo
+TEAMNAME_NOUN_MAGE3,Маги,,Magos,Magiciens|male,Magier,I Prestigiatori,Mágicos|male
+TEAMNAME_NOUN_MAGE4,Метатели Чар,,Lanzahechizos,Enchanteurs|male,Zauberwirker,I Lanciaincantesimi,Encantadores|male
+TEAMNAME_NOUN_MAGE5,Сборище,,Taumaturgos,Initiés|male,Versammelten,Gli Adunatori,Compiladores|male
+TEAMNAME_NOUN_MAGE6,Всезнайки,,Sabiondos,Prétentieux|male,Besserwisser,I Saputelli,Sapientes
+TEAMNAME_NOUN_MAGE7,Книжные черви,,Lectores,Bibliophiles|male,Leseratten,I Topi di Biblioteca,Leitores|male
+TEAMNAME_NOUN_MAGE8,Чернокнижники,,Hechiceros,Sorceleurs|male,Zauberer,Gli Stregoni,Feiticeiros|male
+TEAMNAME_NOUN_TANK0,Булыжники,,Pedruscos,Cailloux|male,Steine,I Sassi,Pedras|female
+TEAMNAME_NOUN_TANK1,Толстяки,,Zampabollos,Parpaings|male,Klumpen,I Corpulenti,Pedaços|male
+TEAMNAME_NOUN_TANK2,Защитники,,Defensores,Défenseurs|male,Verteidiger,I Difensori,Defensores|male
+TEAMNAME_NOUN_TANK3,Жирдяи,,Tragaldabas,Lardons|male,Fettwanste,I Lardosi,Rechonchudos|male
+TEAMNAME_NOUN_TANK4,Пухляши,,Tragones,Enrobés|male,Klöße,I Paffutelli,Gordurosos|male
+TEAMNAME_NOUN_TANK5,Стены,,Muros,Murs|male,Ziegelmauern,I Fortini,Muralhas|female
+TEAMNAME_NOUN_TANK6,Линейные,,Armarios,Protecteurs|male,Linebacker,I Centravanti,Zagueiros|male
+TEAMNAME_NOUN_TANK7,Танки,,Tanques,Tanks|male,Panzer,I Carrarmati,Tanques|male
+TEAMNAME_NOUN_TANK8,Здоровяки,,Grandullones,Gros tas|male,Supertypen,I Ragazzoni,Garotões|male
+TEAMNAME_NOUN_TANK9,Ватники,,Gordinflones,Bouboules|male,Dickerchen,I Grassi,Gorduchos|male
+TEAMNAME_NOUN_TANK10,Булки,,Holgazanes,Miches|female,Moppel,I Manzi,Gordinhos|male
+TEAMNAME_NOUN_TANK11,Болваны,,Gandules,Blocs|male,Bullen,I Bitorzoli,Caroços|male
+TEAMNAME_NOUN_TANK12,Черепахи,,Acorazados,Tortues|female,Schildkröten,Le Tartarughe|female,Tartarugas|female
+TEAMNAME_NOUN_THIEF0,Тени,,Anónimos,Ombres|female,Schatten,Le Ombre|female,Sombras|female
+TEAMNAME_NOUN_THIEF1,Бандиты,,Bandidos,Bandits|male,Banditen,I Banditi,Bandidos|male
+TEAMNAME_NOUN_THIEF2,Мерзавцы,,Bribones,Canailles|female,Schurken,I Mascalzoni,Cafajestes|male
+TEAMNAME_NOUN_THIEF3,Жулики,,Tramposos,Tricheurs|male,Betrüger,Gli Imbroglioni,Safados|male
+TEAMNAME_NOUN_THIEF4,Мошенники,,Estafadores,Arnaqueurs|male,Schwindler,I Truffatori,Enganadores|male
+TEAMNAME_NOUN_THIEF5,Предатели,,Traidores,Traîtres|male,Verräter,I Pugnalatori,Apunhaladores|male
+TEAMNAME_NOUN_THIEF6,Воры,,Ladrones,Voleurs|male,Diebe,I Ladri,Ladrões|male
+TEAMNAME_NOUN_THIEF7,Грабители,,Rateros,Brigands|male,Schlitzohren,I Rapinatori,Larápios|male
+TEAMNAME_NOUN_THIEF8,Хранители,,Cleptómanos,Thésauriseurs|male,Hamsterer,Gli Accaparratori,Acumuladores|male
+TEAMNAME_NOUN_THIEF9,Плуты,,Pícaros,Voyous|male,Gauner,Le Canaglie|female,Rebeldes
+TEAMNAME_NOUN_THIEF10,Мародёры,,Saqueadores,Pillards|male,Plünderer,I Saccheggiatori,Saqueadores|male
+TEAMNAME_NOUN_THIEF11,Угонщики,,Maleantes,Filous|male,Schufte,I Razziatori,Malfeitores|male
+TEAMNAME_NOUN_MONK0,singular|Додзё,,Monjes,Ceintures noires|female,Samurai,Gli Accademici,Monges|male
 TEAMNAME_NOUN_MONK1,Чакры,,Chakras,Chakras|male,Chakras,I Chakra,Chakras
-TEAMNAME_NOUN_MONK2,Лотосы,,Lotos,Lotus|male,Lotusblüten,I Loti,Lótus
-TEAMNAME_NOUN_MONK3,Летающие кулаки,,Golpes,Poings volants|male,Fliegenden Fäuste,I Pugni volanti,Punhos Voadores
-TEAMNAME_NOUN_MONK4,Существа,,Seres,Êtres|male,Wesen,Gli Esseri,Seres
-TEAMNAME_NOUN_MONK5,буддисты,,Budistas,Bouddhistes|male,Buddhisten,I Buddisti,Budistas
-TEAMNAME_NOUN_MONK6,Мастера боевых искусств,,Ascetas,Artistes martiaux|male,Kampfkünstler,I Maestri di Arti Marziali,Artistas Marciais
-TEAMNAME_NOUN_MONK7,Гармонии,,Adeptos,Harmonies|female,Harmoniesuchenden,Gli Armonici,Harmonias
-TEAMNAME_NOUN_MONK8,Пальмы,,Acólitos,Paumes|female,Hände,I Palmi,Palmas
+TEAMNAME_NOUN_MONK2,Лотосы,,Lotos,Lotus|male,Lotusblüten,I Loti,Lótus|female
+TEAMNAME_NOUN_MONK3,Летающие Кулаки,,Golpes,Poings volants|male,Fliegenden Fäuste,I Pugni volanti,Punhos Voadores|male
+TEAMNAME_NOUN_MONK4,Существа,,Seres,Êtres|male,Wesen,Gli Esseri,Seres|male
+TEAMNAME_NOUN_MONK5,Буддисты,,Budistas,Bouddhistes|male,Buddhisten,I Buddisti,Budistas
+TEAMNAME_NOUN_MONK6,Боевые Монахи,,Ascetas,Artistes martiaux|male,Kampfkünstler,I Maestri di Arti Marziali,Artistas Marciais
+TEAMNAME_NOUN_MONK7,Гармонии,,Adeptos,Harmonies|female,Harmoniesuchenden,Gli Armonici,Harmonias|female
+TEAMNAME_NOUN_MONK8,Ладони,,Acólitos,Paumes|female,Hände,I Palmi,Palmas|female
 TEAMNAME_NOUN_MONK9,Отшельники,,Ermitaños,Hermites|male,Einsiedler,Gli Eremiti,Eremitas
-TEAMNAME_NOUN_MONK10,единственное число | Секта,,Religiosos,Sectaires|male,Sektenjünger,I Cultisti,singular|Secto
-TEAMNAME_NOUN_MONK11,Шпалы,,Dormilones,Dormeurs|male,Schläfer,I Dormienti,Dorminhocos
-TEAMNAME_NOUN_MONK12,Притчи,,Ejemplos,Paraboles|female,Parabeln,Le Parabole|female,Parábolas
-TEAMNAME_NOUN_DRUID0,Животные,,Animales,Animaux|male,Tiere,Gli Animali,Animais
-TEAMNAME_NOUN_DRUID1,Музыканты,,Músicos,Musiciens|male,Musiker,I Musicisti,Músicos
-TEAMNAME_NOUN_DRUID2,Смотрители зоопарка,,Cuidadores,Amis des bêtes|male,Zoowärter,I Custodi dello Zoo,Zoólogos
-TEAMNAME_NOUN_DRUID3,единственное число|банда,,Colegas,Malfrats|male,Grobiane,Le Cosche|female,singular|Gangue
-TEAMNAME_NOUN_DRUID4,Коллективный,,Hermanos,Associés|male,Pazifisten,I Collettivi,Coletivo
+TEAMNAME_NOUN_MONK10,singular|Секта,,Religiosos,Sectaires|male,Sektenjünger,I Cultisti,Sectários|male
+TEAMNAME_NOUN_MONK11,Спящие,,Dormilones,Dormeurs|male,Schläfer,I Dormienti,Dorminhocos|male
+TEAMNAME_NOUN_MONK12,Притчи,,Ejemplos,Paraboles|female,Parabeln,Le Parabole|female,Parábolas|female
+TEAMNAME_NOUN_DRUID0,Звери,,Animales,Animaux|male,Tiere,Gli Animali,Animais|male
+TEAMNAME_NOUN_DRUID1,Музыканты,,Músicos,Musiciens|male,Musiker,I Musicisti,Músicos|male
+TEAMNAME_NOUN_DRUID2,Зоологи,,Cuidadores,Amis des bêtes|male,Zoowärter,I Custodi dello Zoo,Zoólogos|male
+TEAMNAME_NOUN_DRUID3,singular|Стая,,Colegas,Malfrats|male,Grobiane,Le Cosche|female,Colegas
+TEAMNAME_NOUN_DRUID4,Община,,Hermanos,Associés|male,Pazifisten,I Collettivi,Coletivo|male
 TEAMNAME_NOUN_DRUID5,Хиппи,,Hippies,Hippies|male,Hippies,Gli Hippie,Hippies
-TEAMNAME_NOUN_DRUID6,оборотни,,Cambiaformas,Métamorphes|male,Gestaltwandler,I Mutaforma,Metamorfos
-TEAMNAME_NOUN_DRUID7,Твари,,Bichos,Créatures|female,Viecher,Le Creaturine|female,Criaturas
-TEAMNAME_NOUN_DRUID8,Певцы,,Cantantes,Chanteurs|male,Sänger,I Cantanti,Cantores
-TEAMNAME_NOUN_DRUID9,единственное число|Хор,,Coristas,Choristes|female,Chormitglieder,I Coristi,singular|Coro
-TEAMNAME_NOUN_DRUID10,Цветочные Дети,,Pimpollos,Pacifistes|male,Blumenkinder,I Figli dei Fiori,Floristas
-TEAMNAME_NOUN_DRUID11,Друзья,,Amigos,Amis|male,Freunde,Gli Amici,Amigos
-TEAMNAME_NOUN_PSYCHIC0,Ясновидящие,,Clarividentes,Éclairés|male,Hellseher,I Chiaroveggenti,Clarividentes
-TEAMNAME_NOUN_PSYCHIC1,Провидцы,,Videntes,Prophètes|male,Seher,Gli Indovini,Adivinhadores
-TEAMNAME_NOUN_PSYCHIC2,Глаза,,Ojos,Yeux|male,Augen,Gli Occhi,Olhos
+TEAMNAME_NOUN_DRUID6,Оборотни,,Cambiaformas,Métamorphes|male,Gestaltwandler,I Mutaforma,Metamorfos|male
+TEAMNAME_NOUN_DRUID7,Зверушки,,Bichos,Créatures|female,Viecher,Le Creaturine|female,Criaturas|female
+TEAMNAME_NOUN_DRUID8,Певцы,,Cantantes,Chanteurs|male,Sänger,I Cantanti,Cantores|male
+TEAMNAME_NOUN_DRUID9,singular|Хор,,Coristas,Choristes|female,Chormitglieder,I Coristi,Coristas
+TEAMNAME_NOUN_DRUID10,Дети Цветов,,Pimpollos,Pacifistes|male,Blumenkinder,I Figli dei Fiori,Floristas
+TEAMNAME_NOUN_DRUID11,Друзья,,Amigos,Amis|male,Freunde,Gli Amici,Amigos|male
+TEAMNAME_NOUN_PSYCHIC0,Ясновидцы,,Clarividentes,Éclairés|male,Hellseher,I Chiaroveggenti,Clarividentes
+TEAMNAME_NOUN_PSYCHIC1,Провидцы,,Videntes,Prophètes|male,Seher,Gli Indovini,Adivinhadores|male
+TEAMNAME_NOUN_PSYCHIC2,Очи,,Ojos,Yeux|male,Augen,Gli Occhi,Olhos|male
 TEAMNAME_NOUN_PSYCHIC3,Гадалки,,Adivinos,Cartomanciens|male,Wahrsager,I Cartomanti,Videntes
-TEAMNAME_NOUN_PSYCHIC4,Манипуляторы,,Manipuladores,Manipulateurs|male,Drahtzieher,I Manipolatori,Manipuladores
-TEAMNAME_NOUN_PSYCHIC5,Читатели мыслей,,Pitonisos,Télépathes|male,Gedankenleser,I Sensitivi,Leitores de Mentes
-TEAMNAME_NOUN_PSYCHIC6,Мошенники,,Timadores,Mystificateurs|male,Trickbetrüger,I Truffatori,Golpistas
+TEAMNAME_NOUN_PSYCHIC4,Манипуляторы,,Manipuladores,Manipulateurs|male,Drahtzieher,I Manipolatori,Manipuladores|male
+TEAMNAME_NOUN_PSYCHIC5,Читатели Мыслей,,Pitonisos,Télépathes|male,Gedankenleser,I Sensitivi,Leitores de Mentes|male
+TEAMNAME_NOUN_PSYCHIC6,Аферисты,,Timadores,Mystificateurs|male,Trickbetrüger,I Truffatori,Golpistas
 TEAMNAME_NOUN_PSYCHIC7,Толкачи,,Profetas,Gratte-papiers|male,Löffelverbieger,Gli Spacciatori,Traficantes
-TEAMNAME_NOUN_PSYCHIC8,Карманные считыватели,,Augures,Chiromanciens|male,Handleser,I Chiromanti,Leitores de Mãos
+TEAMNAME_NOUN_PSYCHIC8,Хироманты,,Augures,Chiromanciens|male,Handleser,I Chiromanti,Leitores de Mãos|male
 TEAMNAME_NOUN_PSYCHIC9,Телепаты,,Telépatas,Spiritistes|male,Telepathen,I Telepati,Telepatas
-TEAMNAME_NOUN_BUTCHER0,Грильмастера,,Cocineros,Pros du grill|male,Grillmeister,I Maestri della Griglia,Mestres do Churrasco
-TEAMNAME_NOUN_BUTCHER1,Обжоры,,Glotones,Gloutons|male,Vielfraße,I Ghiottoni,Glutões
-TEAMNAME_NOUN_BUTCHER2,Желудки,,Estómagos,Estomacs|male,Schlemmerer,Gli Stomaci,Estômagos
-TEAMNAME_NOUN_BUTCHER3,Свиньи,,Comilones,Porcelets|male,Schweine,I Porci,Porcos
-TEAMNAME_NOUN_BUTCHER4,Поросята,,Lechones,Cochons|male,Schweinchen,I Suini,Porquinhos
-TEAMNAME_NOUN_BUTCHER5,Мясники,,Carniceros,Bouchers|male,Metzger,I Macellai,Açougueiros
-TEAMNAME_NOUN_BUTCHER6,Дьяволы,,Demonios,Démons|male,Teufel,I Diavoli,Diabos
-TEAMNAME_NOUN_BUTCHER7,Чоп-топы,,Charcuteros,Côtelettes|female,Chop-Tops,I Decapitatori,Canibais
-TEAMNAME_NOUN_BUTCHER8,единственное число|Рой,,Salchicheros,Puants|male,Insekten,Le Orde|female,singular|Enxame
-TEAMNAME_NOUN_BUTCHER9,Летает,,Matarifes,Mouches|female,Fliegen,Le Mosche|female,Moscas
-TEAMNAME_NOUN_BUTCHER10,Пукерс,,Destripadores,Vomitos|male,Schwelger,I Vomitatori,Vomitadores
-TEAMNAME_NOUN_BUTCHER11,Запои,,Zampones,Boulimique|male,Leckermäulchen,Gli Ingozzatori,Descontrolados
+TEAMNAME_NOUN_BUTCHER0,Мастера Гриля,,Cocineros,Pros du grill|male,Grillmeister,I Maestri della Griglia,Mestres do Churrasco
+TEAMNAME_NOUN_BUTCHER1,Обжоры,,Glotones,Gloutons|male,Vielfraße,I Ghiottoni,Glutões|male
+TEAMNAME_NOUN_BUTCHER2,Желудки,,Estómagos,Estomacs|male,Schlemmerer,Gli Stomaci,Estômagos|male
+TEAMNAME_NOUN_BUTCHER3,Свиньи,,Comilones,Porcelets|male,Schweine,I Porci,Porcos|male
+TEAMNAME_NOUN_BUTCHER4,Поросята,,Lechones,Cochons|male,Schweinchen,I Suini,Porquinhos|male
+TEAMNAME_NOUN_BUTCHER5,Мясники,,Carniceros,Bouchers|male,Metzger,I Macellai,Açougueiros|male
+TEAMNAME_NOUN_BUTCHER6,Бесы,,Demonios,Démons|male,Teufel,I Diavoli,Diabos|male
+TEAMNAME_NOUN_BUTCHER7,Отбивные,,Charcuteros,Côtelettes|female,Chop-Tops,I Decapitatori,Canibais
+TEAMNAME_NOUN_BUTCHER8,singular|Рой,,Salchicheros,Puants|male,Insekten,Le Orde|female,Insetos|male
+TEAMNAME_NOUN_BUTCHER9,Мухи,,Matarifes,Mouches|female,Fliegen,Le Mosche|female,Moscas|female
+TEAMNAME_NOUN_BUTCHER10,Блюющие,,Destripadores,Vomitos|male,Schwelger,I Vomitatori,Vomitadores|male
+TEAMNAME_NOUN_BUTCHER11,Обжираллы,,Zampones,Boulimique|male,Leckermäulchen,Gli Ingozzatori,Descontrolados|male
 TEAMNAME_NOUN_NECROMANCER0,Зомби,,Zombis,Zombies|male,Zombies,Gli Zombie,Zumbis
-TEAMNAME_NOUN_NECROMANCER1,Скелеты,,Esqueletos,Squelettes|male,Skelette,Gli Scheletri,Esqueletos
-TEAMNAME_NOUN_NECROMANCER2,Пиявки,,Chupasangres,Sangsues|female,Blutsauger,Le Sanguisughe|female,Sanguessugas
-TEAMNAME_NOUN_NECROMANCER3,лохи,,Vampiros,Suceurs|male,Absauger,I Parassiti,Sugadores
-TEAMNAME_NOUN_NECROMANCER4,Мертвые кошки,,Gatos Muertos,Morts-vivants|male,Toten Katzen,I Gatti Morti,Gatos Mortos
-TEAMNAME_NOUN_NECROMANCER5,Трупы,,Difuntos,Carcasses|female,Leichen,I Corpi,Corpos
-TEAMNAME_NOUN_NECROMANCER6,Трупы,,Cadáveres,Cadavres|male,Kadaver,I Cadaveri,Cadáveres
-TEAMNAME_NOUN_NECROMANCER7,неудачники,,Inadaptados,Marginaux|male,Außenseiter,Gli Emarginati,Desajustados
-TEAMNAME_NOUN_NECROMANCER8,Личинки,,Gusanos,Asticots|male,Maden,Le Larve|female,Vermes
+TEAMNAME_NOUN_NECROMANCER1,Скелеты,,Esqueletos,Squelettes|male,Skelette,Gli Scheletri,Esqueletos|male
+TEAMNAME_NOUN_NECROMANCER2,Пиявки,,Chupasangres,Sangsues|female,Blutsauger,Le Sanguisughe|female,Sanguessugas|female
+TEAMNAME_NOUN_NECROMANCER3,Сосуны,,Vampiros,Suceurs|male,Absauger,I Parassiti,Sugadores|male
+TEAMNAME_NOUN_NECROMANCER4,Мёртвые Коты,,Gatos Muertos,Morts-vivants|male,Toten Katzen,I Gatti Morti,Gatos Mortos|male
+TEAMNAME_NOUN_NECROMANCER5,Трупы,,Difuntos,Carcasses|female,Leichen,I Corpi,Corpos|male
+TEAMNAME_NOUN_NECROMANCER6,Останки,,Cadáveres,Cadavres|male,Kadaver,I Cadaveri,Cadáveres|male
+TEAMNAME_NOUN_NECROMANCER7,Отбросы,,Inadaptados,Marginaux|male,Außenseiter,Gli Emarginati,Desajustados|male
+TEAMNAME_NOUN_NECROMANCER8,Личинки,,Gusanos,Asticots|male,Maden,Le Larve|female,Vermes|male
 TEAMNAME_NOUN_NECROMANCER9,Культисты,,Sectarios,Fanatiques|male,Kultisten,I Seguaci,Cultistas
-TEAMNAME_NOUN_NECROMANCER10,Призраки,,Espectros,Revenants|male,Gespenster,Gli Spettri,Assustados
-TEAMNAME_NOUN_TINKERER0,Роботы,,Robots,Robots|male,Roboter,I Robot,Robôs
-TEAMNAME_NOUN_TINKERER1,Ученые,,Científicos,Scientifiques|male,Wissenschaftler,Gli Scienziati,Cientistas
-TEAMNAME_NOUN_TINKERER2,Рабочие,,Trabajadores,Travailleurs|male,Arbeiter,Gli Operai,Trabalhadores
-TEAMNAME_NOUN_TINKERER3,Инструменты,,Aparatos,Outils|male,Werkzeuge,Gli Strumenti,Ferramentas
-TEAMNAME_NOUN_TINKERER4,Бомбы,,Explosivos,Bombes|female,Bomben,Le Bombe|female,Bombas
-TEAMNAME_NOUN_TINKERER5,Искры,,Electricistas,Étincelles|female,Funken,I Bagliori,Fagulhas
-TEAMNAME_NOUN_TINKERER6,Автоматы,,Autómatas,Automates|male,Maschinen,Gli Automi,Autômatos
-TEAMNAME_NOUN_TINKERER7,процессоры,,Artilugios,Processeurs|male,Prozessoren,Le CPU|female,CPUs
-TEAMNAME_NOUN_TINKERER8,Батареи,,Circuitos,Batteries|female,Batterien,I Generatori,Pilhas
-TEAMNAME_NOUN_TINKERER9,Изобретатели,,Inventores,Inventeurs|male,Erfinder,Gli Inventori,Inventores
-TEAMNAME_NOUN_TINKERER10,Ботаники,,Frikis,Nerds|male,Nerds,I Nerd,Nerds
+TEAMNAME_NOUN_NECROMANCER10,Привидения,,Espectros,Revenants|male,Gespenster,Gli Spettri,Espectros|male
+TEAMNAME_NOUN_TINKERER0,Роботы,,Robots,Robots|male,Roboter,I Robot,Robôs|male
+TEAMNAME_NOUN_TINKERER1,Учёные,,Científicos,Scientifiques|male,Wissenschaftler,Gli Scienziati,Cientistas
+TEAMNAME_NOUN_TINKERER2,Рабочие,,Trabajadores,Travailleurs|male,Arbeiter,Gli Operai,Trabalhadores|male
+TEAMNAME_NOUN_TINKERER3,Инструменты,,Aparatos,Outils|male,Werkzeuge,Gli Strumenti,Ferramentas|female
+TEAMNAME_NOUN_TINKERER4,Бомбы,,Explosivos,Bombes|female,Bomben,Le Bombe|female,Bombas|female
+TEAMNAME_NOUN_TINKERER5,Искры,,Electricistas,Étincelles|female,Funken,I Bagliori,Fagulhas|female
+TEAMNAME_NOUN_TINKERER6,Автоматы,,Autómatas,Automates|male,Maschinen,Gli Automi,Autômatos|male
+TEAMNAME_NOUN_TINKERER7,Процессоры,,Artilugios,Processeurs|male,Prozessoren,Le CPU|female,CPUs|female
+TEAMNAME_NOUN_TINKERER8,Батарейки,,Circuitos,Batteries|female,Batterien,I Generatori,Pilhas|female
+TEAMNAME_NOUN_TINKERER9,Изобретатели,,Inventores,Inventeurs|male,Erfinder,Gli Inventori,Inventores|male
+TEAMNAME_NOUN_TINKERER10,Ботаны,,Frikis,Nerds|male,Nerds,I Nerd,Nerds
 TEAMNAME_NOUN_TINKERER11,Гики,,Empollones,Geeks|male,Streber,I Secchioni,Geeks
-TEAMNAME_NOUN_COLORLESS0,Кошки,,Gatos,Chats|male,Katzen,I Gatti,Gatos
-TEAMNAME_NOUN_COLORLESS1,Мальчики,,Fulanos,Garçons|male,Jungen,I Ragazzi,Meninos
-TEAMNAME_NOUN_COLORLESS2,Девочки,,Mendas,Filles|female,Mädchen,Le Ragazze|female,Meninas
-TEAMNAME_NOUN_JESTER0,Джокеры,,Bromistas,Bouffons|male,Witzbolde,I Saltimbanchi,Curingas
+TEAMNAME_NOUN_COLORLESS0,Коты,,Gatos,Chats|male,Katzen,I Gatti,Gatos|male
+TEAMNAME_NOUN_COLORLESS1,Мальчики,,Fulanos,Garçons|male,Jungen,I Ragazzi,Meninos|male
+TEAMNAME_NOUN_COLORLESS2,Девочки,,Mendas,Filles|female,Mädchen,Le Ragazze|female,Meninas|female
+TEAMNAME_NOUN_JESTER0,Шутники,,Bromistas,Bouffons|male,Witzbolde,I Saltimbanchi,Piadistas
 TEAMNAME_NOUN_JESTER1,Тролли,,Liantes,Trolls|male,Trolle,I Troll,Trolls
-TEAMNAME_NOUN_JESTER2,Дети,,Jóvenes,Enfants|male,Kinder,I Bimbi,Crianças
-TEAMNAME_NOUN_JESTER3,Звезды,,Artistas,Étoiles|female,Sterne,Le Stelle|female,Estrelas
-TEAMNAME_NOUN_JESTER4,Юмористы,,Comediantes,Comiques|male,Comedians,I Comici,Comediantes
-TEAMNAME_NOUN_JESTER5,Клоуны,,Payasos,Clowns|male,Clowns,I Clown,Palhaços
-TEAMNAME_NOUN_JESTER6,шуты,,Bufones,Fous|male,Narren,I Buffoni,Bobos da Corte
-TEAMNAME_NOUN_JESTER7,Мимы,,Mimos,Mimes|male,Pantomimen,I Mimi,Mímicos
-TEAMNAME_NOUN_JESTER8,Подстановочные знаки,,Comodines,Zinzolins|male,Joker,I Jolly,Curingas
-TEAMNAME_NOUN_JESTER9,Радуги,,Arcoíris,Arcs-en-ciel|male,Regenbögen,Gli Arcobaleni,Arcos-Íris
-TEAMNAME_NOUN_JESTER10,Балатрос,,Augustos,Balatros|male,Balatros,I Ciarlatani,Bufões
-TEAMNAME_NOUN_JESTER11,Бозос,,Idiotas,Guignols|male,Dussel,I Pagliacci,Bozos
+TEAMNAME_NOUN_JESTER2,Малыши,,Jóvenes,Enfants|male,Kinder,I Bimbi,Crianças|female
+TEAMNAME_NOUN_JESTER3,Звёзды,,Artistas,Étoiles|female,Sterne,Le Stelle|female,Estrelas|female
+TEAMNAME_NOUN_JESTER4,Комики,,Comediantes,Comiques|male,Comedians,I Comici,Comediantes
+TEAMNAME_NOUN_JESTER5,Клоуны,,Payasos,Clowns|male,Clowns,I Clown,Palhaços|male
+TEAMNAME_NOUN_JESTER6,Шуты,,Bufones,Fous|male,Narren,I Buffoni,Bobos da Corte|male
+TEAMNAME_NOUN_JESTER7,Мимы,,Mimos,Mimes|male,Pantomimen,I Mimi,Mímicos|male
+TEAMNAME_NOUN_JESTER8,Джокеры,,Comodines,Zinzolins|male,Joker,I Jolly,Curingas
+TEAMNAME_NOUN_JESTER9,Радуги,,Arcoíris,Arcs-en-ciel|male,Regenbögen,Gli Arcobaleni,Arcos-Íris|male
+TEAMNAME_NOUN_JESTER10,Балатро,,Augustos,Balatros|male,Balatros,I Ciarlatani,Bufões|male
+TEAMNAME_NOUN_JESTER11,Клоуны,,Idiotas,Guignols|male,Dussel,I Pagliacci,Bozos|male
 TEAMNAME_NOUN_MISC0,Чуваки,,Tipos,Types|male,Kerle,I Tipi,Caras
-TEAMNAME_NOUN_MISC1,единственное число|Команда,,Socios,Coéquipiers|male,Teamplayer,Le Squadre|female,singular|Equipe
-TEAMNAME_NOUN_MISC2,Кошки,,Gatos,Chats|male,Katzen,I Gatti,Gatos
-TEAMNAME_NOUN_MISC3,единственное число|банда,,Colegas,Gangsters|male,Grobiane,Gli Schieramenti,singular|Gangue
-TEAMNAME_NOUN_MISC4,Котята,,Gatitos,Chatons|male,Kätzchen,I Gattini,Gatinhos
-TEAMNAME_NOUN_MISC5,Киски,,Mininos,Chattes|female,Muschis,Le Gattine|female,Filhotinhos de Gato
-TEAMNAME_NOUN_MISC6,Меховые комочки,,Michinos,Boules de poils|female,Fellknäuel,I Pelosetti,Bolas de Pelo
-TEAMNAME_NOUN_MISC7,флафферы,,Félidos,Poilus|male,Fluffis,I Morbidoni,Velas
-TEAMNAME_NOUN_MISC8,Звонящие кошки,,Llamagatos,Coquettes|female,Schnatterer,I Fischiatori,Conquistadores
-TEAMNAME_NOUN_MISC9,Гатос,,Felinos,Gatos|male,Gatos,I Gatos,Gatitos
+TEAMNAME_NOUN_MISC1,singular|Команда,,Socios,Coéquipiers|male,Teamplayer,Le Squadre|female,Membros|male
+TEAMNAME_NOUN_MISC2,Коты,,Gatos,Chats|male,Katzen,I Gatti,Gatos|male
+TEAMNAME_NOUN_MISC3,singular|Банда,,Colegas,Gangsters|male,Grobiane,Gli Schieramenti,Tratantes
+TEAMNAME_NOUN_MISC4,Котята,,Gatitos,Chatons|male,Kätzchen,I Gattini,Filhotes
+TEAMNAME_NOUN_MISC5,Кисы,,Mininos,Chattes|female,Muschis,Le Gattine|female,Gatinhos|male
+TEAMNAME_NOUN_MISC6,Пушистики,,Michinos,Boules de poils|female,Fellknäuel,I Pelosetti,Bolas de Pelo|male
+TEAMNAME_NOUN_MISC7,Лохматики,,Félidos,Poilus|male,Fluffis,I Morbidoni,Velas|female
+TEAMNAME_NOUN_MISC8,Кошатники,,Llamagatos,Coquettes|female,Schnatterer,I Fischiatori,Conquistadores|male
+TEAMNAME_NOUN_MISC9,Гатос,,Felinos,Gatos|male,Gatos,I Gatos,Felinos|male

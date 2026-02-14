@@ -5,8 +5,8 @@ PRONOUN_HE_S_LOWER,он,replaces {he's} in other strings,él,,er ist,lui è,ele 
 PRONOUN_HE_S_UPPER,Он,replaces {He's} in other strings,Él,,Er ist,Lui è,Ele está
 PRONOUN_HIS_LOWER,его,replaces {his} in other strings,su,,sein,suo,dele
 PRONOUN_HIS_UPPER,Его,replaces {His} in other strings,Su,,Sein,Suo,Dele
-PRONOUN_HIM_LOWER,он,replaces {him} in other strings,él,lui,ihn,lui,a ele
-PRONOUN_HIM_UPPER,Он,replaces {Him} in other strings,Él,Lui,Ihn,Lui,A ele
+PRONOUN_HIM_LOWER,его,replaces {him} in other strings,él,lui,ihn,lui,a ele
+PRONOUN_HIM_UPPER,Его,replaces {Him} in other strings,Él,Lui,Ihn,Lui,A ele
 PRONOUN_HIMSELF_LOWER,сам,replaces {himself} in other strings,él,,er selbst,se stesso,si mesmo
 PRONOUN_HIMSELF_UPPER,Сам,replaces {Himself} in other strings,Él,,Er selbst,Se stesso,Si mesmo
 ,,,,,,,
@@ -14,12 +14,12 @@ PRONOUN_SHE_LOWER,она,replaces {he} in other strings,ella,elle,sie,lei,ela
 PRONOUN_SHE_UPPER,Она,replaces {He} in other strings,Ella,Elle,Sie,Lei,Ela
 PRONOUN_SHE_S_LOWER,она,replaces {he's} in other strings,ella,,sie ist,lei è,ela está
 PRONOUN_SHE_S_UPPER,Она,replaces {He's} in other strings,Ella,,Sie ist,Lei è,Ela está
-PRONOUN_HER_POSSESSIVE_LOWER,она,replaces {his} in other strings,su,,ihr,suo,dela
-PRONOUN_HER_POSSESSIVE_UPPER,Ее,replaces {His} in other strings,Su,,Ihr,suo,Dela
-PRONOUN_HER_LOWER,она,replaces {him} in other strings,su,elle,sie,lei,dela
-PRONOUN_HER_UPPER,Ее,replaces {Him} in other strings,Su,Elle,Sie,lei,Dela
+PRONOUN_HER_POSSESSIVE_LOWER,её,replaces {his} in other strings,su,,ihr,suo,dela
+PRONOUN_HER_POSSESSIVE_UPPER,Её,replaces {His} in other strings,Su,,Ihr,suo,Dela
+PRONOUN_HER_LOWER,её,replaces {him} in other strings,su,elle,sie,lei,dela
+PRONOUN_HER_UPPER,Её,replaces {Him} in other strings,Su,Elle,Sie,lei,Dela
 PRONOUN_HERSELF_LOWER,сама,replaces {himself} in other strings,ella,,sie selbst,se stessa,si mesma
-PRONOUN_HERSELF_UPPER,Себя,replaces {Himself} in other strings,Ella,,Sie selbst,Se stessa,Si mesma
+PRONOUN_HERSELF_UPPER,Сама,replaces {Himself} in other strings,Ella,,Sie selbst,Se stessa,Si mesma
 ,,,,,,,
 PRONOUN_THEY_LOWER,они,replaces {he} in other strings,él,iel,er,loro,eles
 PRONOUN_THEY_UPPER,Они,replaces {He} in other strings,Él,Iel,Er,Loro,Eles
@@ -27,15 +27,15 @@ PRONOUN_THEYRE_LOWER,они,replaces {he's} in other strings,él,,er ist,loro so
 PRONOUN_THEYRE_UPPER,Они,replaces {He's} in other strings,Él,,Er ist,Loro sono,Eles estão
 PRONOUN_THEIR_LOWER,их,replaces {his} in other strings,él,,sein,loro,deles
 PRONOUN_THEIR_UPPER,Их,replaces {His} in other strings,Él,,Sein,loro,Deles
-PRONOUN_THEM_LOWER,они,replaces {him} in other strings,él,ellui,ihn,loro,a eles
-PRONOUN_THEM_UPPER,Они,replaces {Him} in other strings,Él,Ellui,Ihn,loro,A eles
-PRONOUN_THEMSELF_LOWER,себя,replaces {himself} in other strings,él,,er selbst,loro stessi,eles mesmos
+PRONOUN_THEM_LOWER,их,replaces {him} in other strings,él,ellui,ihn,loro,a eles
+PRONOUN_THEM_UPPER,Их,replaces {Him} in other strings,Él,Ellui,Ihn,loro,A eles
+PRONOUN_THEMSELF_LOWER,сами,replaces {himself} in other strings,él,,er selbst,loro stessi,eles mesmos
 PRONOUN_THEMSELF_UPPER,Сами,replaces {Himself} in other strings,Él,,Er selbst,Loro stessi,Eles mesmos
 ,,,,,,,
-CATNAME_UNKNOWN_NAME,Неизвестно,replaces {Catname} in other strings if there was no cat specified (usually an error message),Desconocido,Inconnu,Unbekannt,Sconosciuto,Desconhecido
-CATNAME_UNKNOWN_NAME_POSSESSIVE,Неизвестный,replaces {Catname's} in other strings if there was no cat specified (usually an error message),Desconocido,d'Inconnu,Unbekannts,Sconosciuto,de desconhecido
+CATNAME_UNKNOWN_NAME,Неизвестный,replaces {Catname} in other strings if there was no cat specified (usually an error message),Desconocido,Inconnu,Unbekannt,Sconosciuto,Desconhecido
+CATNAME_UNKNOWN_NAME_POSSESSIVE,Неизвестного,replaces {Catname's} in other strings if there was no cat specified (usually an error message),Desconocido,d'Inconnu,Unbekannts,Sconosciuto,de desconhecido
 ,,,,,,,
-CATNAME_POSSESSIVE_FORMAT,{Catname},"(adds an 's onto catname in english, can do whatever in other languages)",{Catname},,{Catname}s,{Catname},de {Catname}
+CATNAME_POSSESSIVE_FORMAT,{Catname}'s,"(adds an 's onto catname in english, can do whatever in other languages)",{Catname},,{Catname}s,{Catname},de {Catname}
 CATNAME_POSSESSIVE_FORMAT_M,,,,,,,
 CATNAME_POSSESSIVE_FORMAT_F,,,,,,,
 CATNAME_POSSESSIVE_FORMAT_N,,,,,,,
