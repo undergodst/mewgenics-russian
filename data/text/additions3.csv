@@ -1,8 +1,8 @@
-﻿KEY,en,notes,sp,fr,de,it,pt-br
-HOUSE_BUTTON_DEFEND,Защищать!,,Defender,Défendre !,Verteidigen!,Difendi!,Defender!
+KEY,en,notes,sp,fr,de,it,pt-br
+HOUSE_BUTTON_DEFEND,Защищай!,,Defender,Défendre !,Verteidigen!,Difendi!,Defender!
 ENDING_CUTSCENE_FIN,Конец?,,¿El fin?,Fin ?,Ende?,La fine?,Fim?
-LEVELUP_OPTION_STATUP,Прокачка!,,¡Aumento de atributo!,Stat+ !,Attribut hoch!,Statistica +!,Atributo +!
+LEVELUP_OPTION_STATUP,Стат+!,,¡Aumento de atributo!,Stat+ !,Attribut hoch!,Statistica +!,Atributo +!
 ITEM_UI_NEW,НОВОЕ,,NUEVO,NOUVEAU,NEU,NUOVO,NOVO
-ITEM_UI_WORN_INDICATOR,w,,d,p,a,ind,g
-CAT_UI_BOX_SHORTCUT_LABEL,КОРОБКА,,CAJA,BOÎTE,BOX,SCATOLA,CAIXA
-KEYWORD_PERMABLIND_DESC,30% вероятность промаха.,,30 % de probabilidad de fallo.,Risques d'échec +30&nbsp;%,"30%ige Wahrscheinlichkeit, dass Angriffe verfehlen.",30% di possibilità di mancare.,30% de chance de errar.
+ITEM_UI_WORN_INDICATOR,н,,d,p,a,ind,g
+CAT_UI_BOX_SHORTCUT_LABEL,ЯЩИК,,CAJA,BOÎTE,BOX,SCATOLA,CAIXA
+KEYWORD_PERMABLIND_DESC,30% шанс промаха.,,30 % de probabilidad de fallo.,Risques d'échec +30&nbsp;%,"30%ige Wahrscheinlichkeit, dass Angriffe verfehlen.",30% di possibilità di mancare.,30% de chance de errar.
