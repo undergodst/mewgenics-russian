@@ -17,27 +17,21 @@ pip install pyinstaller
 
 ```bash
 # Установщик (включает папки data/ и swfs/ внутрь exe)
-pyinstaller install.spec
+pyinstaller --onefile --console --uac-admin --name install_ru install.py
 
 # Деинсталлятор
-pyinstaller uninstall.spec
+pyinstaller --onefile --console --uac-admin --name uninstall_ru uninstall.py
 ```
 
-Готовые файлы будут в `dist/`:
-- `dist/install_ru.exe`
-- `dist/uninstall_ru.exe`
+Разбор флагов:
+`--onefile:` Собирает всё в один EXE-файл.
 
-## Альтернативный способ (без spec файла)
+`--console:` Оставляет окно консоли для отображения процесса и ошибок.
 
-```bash
-# Установщик
-pyinstaller --onefile --console --name install_ru --add-data "data;data" --add-data "swfs;swfs" install.py
+`--uac-admin:` Добавляет запрос прав администратора (необходимо для работы с папками Steam).
 
-# Деинсталлятор
-pyinstaller --onefile --console --name uninstall_ru uninstall.py
-```
-
-> На Windows разделитель в `--add-data` это `;`, на Linux — `:`.
+> Примечание: Мы сознательно не вшиваем папки data/ и >swfs/ внутрь EXE, чтобы пользователь мог видеть >содержимое перевода и легко его обновлять.
+> Папки `data/` и `swfs/` нужны рядом с exe для установки.
 
 ## Структура релиза
 
@@ -54,6 +48,3 @@ mewgenics-ru/
 │   └── [SWF файлы]
 └── README.md
 ```
-
-> Папки `data/` и `swfs/` нужны рядом с exe только если собирать без spec файла.
-> При сборке через spec файл они вшиваются внутрь exe.
