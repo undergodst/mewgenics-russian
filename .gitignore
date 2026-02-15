@@ -1,2 +1,6 @@
 build/
 dist/
+*.gpak
+.opencode/
+*.spec
+__pycache__/
