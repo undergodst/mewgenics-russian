@@ -1,2 +1,4 @@
 .opencode/
 *.gpak
+build/
+dist/
