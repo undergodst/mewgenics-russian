@@ -1,40 +1,51 @@
 #!/usr/bin/env python3
-"""Mewgenics Russian Translation — Uninstaller"""
 
-import os, sys, shutil, winreg
+import os
+import sys
+import shutil
+import winreg
 
-GPAK = 'resources.gpak'
+FOLDERS_TO_REMOVE = ["data", "swfs"]
+GPAK = "resources.gpak"
+EXE_NAME = "Mewgenics.exe"
 
 
 def find_game_path():
-    try:
-        key = winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, r"SOFTWARE\WOW6432Node\Valve\Steam")
-        steam_path = winreg.QueryValueEx(key, "InstallPath")[0]
-        winreg.CloseKey(key)
-    except (OSError, FileNotFoundError):
+    steam_path = None
+    for reg_path in [
+        r"SOFTWARE\WOW6432Node\Valve\Steam",
+        r"SOFTWARE\Valve\Steam",
+    ]:
         try:
-            key = winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, r"SOFTWARE\Valve\Steam")
+            key = winreg.OpenKey(winreg.HKEY_LOCAL_MACHINE, reg_path)
             steam_path = winreg.QueryValueEx(key, "InstallPath")[0]
             winreg.CloseKey(key)
+            break
         except (OSError, FileNotFoundError):
-            return None
+            continue
+
+    if not steam_path:
+        return None
 
     candidates = [os.path.join(steam_path, "steamapps", "common", "Mewgenics")]
 
     vdf = os.path.join(steam_path, "steamapps", "libraryfolders.vdf")
     if os.path.exists(vdf):
-        with open(vdf, 'r', encoding='utf-8', errors='replace') as f:
+        with open(vdf, "r", encoding="utf-8", errors="replace") as f:
             for line in f:
-                line = line.strip().strip('"')
-                if 'path' in line.lower():
+                if '"path"' in line.lower():
                     parts = line.split('"')
                     for p in parts:
                         p = p.strip()
                         if p and os.path.isdir(p):
-                            candidates.append(os.path.join(p, "steamapps", "common", "Mewgenics"))
+                            candidates.append(
+                                os.path.join(p, "steamapps", "common", "Mewgenics")
+                            )
 
     for c in candidates:
-        if os.path.isfile(os.path.join(c, GPAK)):
+        if os.path.isfile(os.path.join(c, EXE_NAME)) or os.path.isfile(
+            os.path.join(c, GPAK)
+        ):
             return c
     return None
 
@@ -45,6 +56,7 @@ def main():
     print("=" * 50)
     print()
 
+    print("[*] Поиск Mewgenics...")
     game_dir = find_game_path()
 
     if game_dir:
@@ -53,22 +65,29 @@ def main():
         print("[!] Автоматически найти не удалось.")
         game_dir = input("    Введите путь к папке Mewgenics: ").strip().strip('"')
 
-    gpak = os.path.join(game_dir, GPAK)
-    bak = gpak + '.bak'
-
-    if not os.path.exists(bak):
-        print("[!] Бэкап не найден. Перевод не был установлен или уже удалён.")
-        print("    Можно проверить целостность файлов через Steam.")
+    if not os.path.isdir(game_dir):
+        print(f"[!] Папка не существует: {game_dir}")
         input("\nНажмите Enter для выхода...")
         return
 
-    print("[*] Восстановление оригинала из бэкапа...")
-    shutil.copy2(bak, gpak)
-    os.remove(bak)
-    print("[+] Готово! Оригинальные файлы восстановлены.")
+    removed = 0
+    for folder in FOLDERS_TO_REMOVE:
+        folder_path = os.path.join(game_dir, folder)
+        if os.path.exists(folder_path):
+            print(f"[*] Удаление {folder}/...")
+            shutil.rmtree(folder_path)
+            print(f"[+] {folder}/ удалена")
+            removed += 1
+
+    if removed > 0:
+        print()
+        print("[+] Перевод удалён!")
+        print("    Игра использует оригинальные файлы из resources.gpak")
+    else:
+        print("[!] Папки data/ и swfs/ не найдены. Перевод не установлен или уже удалён.")
 
     input("\nНажмите Enter для выхода...")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
