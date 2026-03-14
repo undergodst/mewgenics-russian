@@ -113,7 +113,7 @@ def install_folder(folder_name, base_dir, game_dir):
 
 def main():
     print("=" * 50)
-    print("  Mewgenics — Русский перевод v2.1 (установка)")
+    print("  Mewgenics — Русский перевод v3.2.1 (установка)")
     print("=" * 50)
     print()
 
